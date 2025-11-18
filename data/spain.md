@@ -37,6 +37,8 @@
     +34 607 59 74 18
     Pl. San Martín, 10, Centro coworking, 24003 León
 
+    C. de Julián Camarillo, 7, San Blas-Canillejas, 28037 Madrid
+
 6. [Train on tech](https://trainontech.com/)
 
     +34 613 03 29 02
@@ -374,7 +376,7 @@
 74. [LAB TECH Laboratorio Tecnológico de Contenidos Digitales de Castilla y León](https://www.ideva.es/)
 
     +34 983 24 74 01
-    https://www.ideva.es/
+    C. Valle de Arán, 3, 47010 Valladolid
 
 75. Arges Tech
 
@@ -433,3 +435,362 @@
 
     +34 983 30 76 00
     C. Sta. María, 17, 1° Derecha, 47001 Valladolid
+
+87. [TECH ONE TECH](http://www.tech1tech.com/)
+
+    +34 945 01 23 45
+    Brusela Hiribidea, 8, Oficina 21 - 1ª Planta, Salburua, 01003 Vitoria-Gasteiz, Álava
+
+88. [Bosonit | Tech & Innovation](https://bosonit.com/)
+
+    +34 941 54 63 06
+    Gran Vía Juan Carlos I, 18, Entreplanta y 1º Planta, 26002 Logroño, La Rioja
+
+89. [Aciturri Tech](https://aciturritech.com/)
+
+    +34 647 43 16 78
+    Polígono Industrial Ircio Actividades Avenida de México 40, 09219, Burgos
+
+90. [GINZO TECHNOLOGIES | Transformación digital](http://ginzo.tech/)
+
+    +34 941 57 57 57
+    C. Francisco de Quevedo, 18, 1c, 26006 Logroño, La Rioja
+
+91. [OPEN WIT TECH & ENGINEERING SERVICES S.L.U. (ATAMAN)](https://ataman.io/)
+
+    +34 638 82 16 44
+    C. Eibar, 18, 26007 Logroño, La Rioja
+
+92. [YET Fashion Technology](https://yet.es/)
+
+    +34 945 14 74 23
+    Kexaako Gazteluaren Kalea, 11, Oficina 25, 01007 Vitoria-Gasteiz, Araba
+
+93. [Astrum Technologies](https://www.astrum.es/)
+
+    +34 941 44 50 61
+    Av. de Colón, 17, 26003 Logroño, La Rioja
+
+94. [Esteka Digital Technologies, SL](http://esteka.com/)
+
+    +34 622 55 03 00
+    Cuadrilla de Laguardia - Rioja Alavesa Kalea, 64, bajo 2c, 01013 Vitoria-Gasteiz, Álava
+
+95. [Andorra Tech & Startups](https://www.andorratechstartups.com/)
+
+96. [Tic And Go Technology S.L](http://www.ticandgo.com/)
+
+    +34 945 56 37 22
+    Felix Alfaro Fournier Kalea, 45, 01010 Vitoria-Gasteiz, Álava
+
+97. [LBLaction - Tech Solutions](http://www.lblaction.com/)
+
+    +34 948 06 38 42
+    Polígono Industrial Noáin-Esquiroz, calle O N2 Of. 304, 31110 Noáin
+
+98. [BRIOAGRO TECH](http://brioagro.es/)
+
+    +34 687 08 70 13
+    C. C, 31500 Tudela, Navarra
+
+99. Welkom Group Technologies
+
+    +34 625 51 95 99
+    Parque Tecnológico de Alava - Edificio BIC, Albert Einstein Kalea, 15, 01510 Vitoria-Gasteiz, Álava
+
+100. [ATS Global](https://www.ats-global.com/es/)
+
+    +34 945 29 69 81
+    Parque Tecnológico de Álava, Leonardo Da Vinci Kalea, 14 - Edificio PIE, Pabellón 8A, PTA, 01510 Miñao/Miñano Mayor, Álava
+
+101. [Esoft - Ukabi Group](https://www.e-soft.es/)
+
+    +34 946 20 17 50
+    Ibaizabal Auzunea Etxetaldea, 3A, Bajo, 48200 Durango, Bizkaia
+
+102. [Maquinaria Especial Para La Madera - MAESMA WOOD TECHNOLOGY, S.L.](https://www.maesma.es/)
+
+    +34 944 48 38 80
+    Artunduaga K., 5 Pabellón 1, Urbi, 48970 Arizgoiti, Biscay
+
+103. [Canela Tech](https://www.canelatech.es/)
+
+    +34 910 37 64 52
+    Pl. de Alonso Martínez, 8, 2°A, 09003 Burgos
+
+104. [Tecland | Informática](https://tecland.es/)
+
+    +34 947 48 33 90
+    C. Juan Ramón Jiménez, S/N, Nave 191, 09007 Burgos
+
+105. [Teibur S.L. | Software](http://www.teibur.es/)
+
+    +34 947 05 70 36
+    C. Mariana Pineda, 16, 09003 Burgos
+
+106. [DGH Technological Solutions S.L. | Ingeniería de software](http://www.dgh.es/)
+
+    +34 947 25 20 50
+    C. las Claustrillas, 1, 09001 Burgos
+
+107. [Nokal Tech | Sitios web](http://www.nokaltech.es/)
+
+    +34 659 51 03 30
+
+108. [Abadía Tecnológica | Informática - Impresión 3D](http://www.abadiatecnologica.com/)
+
+    +34 947 23 58 46
+    Pl. De Las Bernardas, S/N, Sótano, 09004 Burgos
+
+109. [Decathlon](https://www.decathlon.es/)
+
+    +34 947 27 91 27
+    Ctra. Madrid-Irún, 09001 Burgos
+
+    +34 975 24 85 92
+    Av. de la Alegría, 2, 42190 Soria
+
+    +34 923 13 10 70
+    Av. E. Leclerc, 3, 37188 Carbajosa de la Sagrada, Salamanca
+
+110. [Bjäland Technologies | Soluciones tecnológicas](https://bjaland.co/)
+
+    +34 919 93 01 47
+    C. Vitoria, 29, 1D, 09004 Burgos
+
+111. [MediaMarkt](https://www.mediamarkt.es/)
+
+    +34 900 205 000
+    El Mirador, Ctra. Santander, 09006 Burgos
+    Carretera Salamanca, CC Los Capuchinos, Glorieta de Sta. Marta, Km 6, 37900 Santa Marta de Tormes, Salamanca
+    C. Me Falta un Tornillo, 3, 47195 Arroyo de la Encomienda, Valladolid
+
+112. [Fnac](https://www.fnac.es/)
+
+    C. C. Río Shopping, C. Me Falta un Tornillo, 3, 47195 Arroyo de la Encomienda, Valladolid
+
+113. [SMP Automotive Technology Ibérica S.L.](https://www.smp-automotive.com/)
+
+    +34 979 16 55 00
+    C. Vizcaya, 1, 34004 Palencia
+
+114. [RS New Technology](https://www.rsnewtechnology.com/es/)
+
+    C. Zinc, 4, 34200 Venta de Baños, Palencia
+
+115. [BEEP Informática](https://www.beep.es/)
+
+    +34 983 18 88 50
+    C. Cardenal Mendoza, 16, Bajo, 47002 Valladolid
+
+    +34 983 29 72 11
+    Pl. de Portugalete, 3, 47002 Valladolid
+
+    +34 983 17 22 58
+    Calle de Mateo Seoane Sobral, S/N, 47014 Valladolid
+
+116. [Trovant Technology](http://www.trovant.es/)
+
+    Av. del Euro, 6, 47009 Valladolid
+
+117. [Habitual Data, S.L.](http://www.habitualdata.com/)
+
+    +34 983 45 21 22
+    C. Atrio de Santiago, 1, 3°B, 47001 Valladolid
+
+118. [Atmosfera Sport LA BAÑEZA](https://www.atmosferasport.es/)
+
+    +34 987 64 25 06
+    C. Astorga, 10, Bajo, 24750 La Bañeza, León
+
+119. [EnerSun Tech](https://enersun-tech1.webnode.es/)
+
+    C. Santiago, 3, 49004 Zamora
+
+120. [Emayor Synersight Technologies](http://www.synersight.es/)
+
+    +34 983 21 75 07
+    C. del Propano, 1, 47012 Valladolid
+
+121. [Tecopysa](http://www.grupotecopy.es)
+
+    +34 983 14 06 50
+    C. Luis Proust, 17, 47151 Boecillo, Valladolid
+
+122. [GreenWork Technology](http://www.mantenimientoseolicos.com/)
+
+    +34 605 85 79 60
+    C. el Puente, 8, 42145 Cidones, Soria
+
+123. [Codesian Software Tech](https://www.codesian.com/)
+
+    +34 975 05 20 62
+    C. del Naranjo, Nº6, Planta 4ª, 42190 Golmayo, Soria
+
+124. [Fora Forest Technologies S.L.L.](https://fora.es/)
+
+    +34 975 25 38 86
+    Campus universitario Duques de Soria, Edificio I+D+i, 42004 Soria
+
+125. [Aditae Technology](http://aditae.com/)
+
+    +34 607 41 64 90
+    Av. Valladolid, 42110 Ólvega, Soria
+
+126. [Ficosa Automotive SLU](http://ficosa.com/)
+
+    +34 975 23 07 50
+    C. D, 12, 42005 Soria
+
+127. [The Big Tech Experience](http://www.thebigtech.es/)
+
+    +34 876 53 86 43
+    C. Asalto, 23, Casco Antiguo, 50002 Zaragoza
+
+    +34 876 53 86 43
+    Av. de los Pirineos, 7, Planta 1, 28703 San Sebastián de los Reyes, Madrid
+
+128. [E-PISTEME.TECH](https://e-pisteme.tech/)
+
+    +34 722 27 64 75
+    Calle Sierpes, 9, 37002 Salamanca
+
+129. [K-tuin Salamanca · Apple Premium Reseller y Servicio Técnico Autorizado](https://www.k-tuin.com/)
+
+    +34 923 21 86 73
+    C. Concejo, 4, 37002 Salamanca
+
+130. [BISITE Research Group - University of Salamanca](https://bisite.usal.es/)
+
+    +34 923 29 44 00 ext. 1525
+    Edificio I+D+i - C, C. Espejo, s/n, 37007 Salamanca
+
+131. [Xoborg Technologies SL](https://www.xoborg.com/)
+
+    +34 923 01 74 00
+    C. Teso de San Nicolás, 17, Semisótano local 1, 37008 Salamanca
+
+132. [Active Business & Technology](https://grupoactive.es/)
+
+    +34 923 04 91 50
+    Parque Científico USAL. C/ Del Adaja, 10 Edificio M3 - P1 08, 37185 Villamayor, Salamanca
+
+133. [Adap Soluciones Tecnológicas](http://www.adap-tec.es/)
+
+    +34 923 99 07 94
+    C. de la Parra, 3, 37001 Salamanca
+
+134. [CeX](https://es.webuy.com/)
+
+    +34 923 49 54 48
+    Av. de Mirat, 41, 37002 Salamanca
+
+135. [GAME El Tormes](https://www.game.es/)
+
+    +34 923 34 93 19
+    C. Toro, 84, 37002 Salamanca
+
+136. [Innovation Management & Information Technology AdviSer](http://imita.es/)
+
+    Pl. España, 37900, Salamanca
+
+137. [ARSOFT](http://www.arsoft-company.com/)
+
+    +34 923 49 65 22
+    C. del Adaja, 10, 37185 Villamayor, Salamanca
+
+138. [IKEA](https://www.ikea.com/es/)
+
+    +34 900 400 922
+    Av. Salamanca, Centro Comercial, 37900 El Tormes, Salamanca
+
+139. [Technology Sport](http://technologysport.com/)
+
+    +34 916 65 75 48
+    Av. del Guadarrama, 12, LOCAL 6, 28229 Villanueva del Pardillo, Madrid
+
+140. [RN Technology](http://rntech.es/)
+
+    +34 647 96 25 72
+    Poligono Industrial Vicolozano. Parcela 68, 05194, Ávila
+
+141. Networkcode Tech. Solutions
+
+    +34 916 12 55 75
+    C. Borni, 15, 28691 Villanueva de la Cañada, Madrid
+
+142. [VeoVeo Technology](https://www.veoveotech.com/)
+
+    +34 659 33 05 29
+    C. Zaragoza, 589, 45950 Casarrubios del Monte, Toledo
+
+143. [Social2Wifi](http://www.social2wifi.es/)
+
+    +34 663 97 55 51
+
+144. SOLUTION DATA TECHNOLOGY
+
+    +34 921 46 30 19
+    C. San Juan, 12, 40001 Segovia
+
+145. [Belaire Tech](https://belairetech.es/)
+
+    +34 623 05 00 84
+
+146. [Innovathera tech](https://innovatheratech.com/)
+
+    +34 672 72 46 76
+
+147. [Calímaco Technologies SL](https://calimaco.com/)
+
+    +34 633 64 31 67
+    C. de las Ciencias, 24, 28439 Alpedrete, Madrid
+
+148. [Gárgola Tech](https://gargolatech.square.site/)
+
+    +34 683 47 57 87
+
+149. [Innovathera Technology](https://innovatheratech.com/)
+
+    +34 672 72 46 76
+
+150. [Happy Tech](https://www.happytech.es/)
+
+    +34 686 21 88 87
+    44-2H, C. de las Poderosas, 44, Barajas, 28042 Madrid
+
+151. [WORLD TECH MOBILE](https://www.worldtechmobile.com/)
+
+    +34 671 32 83 99
+    C. de Eugenio Salazar, 47, Local 5, Chamartín, 28002 Madrid
+
+152. [Technology Group](http://tecgroup.es/)
+
+    +34 916 02 92 43
+    C. Puerto de los Leones, 2, 2 9, 28220 Majadahonda, Madrid
+
+153. [Offshore Tech Madrid](http://www.offshoretech.net)
+
+    +34 902 99 80 20
+    Av. de Castilla, 2, Edificio Europa Planta 0, 28830 Torrejón de Ardoz, Madrid
+
+154. [BBVA Technology en Europa](https://www.bbvatechnology.com/europa/)
+
+    C. de Federico Mompou, 5, Bloque 2, Planta 4°, Fuencarral-El Pardo, 28050 Madrid
+
+155. [miguelON.tech](https://miguelon.tech/)
+
+    +34 607 41 28 88
+    C. Rosalía de Castro, 14, 28806 Alcalá de Henares, Madrid
+
+156. [ARENA Tech](http://www.arenatech.es/)
+
+    +34 915 70 53 00
+    Calle de María Tubau, 3, Fuencarral-El Pardo, 28050 Madrid
+
+157. [Cadtech Ibérica](http://www.cadtech.es/)
+
+    +34 913 58 86 88
+    Parque Empresarial "La Carpetania, Av. Leonardo Da Vinci, 22, 28906 Getafe, Madrid
+
+158. 
