@@ -359,6 +359,9 @@
     +34 987 44 71 37
     Av. de la Constitución, 2, 24400 Ponferrada, León
 
+    +34 927 42 62 34
+    Muñoz Palomino, C. Manuel Revilla Castán, s/n, 10600 Plasencia, Cáceres
+
 71. [Lucus Tech](https://lucus-tech.com/)
 
     +34 667 49 11 33
@@ -589,6 +592,12 @@
     +34 983 17 22 58
     Calle de Mateo Seoane Sobral, S/N, 47014 Valladolid
 
+    +34 927 30 40 77
+    C. Bo. Nuevo, 15, 10830 Torrejoncillo, Cáceres
+
+    +34 923 40 31 15
+    C. Libertad, 25, 37700 Béjar, Salamanca
+
 116. [Trovant Technology](http://www.trovant.es/)
 
     Av. del Euro, 6, 47009 Valladolid
@@ -793,4 +802,46 @@
     +34 913 58 86 88
     Parque Empresarial "La Carpetania, Av. Leonardo Da Vinci, 22, 28906 Getafe, Madrid
 
-158. 
+158. [BMZ TECHNOLOGY DISTRIBUIDOR OFICIAL DE DIGIMOBIL](https://bmztechnology.com/)
+
+    +34 624 40 77 07
+    C. Manuel Mas, 62, Bajo, 10310 Talayuela, Cáceres
+
+159. New Technology Transformation
+
+    +34 636 97 80 99
+    CALLEJA MALA, Nº 10, 37700 Palomares, Salamanca
+
+    +34 636 97 80 99
+    37700 Béjar, Salamanca
+
+160. [Equip Tech](http://www.equiptech.es/)
+
+    +34 923 49 17 09
+    Poligono Industrial Las Viñas, C. Nuevo Milenio, 22, 37500 Ciudad Rodrigo, Salamanca
+
+161. [Phone House Coria - Tienda de móviles](https://www.phonehouse.es/)
+
+    +34 627 99 60 18
+    Av. Sierra de Gata, 9, 10800 Coria, Cáceres
+
+162. [JIGA INFORMATICA PLASENCIA, DYNOS](https://www.dynos.es/)
+
+    +34 927 41 31 66
+    Av. de la Vera, 27, 10600 Plasencia, Cáceres
+
+163. [By Lebron](https://www.bylebron.com/)
+
+    +34 671 58 14 02
+    Av. de España, 3, 10600 Plasencia, Cáceres
+
+164. [Your Pharmacy Plasencia](https://tufarmacia12.es/)
+
+    +34 927 41 09 39
+    Av. de la Vera, 12, 10600 Plasencia, Cáceres
+
+165. [ENVADEL TECH SOLUTIONS](https://envadel.com/)
+
+    C. Sta. Cristina, 4, Despacho 9 - Amarillo, Sur, 10195 Cáceres
+
+166. 
