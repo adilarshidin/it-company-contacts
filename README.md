@@ -35,6 +35,10 @@ The queries were used for a list of town in each of the countries.
     - Motril
     - Granada
     - Jaen
+    - Linares
+    - Ubeda
+    - Almeria
+    - 
 
 ## Supported countries
 

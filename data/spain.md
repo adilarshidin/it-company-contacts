@@ -218,6 +218,9 @@
 
     Parque Empresarial del, Av. de la Siderurgia, 15, 33417 Avilés, Asturias
 
+    +34 950 14 33 20
+    C. Freniche, 4, 04009 Almería
+
 41. [evolutiva tech](https://evolutiva.tech/)
 
     +34 984 50 78 86
@@ -586,6 +589,7 @@
     El Mirador, Ctra. Santander, 09006 Burgos
     Carretera Salamanca, CC Los Capuchinos, Glorieta de Sta. Marta, Km 6, 37900 Santa Marta de Tormes, Salamanca
     C. Me Falta un Tornillo, 3, 47195 Arroyo de la Encomienda, Valladolid
+    Campus Las Lagunillas s/n, Local M-01b, 23071 Jaén
 
 112. [Fnac](https://www.fnac.es/)
 
@@ -616,6 +620,16 @@
 
     +34 923 40 31 15
     C. Libertad, 25, 37700 Béjar, Salamanca
+
+    +34 953 27 38 41
+    P.º de España, 8, 23009 Jaén
+    http://www.f1informatica.es/
+
+    +34 953 27 69 76
+    Av. de Madrid, 24, 23001 Jaén
+
+    +34 692 98 65 30
+    Av. de Andalucía, 25, 23005 Jaén
 
 116. [Trovant Technology](http://www.trovant.es/)
 
@@ -1083,6 +1097,9 @@
     +34 958 44 66 47
     Pol. Ind. la Rosa, C. Consorcio, 16-18-20, 18330 Chauchina, Granada
 
+    +34 958 39 72 99
+    poligono industrial iznamontes, M.1G-B-2, 18550 Iznalloz, Granada
+
 210. [OPINATOR Albacete](https://web.opinator.com/)
 
     +34 910 77 06 61
@@ -1513,4 +1530,74 @@
 
     CETIC-UGR, C. Periodista Fernando Gómez de la Cruz, 2, Planta 1, oficina 6, Chana, 18015 Granada
 
-301. 
+301. [Beatik](https://epsl.ujaen.es/)
+
+    +34 953 64 85 62
+    Avda. de la Universidad, Ronda Sur, s/n, 23700 Linares, Jaén
+
+302. [Univertia](http://www.univertiaonline.com/)
+
+    +34 953 96 20 75
+    C. Villatorres, 19, 23009 Jaén
+
+303. [Electronic Access Office and New Technologies](https://sede.aytojaen.es/)
+
+    +34 953 21 91 11
+    C. Joaquín Tenorio, 12, 23001 Jaén
+
+304. [Somnum Technologies](http://www.somnum-technologies.es/)
+
+    +34 953 03 82 58
+    C. Italia, 23, Edificio CADE - Planta Primera, 23200 La Carolina, Jaén
+
+305. [Papelería Copimática](https://copimatica.es/)
+
+    +34 669 41 11 71
+    P.º de España, 38, Local comercial, 23009 Jaén
+
+306. [Tech Linku](https://www.linku.es/)
+
+    +34 950 55 24 63
+    C. Sierra de Gádor, Nº 8, local, 04720 El Parador de las Hortichuelas, Almería
+
+307. [Adil TECH. Servicio tecnico](https://www.adiltech.es/)
+
+    +34 642 55 33 00
+    Av. Constitución, 168, 04117 San Isidro de Níjar, Almería
+
+308. [Revolution Technology](https://revolutiontech.services/)
+
+    +34 694 44 01 84
+    Av. de Almeria, 1, 04639 Turre, Almería
+
+309. [CheckTheMeds Technology S.L.](http://www.checkthemeds.com/)
+
+    +34 950 57 01 08
+    Blvr. de el Ejido, 290, 04700 El Ejido, Almería
+
+310. [Nep Technology](http://www.neptechnology.es/)
+
+    +34 620 61 58 29
+    Cam. de los Parrales, 310, Edificio Aguamarina Portal II Piso 4 Letra C, 04720 Aguadulce, Almería
+
+311. [Dsruptive Subdermals](http://dsruptive.com/)
+
+    +34 623 03 77 63
+    Edificio Sede Científica PITA,, Universidad de Almeria, 04120 Almería
+
+312. [Sepeye Technology](http://www.sepeye.es/)
+
+    +34 641 14 35 97
+    Av. de Cabo de Gata, 128, 04007 Almería
+
+313. [YET Fashion Technology B2B](https://b2b.shinydeco.es/)
+
+    +34 950 28 11 33
+    Av. Mare Nostrum, 20, 04009 Almería
+
+314. [Agro-Technology](http://agro-technology.com/)
+
+    +34 950 57 02 03
+    C. Bastidor, 15, 04700 El Ejido, Almería
+
+315. 
