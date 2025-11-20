@@ -485,157 +485,318 @@
     +34 984 50 78 86
     Av. Constitución, 4, bajo, 33670 Moreda, Asturias
 
+    [LinkedIn](https://www.linkedin.com/company/evolutivatech/)
+
 42. Wetech (Wearable Technologies SL)
 
     +34 984 08 72 25
     Calle Prados Cabueñes, 166, Periurbano - Rural, 33203 Gijón, Asturias
 
+    [LinkedIn](https://www.linkedin.com/company/wearable-technologies-sl/)
+
 43. Kubbiberica Tech
 
     Av. Argentina, 132, Gijon-Oeste, 33213 Gijón, Asturias
 
+    [Instagram](https://www.instagram.com/kubbiberica/)
+
 44. [Codectec - Informática - Telefonía](http://www.codectec.com/)
 
     +34 656 69 04 70
+    
     Av. de la Constitución, 92, bajo, Gijon-Sur, 33207 Gijón, Asturias
+
+    info@codectec.com
 
 45. [eVoost AI Spain Tech Hub](https://www.evoost.ai/)
 
     Plazoleta Florencio Rodríguez, 2, 7º, Centro, 33206 Gijón, Asturias
 
-46. [TREELOGIC - A Tree Technology Brand](http://www.treelogic.com/)
+    hello@evoost.ai
+
+46. TREELOGIC - A Tree Technology Brand
 
     +34 985 96 61 36
+    
     Calle San Francisco, 2 - Regus, 33003 Oviedo, Asturias
+
+    [LinkedIn](https://www.linkedin.com/company/treelogic/)
 
 47. META TECH Experiencias 3D
 
     +34 609 21 47 54
+    
     Parque Alfonso X el Sabio, 33429, Asturias
 
 48. [LLOOL TECHNOLOGY SL](https://www.llooltec.com/)
 
     +34 985 29 23 02
+    
     Calle Fernández de Oviedo, 28, BAJO, 33012 Oviedo, Asturias
+
+    llool@llooltec.com
 
 49. [Seidor Tech](http://www.seidortech.es/)
 
     +34 985 27 61 62
+    
     C. González Besada, 31, 33007 Oviedo, Asturias
+
+    info@seidortech.es
+
+    [LinkedIn](https://www.linkedin.com/company/seidortech/)
+
+    [Instagram](https://www.instagram.com/seidor.official)
+
+    [X](https://x.com/seidor)
 
 50. [Lessthan3](http://lt3.io/)
 
     +34 984 26 30 80
+    
     C. Schultz, 5, 3-B-1, 33003 Oviedo, Asturias
+
+    hola@lt3.io
+
+    [LinkedIn](https://www.linkedin.com/company/less-than-three/)
+
+    [Instagram](https://www.instagram.com/lt3.io)
+
+    [X](https://x.com/lt3tech?s=11)
 
 51. [Uktena Tech, S.L.](https://uktena.ai/)
 
     +34 606 79 06 61
+    
     Av. de los Castros, 46, 206, 39005 Santander, Cantabria
 
+    uktena@uktena.es
+
+    [LinkedIn](https://www.linkedin.com/company/uktena/)
+
 52. [Simpla Tech](https://simpla-tech.com/)
+
+    info@simplatech.com
 
 53. [TECH friendly](https://techfriendly.es/)
 
     +34 674 70 67 10
+    
     Autonomia Kalea, 26, 1º, Abando, 48010 Bilbao, Biscay
+
+    hola@techfriendly.es
+
+    [LinkedIn](https://www.linkedin.com/company/techfriendly/)
+
+    [X](https://x.com/TechfriendlyEs)
 
 54. [Cistec Technology](http://www.cistec.es/)
 
     +34 944 69 29 39
+    
     Mazarredo Zumarkalea, 47, Abando, 48009 Bilbao, Biscay
 
     +34 948 31 81 80
+    
     Polígono Iruregaña, 71, 3o, 31195 Aizoáin, Navarra
+
+    info@cistec.es
+
+    [LinkedIn](https://www.linkedin.com/company/cistec-technology/)
 
 55. [BETWEEN Technology](https://www.between.tech/)
 
     +34 946 54 05 81
+    
     Autonomia Kalea, 26, planta 6-D, Escalera Derecha, Abando, 48012 Bilbao, Biscay
 
     +34 932 78 00 54
+    
     C. de Menéndez y Pelayo, 5, El Llano del Real, 46010 Valencia
+
+    [LinkedIn](https://es.linkedin.com/company/between-tech)
+
+    [Instagram](https://www.instagram.com/between_technology/)
 
 56. [Ludus Global](https://ludusglobal.com/)
 
     +34 946 12 22 41
+    
     Poza Lizentziatuaren Kalea, 55, 1º derecha, Abando, 48013 Bilbao, Biscay
+
+    operaciones@ludusglobal.com
+
+    [LinkedIn](https://www.linkedin.com/company/ludus-hse-training-with-vr/)
+
+    [Instagram](https://www.instagram.com/ludusglobal/?igshid=YmMyMTA2M2Y=)
+
+    [X](https://x.com/ludusglobal)
 
 57. [Zerua Tech](https://www.zerua.tech/)
 
     +34 684 71 35 30
+    
     Diego Lopez Haroko Kale Nagusia, 1, Abando, 48001 Bilbao, Bizkaia
+
+    contact@zerua.tech
+
+    [LinkedIn](https://www.linkedin.com/company/zeruatech)
+
+    [Instagram](https://www.instagram.com/zeruatech)
+
+    [X](https://www.x.com/zeruatech)
 
 58. [Active Business & Technology](https://grupoactive.es/)
 
     +34 946 41 51 19
+    
     Mamariga Kalea, 7b, 48980 Santurtzi, Biscay
+
+    info@grupoactive.es
+
+    [LinkedIn](https://www.linkedin.com/company/active-business-and-technology)
 
 59. [Kevo Technologies](http://kevo.ai/)
 
     +34 943 57 20 00
+    
     Iurrita Bidea, 13, Oficina 25, 2º planta, 20180 Altzibar, Gipuzkoa
+
+    info@kevo.ai
 
 60. [ALOR Tech](https://alor-tech.com/)
 
     +34 943 12 25 68
+    
     Zuatzu Kalea, 5, 20018 Donostia / San Sebastián, Gipuzkoa
+
+    alor@alor-tech.com
+
+    [LinkedIn](https://www.linkedin.com/company/alor-tech/)
 
 61. [Teknei Information Technology](http://www.teknei.com/)
 
     +34 943 43 30 18
+
     De Pinares Plaza, 1, 3ª planta, 20001 Donostia / San Sebastián, Gipuzkoa
+
+    info.es@teknei.com
+
+    [LinkedIn](https://www.linkedin.com/company/teknei-group)
+
+    [Instagram](https://www.instagram.com/grupo_teknei/)
+
+    [X](https://x.com/Teknei)
 
 62. [LBLaction - Tech Solutions](http://www.lblaction.com/)
 
     +34 948 06 38 42
+    
     Polígono Industrial Noáin-Esquiroz, calle O N2 Of. 304, 31110 Noáin
 
 63. [ZEO Technology](https://zeotechnology.com/)
 
     +34 948 80 60 53
+
     Edificio Berroa, 19, 31192 Tajonar, Navarra
+
+    talento@zeotechnology.com
+
+    [LinkedIn](https://www.linkedin.com/company/zeotechnology/)
 
 64. [Lizaur Sao Tecnología](https://www.lizaursaotecnologia.es/es/)
 
     +34 606 67 16 39
+
     Pol. Ind. Mutilva Baja, Calle J Nave 27, 31192 Mutilva, Navarra
+
+    ilizaur@saotecnologia.com
 
 65. [EVEL New Technologies](https://www.evelnt.com/)
 
     +34 948 10 41 13
+
     Calle del Pol. Ind. Berroa, 19, Oficina 501, 31192 Tajonar, Navarra
+
+    info@evelnt.com
 
 66. [Pranan Technologies](http://www.pranan.com/)
 
     +34 948 98 32 11
+
     Calle Madres de la Plaza de Mayo, 44, 2º ofic. 3, 31013 Pamplona, Navarra
+
+    pranan@pranan.com
+
+    [Instagram](https://www.instagram.com/pranan_technologies/)
 
 67. [Ips Technology Ponferrada](https://www.ipsleon.com/)
 
     +34 659 57 02 04
+
     Av. Valdés, 31, 24400 Ponferrada, León
+
+    ips@ipsleon.com
+
+    [LinkedIn](https://www.linkedin.com/company/ips-technology-sl/)
+
+    [Instagram](https://www.instagram.com/ipstechnology_le/)
 
 68. [tComet](http://www.tcomet.com/)
 
     +34 987 10 06 00
+
     Av. de América, 78, 24401 Ponferrada, León
+
+    info@tcomet.com
+
+    [LinkedIn](https://www.linkedin.com/company/tcomet/?originalSubdomain=es)
 
 69. [Beep - Meetink Point](https://www.beep.es/)
 
     +34 988 34 74 42
+
     Rúa Peña Trevinca, 6, 32300 O Barco, Province of Ourense
+
+    clientes@beep.es
+
+    [LinkedIn](https://www.linkedin.com/company/74548876/admin/)
+
+    [Instagram](https://www.instagram.com/beepinformatica/)
+
+    [X](https://x.com/beep_es)
 
 70. [Carrefour](https://www.carrefour.es/)
 
     +34 987 44 71 37
+
     Av. de la Constitución, 2, 24400 Ponferrada, León
 
     +34 927 42 62 34
+
     Muñoz Palomino, C. Manuel Revilla Castán, s/n, 10600 Plasencia, Cáceres
 
     +34 644 27 17 37
+
     Av. de las Arenas, 51, Oeste, 10005 Cáceres
+
+    es_justyna_torres_c@carrefour.com
+
+    es_francisco_dominguez_c@carrefour.com
+
+    es_rosa_nunez_c@carrefour.com
+
+    maria.quintin@carrefour.com
+
+    clientes_carrefour.es@carrefour.com
+
+    maria.cid@carrefour.com
+
+    [LinkedIn](https://es.linkedin.com/company/carrefoures)
+
+    [Instagram](https://instagram.com/carrefoures)
+
+    [X](https://www.twitter.com/carrefourEs)
 
 71. [Lucus Tech](https://lucus-tech.com/)
 
