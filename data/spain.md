@@ -1645,31 +1645,54 @@
 139. [Technology Sport](http://technologysport.com/)
 
     +34 916 65 75 48
+
     Av. del Guadarrama, 12, LOCAL 6, 28229 Villanueva del Pardillo, Madrid
+
+    info@technologysport.com
+
+    [Instagram](https://www.instagram.com/technologyspor1/)
+
+    [X](https://x.com/TECHNOLOGYSPOR1)
 
 140. [RN Technology](http://rntech.es/)
 
     +34 647 96 25 72
+
     Poligono Industrial Vicolozano. Parcela 68, 05194, Ávila
 
 141. Networkcode Tech. Solutions
 
     +34 916 12 55 75
+
     C. Borni, 15, 28691 Villanueva de la Cañada, Madrid
 
 142. [VeoVeo Technology](https://www.veoveotech.com/)
 
     +34 659 33 05 29
+
     C. Zaragoza, 589, 45950 Casarrubios del Monte, Toledo
+
+    info@veoveotech.com
+
+    [Instagram](https://www.instagram.com/veoveotechnology/)
 
 143. [Social2Wifi](http://www.social2wifi.es/)
 
     +34 663 97 55 51
 
+    info@social2wifi.com
+
+    [LinkedIn](https://www.linkedin.com/company/social2wifi/)
+
 144. SOLUTION DATA TECHNOLOGY
 
     +34 921 46 30 19
+
     C. San Juan, 12, 40001 Segovia
+
+    comercial@datasolution.es
+
+    [LinkedIn](https://www.linkedin.com/company/solution-data-technology-s-l--data-solution-/)
 
 145. [Belaire Tech](https://belairetech.es/)
 
@@ -1682,101 +1705,180 @@
 147. [Calímaco Technologies SL](https://calimaco.com/)
 
     +34 633 64 31 67
+
     C. de las Ciencias, 24, 28439 Alpedrete, Madrid
 
 148. [Gárgola Tech](https://gargolatech.square.site/)
 
     +34 683 47 57 87
 
-149. [Innovathera Technology](https://innovatheratech.com/)
+    gargolatech@proton.me
 
-    +34 672 72 46 76
+    [Instagram](https://www.instagram.com/gargola_tech)
 
-150. [Happy Tech](https://www.happytech.es/)
+149. [Live Now Technology](https://livenowtech.com/)
 
-    +34 686 21 88 87
-    44-2H, C. de las Poderosas, 44, Barajas, 28042 Madrid
+    Ctra. de Chile, 35, 35010 Las Palmas de Gran Canaria, Las Palmas
+
+    contact@livenowtech.com
+
+150. [Internet Technology Partner](https://intechpartner.com/)
+
+    +34 910 05 28 28
+
+    C. Buenos Aires, 8, 2ºB, 35002 Las Palmas de Gran Canaria, Las Palmas
+
+    hello@intechpartner.com
 
 151. [WORLD TECH MOBILE](https://www.worldtechmobile.com/)
 
     +34 671 32 83 99
+
     C. de Eugenio Salazar, 47, Local 5, Chamartín, 28002 Madrid
+
+    wtmobile2@gmail.com
 
 152. [Technology Group](http://tecgroup.es/)
 
     +34 916 02 92 43
+
     C. Puerto de los Leones, 2, 2 9, 28220 Majadahonda, Madrid
+
+    info@tecgroup.es
 
 153. [Offshore Tech Madrid](http://www.offshoretech.net)
 
     +34 902 99 80 20
+
     Av. de Castilla, 2, Edificio Europa Planta 0, 28830 Torrejón de Ardoz, Madrid
+
+    info@offshoretech.net
+
+    [LinkedIn](https://www.linkedin.com/company/offshore-tech/)
+
+    [Instagram](https://www.instagram.com/offshoretech/)
+
+    [X](https://x.com/OffshoreTech)
 
 154. [BBVA Technology en Europa](https://www.bbvatechnology.com/europa/)
 
     C. de Federico Mompou, 5, Bloque 2, Planta 4°, Fuencarral-El Pardo, 28050 Madrid
 
+    info-europa@bbvatechnology.com
+
+    [LinkedIn](https://www.linkedin.com/company/bbva-technology-en-europa/)
+
+    [Instagram](https://www.instagram.com/bbvatech/)
+
 155. [miguelON.tech](https://miguelon.tech/)
 
     +34 607 41 28 88
+
     C. Rosalía de Castro, 14, 28806 Alcalá de Henares, Madrid
+
+    info@miguelon.tech
 
 156. [ARENA Tech](http://www.arenatech.es/)
 
     +34 915 70 53 00
+
     Calle de María Tubau, 3, Fuencarral-El Pardo, 28050 Madrid
+
+    info@arenatech.es
+
+    [LinkedIn](http://linkedin.com/company/arena-financial-tech?originalSubdomain=es)
+
+    [Instagram](https://www.instagram.com/arenafinancialtech/)
 
 157. [Cadtech Ibérica](http://www.cadtech.es/)
 
     +34 913 58 86 88
+
     Parque Empresarial "La Carpetania, Av. Leonardo Da Vinci, 22, 28906 Getafe, Madrid
+
+    info@cadtech.es
 
 158. [BMZ TECHNOLOGY DISTRIBUIDOR OFICIAL DE DIGIMOBIL](https://bmztechnology.com/)
 
     +34 624 40 77 07
+
     C. Manuel Mas, 62, Bajo, 10310 Talayuela, Cáceres
 
 159. New Technology Transformation
 
     +34 636 97 80 99
+
     CALLEJA MALA, Nº 10, 37700 Palomares, Salamanca
 
     +34 636 97 80 99
+
     37700 Béjar, Salamanca
 
 160. [Equip Tech](http://www.equiptech.es/)
 
     +34 923 49 17 09
+
     Poligono Industrial Las Viñas, C. Nuevo Milenio, 22, 37500 Ciudad Rodrigo, Salamanca
+
+    info@equiptech.es
 
 161. [Phone House Coria - Tienda de móviles](https://www.phonehouse.es/)
 
     +34 627 99 60 18
+
     Av. Sierra de Gata, 9, 10800 Coria, Cáceres
+
+    [Instagram](https://www.instagram.com/phonehousees/)
+
+    [X](https://x.com/PH_teatiende)
 
 162. [JIGA INFORMATICA PLASENCIA, DYNOS](https://www.dynos.es/)
 
     +34 927 41 31 66
+
     Av. de la Vera, 27, 10600 Plasencia, Cáceres
+
+    comercial@dynos.es
+
+    [Instagram](https://www.instagram.com/dynos_es/)
+
+    [X](https://x.com/dynos_es)
 
 163. [By Lebron](https://www.bylebron.com/)
 
     +34 671 58 14 02
+
     Av. de España, 3, 10600 Plasencia, Cáceres
+
+    info@bylebron.com
 
 164. [Your Pharmacy Plasencia](https://tufarmacia12.es/)
 
     +34 927 41 09 39
+
     Av. de la Vera, 12, 10600 Plasencia, Cáceres
+
+    tufarmacia12plasencia@gmail.com
+
+    [Instagram](https://www.instagram.com/tu_farmacia_12/)
 
 165. [ENVADEL TECH SOLUTIONS](https://envadel.com/)
 
     C. Sta. Cristina, 4, Despacho 9 - Amarillo, Sur, 10195 Cáceres
 
+    web@envadel.com
+
+    [LinkedIn](https://www.linkedin.com/company/envadel)
+
 166. [CAMBIUM TECH](https://cambiumtech.es/)
 
     +34 825 96 01 40
+
     Calle Arroyo Valdolázaro, 13, 45130 Los Navalucillos, Toledo
+
+    info@cambiumtech.es
+
+    [LinkedIn](https://www.linkedin.com/company/cambium-tech/about/)
 
 167. A-cero TECH
 
@@ -1785,12 +1887,18 @@
 168. Quantum Tech
 
     +34 925 28 55 38
+
     C. del Salto del Caballo, 3, 45003 Toledo
 
 169. [Heimdall Tech, S.L.](http://www.programadorderiego.com/)
 
     +34 606 84 15 19
+
     Cam. Casasbuenas, s/n, 45114 Mazarambroz, Toledo
+
+    info@programadorderiego.com
+
+    [X](https://x.com/heimdalltechsl)
 
 170. [Quantum Digital Tech](https://quantumdigitaltech.es/)
 
@@ -1798,34 +1906,77 @@
 
 171. [Kanzan Tech](https://kanzantech.com/)
 
+    info@kanzantech.com
+
+    [LinkedIn](https://www.linkedin.com/company/kanzan-tech)
+
+    [Instagram](https://www.instagram.com/kanzantech)
+
 172. [Partner Tech Iberia](https://partner-tech.eu/es/)
 
     +34 913 12 06 32
+
     C. Polo Sur, 19, 28850 Torrejón de Ardoz, Madrid
+
+    info@partner-tech.eu
+
+    [LinkedIn](https://www.linkedin.com/company/partner-tech-europe-gmbh/)
+
+    [Instagram](https://www.instagram.com/partner.tech/)
 
 173. R-Tech Electronica
 
     +34 662 29 55 58
+
     C. Bembibre, 25, A, 28947 Fuenlabrada, Madrid
 
 174. [Water Light Tech](http://www.waterlight-tech.com/)
 
     +34 925 50 27 11
+
     C. del Cobalto, s/n, Nave 38, 45200 Illescas, Toledo
+
+    info@waterlight-tech.com
+
+    [LinkedIn](https://www.linkedin.com/in/jose-a-catalan-2451b617/)
+
+    [Instagram](https://www.instagram.com/joseacatalan/?hl=es)
+
+    [X](https://x.com/JACA357)
 
 175. [Padel Tech](http://www.padeltech.com/)
 
     +34 689 03 32 58
+
     C. Noruega, 8, 28971 Griñón, Madrid
+
+    info@padeltech.com
+
+    [LinkedIn](https://www.linkedin.com/company/padel-tech)
+
+    [Instagram](https://www.instagram.com/padeltechcourts/)
 
 176. [Technology & Systems](https://www.technologysystems.es/)
 
     +34 649 95 21 08
 
+    info@technologysystems.es
+
+    [Instagram](https://www.instagram.com/technology.systems/)
+
+    [X](https://x.com/TechnologySyst5)
+
 177. [Training Tech Academy Ángel Gaitán](https://trainingtech.academy/)
 
     +34 919 89 80 80
+
     Antonio Guardiola Sáez 15, 28300 Aranjuez, Madrid
+
+    info@trainingtech.academy
+
+    [Instagram](https://www.instagram.com/angel_gaitan_oficial/reels/?hl=es)
+
+    [X](https://x.com/Angel_gaitan_of)
 
 178. Sh Technology
 
@@ -1834,111 +1985,214 @@
 179. [Lignum Tech](http://lignumtech.es/)
 
     +34 918 31 88 08
+
     Polígono Sepes, C/Cubillo, 16004 Cuenca
+
+    info@lignumtech.es
+
+    [LinkedIn](https://www.linkedin.com/company/lignum-tech/)
 
 180. [Negozum Tech](https://www.negozum.com/)
 
     +34 637 87 81 03
+
     Av. de San Julián, 46, 4ºD, 16002 Cuenca
+
+    info@negozum.com
+
+    [Instagram](https://www.instagram.com/)
 
 181. [KubeCross](http://kubecross.com/)
 
     +34 653 87 07 19
+
     C. de los Hermanos Becerril, 19, 16003 Cuenca
 
-182. [Jacinto García](http://jacintogarcia.tech/)
+    info@lirtal.com
 
-    +34 655 83 29 03
-    C. de la Guardia Civil, 11, 16003 Cuenca
+    [LinkedIn](https://www.linkedin.com/company/kubecross/)
+
+182. BPG-Tech, Servicios Técnicos
+
+    +34 667 99 58 70
+
+    C. Mar Cantábrico, 8, 35010 Costa Ayala, Las Palmas
 
 183. [FARMER TECHNOLOGY](https://www.farmertechnology.es/)
 
     +34 696 82 30 73
+
     Carretera Leganiel - Barajas de Melo, nº 1, 16461 Leganiel, Cuenca
+
+    farmertechnology@hotmail.es
+
+    [Instagram](https://www.instagram.com/farmertechnology/?hl=es)
 
 184. [Solardrone](http://www.solardrone.es/)
 
     +34 628 63 52 68
+
     Margarita de, C. Margarita Iturralde, 58, 10200 Trujillo, Cáceres
+
+    sales@solardrone.es
+
+    [LinkedIn](https://www.linkedin.com/company/solardrone-tech/?originalSubdomain=es)
 
 185. [Toyota](https://www.toyota.es/)
 
     +34 927 26 99 86
+
     C. Tejedores, 1, Oeste, 10005 Cáceres
+
+    info@toyota.es
+
+    [LinkedIn](https://es.linkedin.com/company/toyota-espa-a-s.l.u.)
+
+    [Instagram](https://www.instagram.com/toyota_esp/)
 
 186. [Orange](https://www.orange.es/)
 
     +34 692 93 73 16
+
     Av. de España, 21, Centro-Casco Antiguo, 10002 Cáceres
 
     +34 653 70 05 00
+
     Av. d'Espanya, 9, 07800 Eivissa, Illes Balears
+
+    orangeproteccion.datos@orange.com
+
+    [LinkedIn](https://www.linkedin.com/company/france-telecom-spain/)
+
+    [Instagram](https://www.instagram.com/orange_es/?hl=es)
+
+    [X](https://x.com/orange_es)
 
 187. [Drenpos Tech, S.L.](https://www.drenpos.com/)
 
     +34 640 31 52 59
 
+    [LinkedIn](https://www.linkedin.com/in/alonso-bermejo/)
+
+    [Instagram](https://www.instagram.com/bermejobytes/)
+
 188. [Social&Tech](https://socialytech.es/)
 
     +34 608 73 27 25
+
     Parque Científico y Tecnológico de, Av. de la Investigación, s/n, 06006 Badajoz
+
+    hola@socialytech.es
+
+    [LinkedIn](https://www.linkedin.com/company/social&tech/)
+
+    [X](https://x.com/SocialyTech_us)
 
 189. Mercatum
 
     +34 675 80 34 76
+
     C. Manuel Vinagre, 65, 06175 Salvatierra de los Barros, Badajoz
 
 190. [BioBee Technologies](http://biobeetechnologies.com/)
 
     +34 924 28 97 08
+
     Extremadura Science & Technology Park, Av. de Elvas, 06006 Badajoz
+
+    business@biobee.tech
+
+    [LinkedIn](https://www.linkedin.com/company/biobee-technologies/)
 
 191. [Vital Medical Technologies](http://www.vitalmedical.es/)
 
     +34 671 90 44 24
+
     C. Fernando Sánchez Sampedro, 06003 Badajoz
 
+    administracion@vitalmedical.es
+
 192. [FENLES](https://fenles.com/)
+
+    soporte@fenles.com
+
+    [LinkedIn](https://www.linkedin.com/company/fenles/)
+
+    [Instagram](https://instagram.com/fenles_official)
+
+    [X](https://x.com/fenles_official)
 
 193. [Evia Technology](http://www.eviatechnology.com/)
 
     +34 606 91 09 62
+
     C. San Juan Dios, 6, 06800 Mérida, Badajoz
+
+    info@eviatechnology.com
 
 194. [YoReparoBadajoz](https://www.yoreparobadajoz.com/)
 
     +34 924 91 17 04
+
     Av. del Baden, 2, Local C, 06140 Talavera la Real, Badajoz
+
+    sat@yoreparobadajoz.com
+
+    [Instagram](https://www.instagram.com/yoreparobadajoz/)
 
 195. [Easy Tech - reparación móviles y ordenadores en Ciudad Real - PC- Tablets](http://www.easytechcr.es/)
 
     +34 663 60 57 17
+
     C. de Toledo, 23, 13003 Ciudad Real
 
 196. [TSD - Technology and Security Developments](http://www.tsdinternational.com/)
 
     +34 926 57 47 20
+
     Poligono Industrial de, C. Jaboneros, 14, 13640 Herencia, Ciudad Real
+
+    tsd@tsdinternational.com
 
 197. [Exide Technologies](https://www.exidegroup.com/eu/en)
 
     +34 926 61 10 50
+
     Ctra de Alcázar, s/n, 13200 Manzanares, Ciudad Real
+
+    sales-spain@exidegroup.com
+
+    [LinkedIn](https://www.linkedin.com/company/exidegroup/)
 
 198. [TecnoCom Informática](http://www.tecnocominformatica.com/)
 
     +34 926 88 27 51
+
     C. Carretería, 25, 13270 Almagro, Ciudad Real
+
+    informaticatecnocom@gmail.com
+
+    [Instagram](http://www.instagram.com/tecnocom_informatica)
 
 199. [UtilTech Ingeniería](http://www.utiltech.es/)
 
     +34 722 45 99 62
+
     C. Marconi, 4, 13005 Ciudad Real
+
+    hola@utiltech.es
+
+    [LinkedIn](https://www.linkedin.com/company/utiltech/)
+
+    [X](https://x.com/UtilTech2016)
 
 200. [Faculty of Chemical Sciences and Technologies](https://www.uclm.es/)
 
     +34 926 29 54 01
+
     C. Altagracia, 50, 13005 Ciudad Real
+
+    cief@uclm.es
 
 201. [Blesol Tech](http://www.blesoltech.com/)
 
@@ -3333,17 +3587,3 @@
 
     +34 642 10 04 44
     C. Prior Mateo Tello, 20, 1, 35220 Telde, Las Palmas
-
-481. BPG-Tech, Servicios Técnicos
-
-    +34 667 99 58 70
-    C. Mar Cantábrico, 8, 35010 Costa Ayala, Las Palmas
-
-482. [Internet Technology Partner](https://intechpartner.com/)
-
-    +34 910 05 28 28
-    C. Buenos Aires, 8, 2ºB, 35002 Las Palmas de Gran Canaria, Las Palmas
-
-483. [Live Now Technology](https://livenowtech.com/)
-
-    Ctra. de Chile, 35, 35010 Las Palmas de Gran Canaria, Las Palmas
