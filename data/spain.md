@@ -752,11 +752,47 @@
 
     [LinkedIn](https://www.linkedin.com/company/tcomet/?originalSubdomain=es)
 
-69. [Beep - Meetink Point](https://www.beep.es/)
+69. [Beep](https://www.beep.es/)
 
     +34 988 34 74 42
 
     Rúa Peña Trevinca, 6, 32300 O Barco, Province of Ourense
+
+    +34 983 18 88 50
+
+    C. Cardenal Mendoza, 16, Bajo, 47002 Valladolid
+
+    +34 983 29 72 11
+
+    Pl. de Portugalete, 3, 47002 Valladolid
+
+    +34 983 17 22 58
+
+    Calle de Mateo Seoane Sobral, S/N, 47014 Valladolid
+
+    +34 927 30 40 77
+
+    C. Bo. Nuevo, 15, 10830 Torrejoncillo, Cáceres
+
+    +34 923 40 31 15
+
+    C. Libertad, 25, 37700 Béjar, Salamanca
+
+    +34 953 27 38 41
+
+    P.º de España, 8, 23009 Jaén
+
+    +34 953 27 69 76
+
+    Av. de Madrid, 24, 23001 Jaén
+
+    +34 692 98 65 30
+
+    Av. de Andalucía, 25, 23005 Jaén
+
+    +34 971 39 81 40
+
+    C/ d'Aragó, 105, 07800 Ibiza, Balearic Islands
 
     clientes@beep.es
 
@@ -788,9 +824,9 @@
 
     maria.quintin@carrefour.com
 
-    clientes_carrefour.es@carrefour.com
-
     maria.cid@carrefour.com
+
+    es_soporte_talento@carrefour.com
 
     [LinkedIn](https://es.linkedin.com/company/carrefoures)
 
@@ -1117,32 +1153,66 @@
 101. [Esoft - Ukabi Group](https://www.e-soft.es/)
 
     +34 946 20 17 50
+
     Ibaizabal Auzunea Etxetaldea, 3A, Bajo, 48200 Durango, Bizkaia
+
+    info@e-soft.es
+
+    [X](https://x.com/eSOFTonline)
 
 102. [Maquinaria Especial Para La Madera - MAESMA WOOD TECHNOLOGY, S.L.](https://www.maesma.es/)
 
     +34 944 48 38 80
+
     Artunduaga K., 5 Pabellón 1, Urbi, 48970 Arizgoiti, Biscay
+
+    maesma@maesma.es
+
+    [LinkedIn](https://www.linkedin.com/company/maesma-s-l-/)
+
+    [Instagram](https://www.instagram.com/maesmasl/)
+
+    [X](https://x.com/MaesmaSL)
 
 103. [Canela Tech](https://www.canelatech.es/)
 
     +34 910 37 64 52
+
     Pl. de Alonso Martínez, 8, 2°A, 09003 Burgos
+
+    info@canelatech.es
+
+    [LinkedIn](https://www.linkedin.com/company/11134098/)
 
 104. [Tecland | Informática](https://tecland.es/)
 
     +34 947 48 33 90
+
     C. Juan Ramón Jiménez, S/N, Nave 191, 09007 Burgos
+
+    info@tecland.es
+
+    [LinkedIn](https://www.linkedin.com/company/grupo-carlibur/)
+
+    [Instagram](https://instagram.com/grupo_carlibur?igshid=YmMyMTA2M2Y=)
 
 105. [Teibur S.L. | Software](http://www.teibur.es/)
 
     +34 947 05 70 36
+
     C. Mariana Pineda, 16, 09003 Burgos
+
+    comercial@teibur.es
 
 106. [DGH Technological Solutions S.L. | Ingeniería de software](http://www.dgh.es/)
 
     +34 947 25 20 50
+
     C. las Claustrillas, 1, 09001 Burgos
+
+    oscar.garcia@dgh.es
+
+    [LinkedIn](https://www.linkedin.com/company/dgh-technological-solutions/)
 
 107. [Nokal Tech | Sitios web](http://www.nokaltech.es/)
 
@@ -1151,210 +1221,426 @@
 108. [Abadía Tecnológica | Informática - Impresión 3D](http://www.abadiatecnologica.com/)
 
     +34 947 23 58 46
+
     Pl. De Las Bernardas, S/N, Sótano, 09004 Burgos
+
+    info@abadiatecnologica.com
 
 109. [Decathlon](https://www.decathlon.es/)
 
     +34 947 27 91 27
+
     Ctra. Madrid-Irún, 09001 Burgos
 
     +34 975 24 85 92
+
     Av. de la Alegría, 2, 42190 Soria
 
     +34 923 13 10 70
+
     Av. E. Leclerc, 3, 37188 Carbajosa de la Sagrada, Salamanca
 
     +34 969 75 00 04
+
     Travesia Av. Cruz Roja Española, S/N, 16002 Cuenca
 
     +34 927 74 10 06
+
     Av. de las Arenas, Oeste, 10005 Cáceres
 
     +34 971 31 80 88
+
     Carrer Mar Mediterrània, 1, 07813 Puig d'en Valls, Illes Balears
+
+    servicio.usuario@decathlon.com
+
+    [LinkedIn](https://es.linkedin.com/company/decathlon-group)
+
+    [Instagram](https://www.instagram.com/decathlon_espana/)
+
+    [X](https://x.com/DecathlonEspana)
 
 110. [Bjäland Technologies | Soluciones tecnológicas](https://bjaland.co/)
 
     +34 919 93 01 47
+
     C. Vitoria, 29, 1D, 09004 Burgos
+
+    contacto@bjaland.com
 
 111. [MediaMarkt](https://www.mediamarkt.es/)
 
     +34 900 205 000
+
     El Mirador, Ctra. Santander, 09006 Burgos
+    
     Carretera Salamanca, CC Los Capuchinos, Glorieta de Sta. Marta, Km 6, 37900 Santa Marta de Tormes, Salamanca
+    
     C. Me Falta un Tornillo, 3, 47195 Arroyo de la Encomienda, Valladolid
+    
     Campus Las Lagunillas s/n, Local M-01b, 23071 Jaén
+
+    atencionalcliente@mediamarkt.es
+
+    [Instagram](https://www.instagram.com/mediamarkt_es/?hl=es)
+
+    [X](https://x.com/MediaMarkt_es)
 
 112. [Fnac](https://www.fnac.es/)
 
     C. C. Río Shopping, C. Me Falta un Tornillo, 3, 47195 Arroyo de la Encomienda, Valladolid
 
+    [LinkedIn](https://www.linkedin.com/company/grandes-almacenes-fnac-espa%C3%A3%E2%80%98a-s-a-/)
+
+    [Instagram](https://www.instagram.com/fnac_esp/)
+
+    [X](https://x.com/Fnac_ESP)
+
 113. [SMP Automotive Technology Ibérica S.L.](https://www.smp-automotive.com/)
 
     +34 979 16 55 00
+
     C. Vizcaya, 1, 34004 Palencia
+
+    ana.ortiz@motherson.com
+
+    [LinkedIn](https://de.linkedin.com/company/samvardhana-motherson-peguform)
 
 114. [RS New Technology](https://www.rsnewtechnology.com/es/)
 
     C. Zinc, 4, 34200 Venta de Baños, Palencia
 
-115. [BEEP Informática](https://www.beep.es/)
+    info@rsnewtechnology.com
 
-    +34 983 18 88 50
-    C. Cardenal Mendoza, 16, Bajo, 47002 Valladolid
+115. [ADM Tech](http://www.admtech.aero/)
 
-    +34 983 29 72 11
-    Pl. de Portugalete, 3, 47002 Valladolid
+    +34 606 04 25 91
 
-    +34 983 17 22 58
-    Calle de Mateo Seoane Sobral, S/N, 47014 Valladolid
+    C. las Adelfas, 7A, Planta 1, 35118 Agüimes, Las Palmas
 
-    +34 927 30 40 77
-    C. Bo. Nuevo, 15, 10830 Torrejoncillo, Cáceres
+    info@aerodmtech.com
 
-    +34 923 40 31 15
-    C. Libertad, 25, 37700 Béjar, Salamanca
-
-    +34 953 27 38 41
-    P.º de España, 8, 23009 Jaén
-    http://www.f1informatica.es/
-
-    +34 953 27 69 76
-    Av. de Madrid, 24, 23001 Jaén
-
-    +34 692 98 65 30
-    Av. de Andalucía, 25, 23005 Jaén
-
-    +34 971 39 81 40
-    C/ d'Aragó, 105, 07800 Ibiza, Balearic Islands
+    [LinkedIn](https://es.linkedin.com/company/aerodesign-and-manufacturing-technology)
 
 116. [Trovant Technology](http://www.trovant.es/)
 
     Av. del Euro, 6, 47009 Valladolid
 
+    info@trovant.es
+
+    [LinkedIn](https://www.linkedin.com/company/trovant-technology/)
+
+    [Instagram](https://www.instagram.com/trovanttech/)
+
+    [X](https://x.com/trovanttech)
+
 117. [Habitual Data, S.L.](http://www.habitualdata.com/)
 
     +34 983 45 21 22
+
     C. Atrio de Santiago, 1, 3°B, 47001 Valladolid
 
 118. [Atmosfera Sport](https://www.atmosferasport.es/)
 
     +34 987 64 25 06
+
     C. Astorga, 10, Bajo, 24750 La Bañeza, León
 
     +34 927 32 01 72
+
     Av. Miajadas, 11, 10200 Trujillo, Cáceres
+
+    francis@atmosferasport.es
+
+    [LinkedIn](https://www.linkedin.com/company/atmosfera-sport-oficial/)
+
+    [Instagram](https://www.instagram.com/atmosferasport_oficial/)
 
 119. [EnerSun Tech](https://enersun-tech1.webnode.es/)
 
     C. Santiago, 3, 49004 Zamora
 
+    enersuntech@gmail.com
+
+    [Instagram](https://www.instagram.com/enersuntech/)
+
+    [X](https://x.com/EnersunTech)
+
 120. [Emayor Synersight Technologies](http://www.synersight.es/)
 
     +34 983 21 75 07
+
     C. del Propano, 1, 47012 Valladolid
+
+    info@synersight.es
+
+    [LinkedIn](https://es.linkedin.com/company/synersight)
+
+    [Instagram](https://www.instagram.com/synersight_/)
+
+    [X](https://x.com/synersight_)
 
 121. [Tecopysa](http://www.grupotecopy.es)
 
     +34 983 14 06 50
+
     C. Luis Proust, 17, 47151 Boecillo, Valladolid
+
+    info@grupotecopy.es
+
+    [LinkedIn](https://www.linkedin.com/company/grupo-tecopy/?viewAsMember=true)
+
+    [X](https://x.com/Grupo_Tecopy)
 
 122. [GreenWork Technology](http://www.mantenimientoseolicos.com/)
 
     +34 605 85 79 60
+
     C. el Puente, 8, 42145 Cidones, Soria
+
+    info@greenworktechnology.com
+
+    [LinkedIn](https://www.linkedin.com/company/greenworktechnology)
+
+    [X](https://x.com/greenworktech)
 
 123. [Codesian Software Tech](https://www.codesian.com/)
 
     +34 975 05 20 62
+
     C. del Naranjo, Nº6, Planta 4ª, 42190 Golmayo, Soria
+
+    info@codesian.com
 
 124. [Fora Forest Technologies S.L.L.](https://fora.es/)
 
     +34 975 25 38 86
+
     Campus universitario Duques de Soria, Edificio I+D+i, 42004 Soria
+
+    info@fora.es
+
+    [LinkedIn](https://es.linkedin.com/company/f%C3%B6ra-forest-technologies)
+
+    [Instagram](https://www.instagram.com/foraforestech/)
+
+    [X](https://x.com/foraforestech?lang=es)
 
 125. [Aditae Technology](http://aditae.com/)
 
     +34 607 41 64 90
+
     Av. Valladolid, 42110 Ólvega, Soria
+
+    info@aditae.com
+
+    [LinkedIn](https://www.linkedin.com/company/aditae-technology/)
 
 126. [Ficosa Automotive SLU](http://ficosa.com/)
 
     +34 975 23 07 50
+
     C. D, 12, 42005 Soria
+
+    serguei.matute@ficosa.com
+
+    [LinkedIn](http://www.linkedin.com/company/ficosa-international)
+
+    [X](https://x.com/FICOSA_Int)
 
 127. [The Big Tech Experience](http://www.thebigtech.es/)
 
     +34 876 53 86 43
+
     C. Asalto, 23, Casco Antiguo, 50002 Zaragoza
 
     +34 876 53 86 43
+
     Av. de los Pirineos, 7, Planta 1, 28703 San Sebastián de los Reyes, Madrid
 
     +34 876 53 86 43
+
     Carrer de Fontanars dels Alforins, 51, Patraix, 46014 Valencia
 
     +34 876 53 86 43
+
     C. Asalto, 23, Casco Antiguo, 50002 Zaragoza
+
+    hablamos@thebigtech.es
+
+    [LinkedIn](https://www.linkedin.com/company/35482921/admin/dashboard/)
+
+    [Instagram](https://www.instagram.com/thebigtechex/)
+
+    [X](https://x.com/TheBigTechEx)
 
 128. [E-PISTEME.TECH](https://e-pisteme.tech/)
 
     +34 722 27 64 75
+
     Calle Sierpes, 9, 37002 Salamanca
+
+    contact@e-pisteme.com
+
+    [Instagram](http://instagram.com/episteme.en)
+
+    [X](https://x.com/episteme_en)
 
 129. [K-tuin Salamanca · Apple Premium Reseller y Servicio Técnico Autorizado](https://www.k-tuin.com/)
 
     +34 923 21 86 73
+
     C. Concejo, 4, 37002 Salamanca
+
+    atc@k-tuin.com
+
+    [LinkedIn](https://www.linkedin.com/company/k-tuin-sistemas-inform-ticos)
+
+    [Instagram](https://instagram.com/ktuin_apple)
+
+    [X](https://x.com/ktuin)
 
 130. [BISITE Research Group - University of Salamanca](https://bisite.usal.es/)
 
     +34 923 29 44 00 ext. 1525
+
     Edificio I+D+i - C, C. Espejo, s/n, 37007 Salamanca
+
+    bisite@usal.es
+
+    [LinkedIn](https://es.linkedin.com/company/bisite-research-group)
+
+    [Instagram](https://www.instagram.com/bisite_usal/)
+
+    [X](http://www.x.com/bisite_usal)
 
 131. [Xoborg Technologies SL](https://www.xoborg.com/)
 
     +34 923 01 74 00
+
     C. Teso de San Nicolás, 17, Semisótano local 1, 37008 Salamanca
+
+    info@xoborg.com
+
+    [LinkedIn](https://linkedin.com/company/xoborg)
+
+    [Instagram](https://www.instagram.com/xoborg)
+
+    [X](https://www.x.com/xoborg)
 
 132. [Active Business & Technology](https://grupoactive.es/)
 
     +34 923 04 91 50
+
     Parque Científico USAL. C/ Del Adaja, 10 Edificio M3 - P1 08, 37185 Villamayor, Salamanca
+
+    +34 960 08 92 31
+
+    SKECHERS Showroom Valencia, Av. de les Corts Valencianes, 58, Oficina 209, Poblados del Oeste, 46015 Valencia
+
+    info@grupoactive.es
+
+    [LinkedIn](https://www.linkedin.com/company/active-business-and-technology)
 
 133. [Adap Soluciones Tecnológicas](http://www.adap-tec.es/)
 
     +34 923 99 07 94
+
     C. de la Parra, 3, 37001 Salamanca
+
+    comercial@adap-tec.es
 
 134. [CeX](https://es.webuy.com/)
 
     +34 923 49 54 48
+
     Av. de Mirat, 41, 37002 Salamanca
+
+    [Instagram](https://www.instagram.com/cexes)
+
+    [X](https://x.com/CeX_Espana)
 
 135. [GAME El Tormes](https://www.game.es/)
 
     +34 923 34 93 19
+
     C. Toro, 84, 37002 Salamanca
+
+    [Instagram](https://www.instagram.com/videojuegosgame/?hl=es)
+
+    [X](https://x.com/videojuegosgame)
 
 136. [Innovation Management & Information Technology AdviSer](http://imita.es/)
 
     Pl. España, 37900, Salamanca
 
+    imita@imita.es
+
+    [LinkedIn](https://www.linkedin.com/company/imita/)
+
 137. [ARSOFT](http://www.arsoft-company.com/)
 
     +34 923 49 65 22
+
     C. del Adaja, 10, 37185 Villamayor, Salamanca
+
+    contact-us@arsoft-company.com
+
+    [LinkedIn](https://www.linkedin.com/company/arsoft/)
+
+    [Instagram](https://www.instagram.com/arsoft.xr/)
 
 138. [IKEA](https://www.ikea.com/es/)
 
     +34 900 400 922
+
     Av. Salamanca, Centro Comercial, 37900 El Tormes, Salamanca
 
     +34 900 400 922
+
     Ruta de la Plata, C. Londres, 1, Centro Comercial, Oeste, 10005 Cáceres
+
+    business.acoruna.es@ikea.com
+
+    business.asturias@ikea.com
+
+    business.badalona@ikea.com
+
+    business.hospitalet@ikea.com
+
+    business.jerez.es@ikea.com
+
+    business.madrideste@ikea.com
+
+    business.malaga@ikea.com
+
+    business.murcia@ikea.com
+
+    business.pamplona@ikea.com
+
+    business.sanse@ikea.com
+
+    business.goya.es@ingka.ikea.com
+
+    business.sevilla@ikea.com
+
+    businessvalencia@ikea.com
+
+    business.zaragoza@ikea.com
+
+    business.alcorcon@ikea.com
+
+    business.barakaldo@ikea.com
+
+    business.sabadell.es@ikea.com
+
+    business.valladolid.es@ikea.com
+
+    [LinkedIn](https://www.linkedin.com/company/ikea)
+
+    [Instagram](https://www.instagram.com/ikeaspain/)
+
+    [X](https://x.com/IkeaSpain)
 
 139. [Technology Sport](http://technologysport.com/)
 
@@ -2499,10 +2785,10 @@
     +34 960 07 01 72
     Parque Empresarial Táctica, C. del Corretger, 21, 46980 Paterna, Valencia
 
-371. [Active Business & Technology](https://grupoactive.es/)
+371. Team&Talent Technologies SCP
 
-    +34 960 08 92 31
-    SKECHERS Showroom Valencia, Av. de les Corts Valencianes, 58, Oficina 209, Poblados del Oeste, 46015 Valencia
+    +34 928 93 92 71
+    C. Francisco Gourié, 107, 35002 Las Palmas de Gran Canaria, Las Palmas
 
 372. [Baintex Technologies SL](https://www.baintex.com/)
 
@@ -3061,13 +3347,3 @@
 483. [Live Now Technology](https://livenowtech.com/)
 
     Ctra. de Chile, 35, 35010 Las Palmas de Gran Canaria, Las Palmas
-
-484. Team&Talent Technologies SCP
-
-    +34 928 93 92 71
-    C. Francisco Gourié, 107, 35002 Las Palmas de Gran Canaria, Las Palmas
-
-485. [ADM Tech](http://www.admtech.aero/)
-
-    +34 606 04 25 91
-    C. las Adelfas, 7A, Planta 1, 35118 Agüimes, Las Palmas
