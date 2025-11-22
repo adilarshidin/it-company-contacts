@@ -3229,105 +3229,236 @@ Tech parks (numerous companies with contact info):
 301. [Beatik](https://epsl.ujaen.es/)
 
     +34 953 64 85 62
+
+    Phone/fax: +34 953 21 21 21
+
     Avda. de la Universidad, Ronda Sur, s/n, 23700 Linares, Jaén
+
+    info@ujaen.es
+
+    epsl@ujaen.es
+
+    [LinkedIn](https://www.linkedin.com/company/universidad-de-ja-n)
+
+    [Facebook](https://www.facebook.com/UniversidadJaen/)
+
+    [Instagram](https://instagram.com/universidadjaen/)
+
+    [X](https://x.com/ujaen)
+
+    [Youtube](https://www.youtube.com/@Universidad_Jaen)
+
+    [TikTok](https://www.tiktok.com/@universidadjaen?lang=es)
+
+    [Flickr](https://www.flickr.com/photos/101992261@N07/albums/)
 
 302. [Univertia](http://www.univertiaonline.com/)
 
     +34 953 96 20 75
+
     C. Villatorres, 19, 23009 Jaén
+
+    ventas@univertia.es
 
 303. [Electronic Access Office and New Technologies](https://sede.aytojaen.es/)
 
     +34 953 21 91 11
+
     C. Joaquín Tenorio, 12, 23001 Jaén
+
+    oic@aytojaen.es
+
+    [Facebook](https://www.facebook.com/AyuntamientodeJaen/)
+
+    [Instagram](https://www.instagram.com/ayuntamientodejaen/)
+
+    [X](https://x.com/aytojaen)
+
+    [Youtube](https://www.youtube.com/channel/UCnSdDnRzxSTjGqdM2Xp0xQA)
 
 304. [Somnum Technologies](http://www.somnum-technologies.es/)
 
     +34 953 03 82 58
+
     C. Italia, 23, Edificio CADE - Planta Primera, 23200 La Carolina, Jaén
+
+    info@somnum-technologies.com
+
+    [Instagram](https://www.instagram.com/somnumtech/)
+
+    [X](https://x.com/SomnumTech)
+
+    [Youtube](https://www.youtube.com/channel/UCoLbD-g_4u8zP7Tm0gS40MA)
 
 305. [Papelería Copimática](https://copimatica.es/)
 
     +34 669 41 11 71
+
+    +34 953 37 96 85
+
     P.º de España, 38, Local comercial, 23009 Jaén
+
+    info@copimatica.es
+
+    [Facebook](https://www.facebook.com/informaticabulevar/about/?ref=page_internal&locale=es_LA&paipv=0&eav=AfZmjnj8RpeHg2TWaToi0t36hgmNsjpzcooyHapjkMgsr9OF8UlyTM0mU6LVvUv1xoc&_rdr)
 
 306. [Tech Linku](https://www.linku.es/)
 
     +34 950 55 24 63
+
     C. Sierra de Gádor, Nº 8, local, 04720 El Parador de las Hortichuelas, Almería
+
+    info@linku.es
 
 307. [Adil TECH. Servicio tecnico](https://www.adiltech.es/)
 
     +34 642 55 33 00
+
     Av. Constitución, 168, 04117 San Isidro de Níjar, Almería
 
 308. [Revolution Technology](https://revolutiontech.services/)
 
+    +34 711 02 83 40
+
     +34 694 44 01 84
+
     Av. de Almeria, 1, 04639 Turre, Almería
 
     +34 850 99 14 89
+
     C. Sol, 2, 04661 Zurgena, Almería
+
+    revolutionsales@protonmail.com
+
+    [Facebook](https://www.facebook.com/profile.php?id=100089845614194)
 
 309. [CheckTheMeds Technology S.L.](http://www.checkthemeds.com/)
 
     +34 950 57 01 08
+
     Blvr. de el Ejido, 290, 04700 El Ejido, Almería
+
+    informa@checkthemeds.com
 
 310. [Nep Technology](http://www.neptechnology.es/)
 
     +34 620 61 58 29
+
     Cam. de los Parrales, 310, Edificio Aguamarina Portal II Piso 4 Letra C, 04720 Aguadulce, Almería
 
 311. [Dsruptive Subdermals](http://dsruptive.com/)
 
     +34 623 03 77 63
+
     Edificio Sede Científica PITA,, Universidad de Almeria, 04120 Almería
+
+    juanbravo@bravosolutionss.com
+
+    [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.bravosolutionss.com/contacto/)
+
+    [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.bravosolutionss.com/contacto/)
+
+    [X](https://x.com/intent/tweet?url=https://www.bravosolutionss.com/contacto/)
+
+    [Pinterest](http://pinterest.com/pin/create/button/?url=https://www.bravosolutionss.com/contacto/&media=)
+
+    [Google+](https://plus.google.com/share?url=https://www.bravosolutionss.com/contacto/)
+
+    [RSS](https://www.bravosolutionss.com/contacto/?feed=rss2&withoutcomments=1)
 
 312. [Sepeye Technology](http://www.sepeye.es/)
 
     +34 641 14 35 97
+
     Av. de Cabo de Gata, 128, 04007 Almería
+
+    [Facebook](https://www.facebook.com/profile.php?id=61571276652636)
+
+    [Instagram](https://www.instagram.com/sepeyetechnology/)
 
 313. [YET Fashion Technology B2B](https://b2b.shinydeco.es/)
 
     +34 950 28 11 33
+
     Av. Mare Nostrum, 20, 04009 Almería
 
 314. [Agro-Technology](http://agro-technology.com/)
 
     +34 950 57 02 03
+
+    +34 956 38 00 01
+
+    +34 609 86 79 07
+
+    Fax: +34 950 48 63 50/+34 956 38 00 01
+
     C. Bastidor, 15, 04700 El Ejido, Almería
+
+    info@agro-technology.com
+
+    himarcan@himarcan.com
 
 315. [Tech Fruit Natural, S.A.](https://fruitandtech.com/)
 
     +34 968 27 82 00
+
     Ctra. Madrid, km 390, 30100 Espinardo, Murcia
+
+    info@fruitandtech.com
 
 316. [Tech Bike Area](http://www.techbikearea.com/)
 
     +34 968 63 97 51
+
     Av. Europa, 22, 30840 Alhama de Murcia, Murcia
+
+    [Instagram](https://www.instagram.com/techbikearea/)
 
 317. [Tienda Tecno - Ordenadores y Móviles](https://tiendatecno.es/)
 
     +34 968 31 74 36
+
     C. del Pilar, 7, Bajo 5, 30004 Murcia
+
+    info@tiendatecno.es
 
 318. [SH Informática](http://www.shinform.net/)
 
     +34 615 64 70 58
+
     Avda 28 de Febrero, s/n Detras de Repuestos, 04800 Albox, Almería
+
+    info@shinform.net
+
+    [Facebook](https://www.facebook.com/shinform)
+
+    [Instagram](https://instagram.com/shinform2016)
 
 319. [Energy Tech Consultoria Energetica Slu](http://www.energy-tech.es/)
 
     +34 722 58 49 33
+
     C. de Molina de Segura, 5, 0, 30007 Murcia
+
+    info@energy-tech.es
+
+    [Whatsapp](https://api.whatsapp.com/send?phone=34722584933)
+
+    [LinkedIn](https://es.linkedin.com/in/manuel-mira-s%C3%A1nchez-0b0546109?original_referer=https%3A%2F%2Fenergy-tech.es%2F)
 
 320. [Bitec - Business Intelligence Technology](http://www.bitec.es/)
 
     +34 968 24 32 35
+
     P.º Joaquín Garrigues Walker, 14, 30007 Murcia
+
+    [LinkedIn](https://www.linkedin.com/company/bitec-business-intelligence-technology-?originalSubdomain=es)
+
+    [Facebook](https://www.facebook.com/bitec.es/)
+
+    [Instagram](https://www.instagram.com/bitec_es/)
+
+    [Youtube](https://www.youtube.com/channel/UCmGzW00QmEJXyXi3DnN54Pg)
 
 321. [Codiant Tech](https://www.codiant.tech/)
 
