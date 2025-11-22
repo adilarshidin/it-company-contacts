@@ -91,4 +91,8 @@ The queries were used for a list of town in each of the countries (alphabeticall
 
 View the `data` directory to refer to a list corresponding to each of the countries. Number in the brackets means the amount of companies for that country that are recorded here.
 
-- Spain (488)
+- Spain
+
+### Reminders
+
+* Started collecting all socials from Spain 258

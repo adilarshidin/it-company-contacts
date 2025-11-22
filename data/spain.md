@@ -1,3 +1,9 @@
+Tech parks (numerous companies with contact info):
+
+* [Andalusia](https://www.pta.es/en/companies/)
+
+* [Asturia](https://linea.sekuens.es/empresa/buscar?search_by_nombre=&search_by_municipio=&search_by_area=Parque%20Tecnol%C3%B3gico%20de%20Asturias%20(PT%20Asturias)&search_by_sector=)
+
 1. [SRG INFORMATICA](http://www.srginformatica.es/)
 
     +34 886 09 04 40
@@ -2708,35 +2714,71 @@
 
     C/ Camino de la Cruz, 29602 Marbella, Málaga
 
+    info@marbellamacsolutions.com
+
+    [Instagram](https://www.instagram.com/MarbellaTechSolutions/)
+
 253. [AZ Technology](http://aztechnology.es/)
 
     +34 951 87 00 27
+
     Bda. San José, 12, bajo D, 29200 Antequera, Málaga
+
+    info@aztechnology.es
+
+    [LinkedIn](https://es.linkedin.com/company/aztechnology)
+
+    [Instagram](https://www.instagram.com/aztech.es/)
 
 254. [DHV Technology](http://dhvtechnology.com/)
 
     +34 951 95 68 37
+
     C. Severo Ochoa, 13, Campanillas, 29590 Málaga
+
+    enquiry@dhvtechnology.com
+
+    info@dhvtechnology.com
 
 255. [STC Technology](http://www.stccordoba.com/)
 
     +34 957 07 01 77
+
     Polígono Industrial Tecnocórdoba, parcela 52, C. Varsovia, 27, 14014 Córdoba
+
+    info@stccordoba.com
+
+    [Instagram](https://www.instagram.com/stc_fausgar/)
 
 256. [DEISA Technologies](https://www.deisa.com/)
 
     +34 954 83 40 52
+
     Av. Miguel de Cervantes, 37, 41400 Écija, Sevilla
+
+    deisa@deisa.com
+
+    [LinkedIn](https://www.linkedin.com/company/deisa)
 
 257. [Hispania Technologies](http://hispaniatechnologies.com/)
 
     +34 676 44 99 68
+
     C. Melilla, 3, 2°-2, Sureste, 14010 Córdoba
 
 258. [WolfWare Technology](https://www.wolfware.pro/)
 
     +34 627 15 70 49
+
     Av. Dr. Fleming, 71, 14860 Doña Mencía, Córdoba
+
+    info@demolink.org
+
+    [Facebook](https://www.facebook.com/WolfWareES)
+
+    [Instagram](https://www.instagram.com/wolfwarees/)
+
+    [X](https://twitter.com/WolfWareES)
 
 259. [Tech Logig Geniuses. Sl](http://www.logicgeniuses.tech/)
 
@@ -2745,125 +2787,262 @@
 260. [OVP Software Technologies](http://www.ovpsoftware.com/)
 
     +34 910 00 75 95
+
     C. Músico Ziryab, 8, Local 4, Poniente Sur, 14005 Córdoba
+
+    info@ovpsoftware.com
 
 261. [HEALIOS TECHNOLOGIES S.L.](https://healios.io/)
 
     +34 644 43 96 64
+
     Av. Ronda de los Tejares, 5, Planta 7 Puerta A, Centro, 14001 Córdoba
 
 262. [Utepils Technologies](https://www.utepils.es/)
 
     +34 857 80 10 20
+
     C. Martín Gaite, 1, Local, Nte. Sierra, 14006 Córdoba
+
+    hola@utepils.es
 
 263. [CTG Technology](https://www.ctg-tech.com/)
 
     +34 684 40 40 83
 
+    rafael@ctg-tech.com
+
+    [LinkedIn](https://www.linkedin.com/company/ctg-technology/)
+
+    [Facebook](https://www.facebook.com/ctgtechnologygroup)
+
 264. Avanticontrol Innovation & Technology
 
     +34 957 34 83 93
+
     Av. de la Libertad, 22, Noroeste, 14006 Córdoba
 
 265. [Onimagin Technologies](http://www.onimagin.com/)
 
-266. [Torero Tech](http://torerotech.com/)
+    hello@onimagin.com
+
+    [LinkedIn](https://www.linkedin.com/company/onimagin-technologies-sca)
+
+266. Torero Tech
 
     +34 608 25 75 03
+
     Calle Casapalma, 4, Distrito Centro, 29008 Málaga
 
 267. [Saber.tech](https://saber.tech/)
 
     C. Hoyo de Esparteros, 3, Distrito Centro, 29005 Málaga
 
+    [LinkedIn](https://www.linkedin.com/company/sabertech/)
+
 268. [WAU Technologies](https://wautechnologies.com/)
 
     +34 674 78 94 09
+
     Calle Cortina del Muelle, 11, 1ª planta, Distrito Centro, 29015 Málaga
 
     +34 968 92 97 70
+
     Senda de Granada, 133, 1, 30110 Churra, Murcia
 
     +34 865 88 80 80
+
     Periodista Tirso Marín, 16, Local 2A, 03540 Alicante
 
     +34 968 92 97 70
+
     Avinguda de Jean Claude Combaldieu, s/n, 03008 Alicante
+
+    hola@wautechnologies.com
+
+    [LinkedIn](https://www.linkedin.com/company/wautechnologies/)
+
+    [Instagram](https://www.instagram.com/wautechnologies/)
+
+    [X](https://x.com/WAUTechnologies)
+
+    [Youtube](https://www.youtube.com/@wautechnologies1314)
+
+    [Spotify](https://open.spotify.com/show/7gGxe0nqrVvpJdPaH7UxaK?si=d646e534ffec4639)
 
 269. [U2 LAB - Smart Tech Solutions](https://www.es.u2-lab.com/)
 
     +34 609 77 40 51
+
     "C. la Celesta, 19, Málaga-Este, 29018 Málaga
+
+    info@u2-lab.com
+
+    sales@u2-lab.com
+
+    invoice@u2-lab.com
+
+    courses@u2-lab.com
+
+    dpp@u2-lab.com
+
+    support@u2-lab.com
+
+    [LinkedIn](www.linkedin.com/company/u2-lab)
+
+    [Facebook](www.facebook.com/u2labcom)
+
+    [Instagram](www.instagram.com/u2.labcom)
+
+    [X](https://twitter.com/u2_lab)
+
+    [Pinterest](www.pinterest.com/u2lab)
 
 270. RLM TECH
 
     +34 956 67 72 26
+
     C. Fragata, 12, 11379 Los Barrios, Cádiz
 
 271. [Atech - Allied Technologies](http://www.atech.es/)
 
     +34 951 09 48 49
+
     C. Fernán Núñez, 16, oficina 4, Distrito Centro, 29002 Málaga
+
+    info@atech.es
+    
+    administracion@atech.es
+
+    [LinkedIn](https://www.linkedin.com/company/atech-allied-technologies/)
+
+    [Facebook](https://www.facebook.com/pages/Atech/455184821214182?fref=ts)
+
+    [X](https://x.com/Atech_malaga)
 
 272. [Wild Tech](https://www.wildtech.es/)
 
     +34 640 61 30 05
+
     Alameda Principal, 6, Distrito Centro, 29005 Málaga
+
+    proyectos@wildtech.es
 
 273. [SunValley Technologies](http://sunvalley.com.es/)
 
     +34 952 76 83 16
+
     Plaza de los Olivos, 2, 29601 Marbella, Málaga
+
+    info@sunvalley.com.es
 
 274. [oGov Tech](https://ogov.tech/)
 
     +34 674 00 50 73
+
     Estudio 2, Promálaga Citylab, Pl. Pintor Eugenio Chicano, 4, Distrito Centro, 29008 Málaga
+
+    anagloria.gomez@ogovsystem.com
+
+    [LinkedIn](https://www.linkedin.com/company/ogov/)
+
+    [Facebook](https://www.facebook.com/ogovsystem/)
+
+    [X](https://x.com/ogov_tech)
+
+    [Youtube](https://www.youtube.com/channel/UCfec6fQtVzHlGae-m9VAaSg%20)
 
 275. [Asociación Málaga Tech](https://techmalaga.com/)
 
     Polo de Contenidos Digitales, Av de Sor Teresa Prat, 15, Carretera de Cádiz, 29003 Málaga
 
+    info@techmalaga.com
+
+    [LinkedIn](https://www.linkedin.com/company/malaga-tech/)
+
+    [Instagram](https://www.instagram.com/tech_malaga/)
+
+    [Discord](https://discord.gg/sUxgXukYmX)
+
 276. [Tech Professional Lighting Light](http://www.techluz.com/)
 
     +34 958 10 59 88
+
     C. Torre de Comares, 1, Zaidín, 18007 Granada
+
+    info@techluz.com
+
+    [Facebook](https://www.facebook.com/techluzgranada/)
+
+    [Instagram](https://www.instagram.com/techluziluminacion/)
 
 277. [onGranada Tech City](http://www.ongranada.com/)
 
     +34 958 53 50 41
+
     C. Maestro Montero, 2, 3, Ronda, 18004 Granada
+
+    comunicacion@ontechinnovation.com
+
+    [LinkedIn](https://www.linkedin.com/company/ontechinnovation)
+
+    [Facebook](https://www.facebook.com/ontechinnova)
+
+    [X](https://x.com/ontech_innova)
+
+    [Youtube](https://www.youtube.com/@ClusteronTechInnovation)
 
 278. [Alu tech design](https://www.a-t-d.es/)
 
     +34 690 11 34 44
+
     C. Carlos Cano, 2, 18310 Salar, Granada
+
+    info@a-t-d.es
 
 279. [PAPELTECH - PTETECH (PAPEL TECNOLOGÍA Y EVENTOS SL)](http://www.papeltech.es/)
 
     +34 602 40 18 15
+
     C. San Ramón, 36, BL3, 18194 Churriana de la Vega, Granada
 
-280. [Hashtag Technology](https://hashtagtechnology.es/)
+    info@ptetech.es
+
+    [LinkedIn](https://www.papeltech.es/#)
+
+    [Facebook](https://www.facebook.com/tiendaptetech/)
+
+    [Instagram](https://www.papeltech.es/#)
+
+280. Hashtag Technology
 
     C. Reyes Católicos, 18100 Armilla, Granada
 
-281. [LTECH](https://ltechcompanys.com/)
+281. LTECH
 
     +34 631 72 47 76
+
     Pza. del Realejo, 1, Local 2 y 3, Centro, 18009 Granada
 
 282. [GALAXIA](http://galaxiatechnology.com/)
 
     +34 722 40 50 06
+
     Carrera de Natalio Rivas, 85, 04770 Adra, Almería
+
     Av. José Barrionuevo Peña, 49, 04760 Berja, Almería
+
+    [Instagram](https://www.instagram.com/galaxia.technology?igsh=MWp3ZjJ3a2J5N2xlag==)
+
+    [TikTok](https://www.tiktok.com/@galaxia.technology?is_from_webapp=1&sender_device=pc)
 
 283. Panoramik SoleaTec
 
     +34 958 64 01 49
+
     C. la Unidad, 9, 18697 La Herradura, Granada
+
+    https://www.soleatec.es/cookies/
 
 284. JLAI Tech
 
@@ -2872,81 +3051,180 @@
 285. [Biotecna Medical Technology](https://www.biotecna.es/)
 
     +34 958 78 47 32
+
     C. Tierno Galván, 4, local, 18100 Armilla, Granada
 
-286. Dasware Technologies, SLU
+    info@biotecna.es
+
+    [Facebook](https://www.facebook.com/biotecnamedicaltechnology/)
+
+    [Instagram](https://www.instagram.com/biotecna.medical.technology/)
+
+    [Youtube](https://www.youtube.com/user/biotecnabusiness)
+
+286. [Dasware Technologies, SLU](https://www.openpark.city/)
 
     +34 744 61 36 39
+
     Av. del Conocimiento, 16, 18100 Armilla, Granada
 
-287. [TOP TECHNOLOGY](https://www.toptechnology.es/)
+    info@daswaretech.com
+
+    [LinkedIn](https://www.linkedin.com/company/dasware-technologies-s-l-/?originalSubdomain=es)
+
+287. TOP TECHNOLOGY
 
     +34 644 73 22 40
+
     C. Verdemar, 4, local 3, 29740 Torre del Mar, Málaga
 
 288. [CIDAF. Technology Center](http://www.cidaf.es/)
 
     +34 958 63 72 06
+
     Av. del Conocimiento, 37, 18016 Granada
+
+    info@cidaf.es
+
+    [LinkedIn](https://www.linkedin.com/company/cidaf-centro-tecnologico/)
+
+    [Facebook](https://www.facebook.com/CIDAF-338478016265673/)
+
+    [X](https://x.com/CIDAF_GR)
+
+    [Youtube](https://www.youtube.com/@cidafcentrotecnologico985)
 
 289. [Ciax Technology](http://www.ciax.es/)
 
     +34 952 55 80 64
+
     C. Río Tinto, 7, E Local, 29700 Vélez-Málaga, Málaga
+
+    info@ciax.es
+
+    [Whatsapp](https://wa.me/34672351168)
+
+    [Facebook](https://www.facebook.com/ciaxtechnology/)
 
 290. [inicia#TECH](http://www.inicia.tech/)
 
     +34 951 73 02 63
+
     C. Pintada, 21, Local 4, 29780 Nerja, Málaga
 
-291. [Tech Para Ti](https://techparati.store/)
+    info@inicia.tech
+
+    [Facebook](https://www.facebook.com/inicia.TECH.cte/)
+
+    [Instagram](https://www.instagram.com/iniciatech/)
+
+    [X](https://x.com/inicia_tech)
+
+    [Youtube](https://www.youtube.com/channel/UCsPRKZj7-ra70lRIMBpserA)
+
+291. Tech Para Ti
 
     +34 661 93 43 66
+
     C. Carril del Picón, Ronda, 18002 Granada
 
 292. [Bewor Tech](https://bewor.com/)
 
     +34 637 09 17 45
+
     Edificio CEG, 18230 Atarfe, Granada
+
+    helpdesk@bewor.com
 
 293. [Hispacolex Tech Consulting S.L.](https://www.hispacolextech.com/)
 
     +34 858 88 73 22
+
     C. Trajano, 8, Ronda, 18002 Granada
+
+    hola@hispacolextech.com
+
+    [Whatsapp](https://www.google.com/url?q=https%3A%2F%2Fwa.me%2F34858889050%3Ftext%3DHola!%2520Necesitar%25C3%25ADa%2520informaci%25C3%25B3n%2520sobre&sa=D&sntz=1&usg=AOvVaw1PIbJ0i2gLw9u_5TeI1arW)
+
+    [LinkedIn](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fhispacolex-tech-consulting&sa=D&sntz=1&usg=AOvVaw1x7L6LiXMmLVH0DOGjHdjA)
 
 294. [PB TECH RENOVABLES](https://pbtech.es/)
 
     +34 722 14 02 94
+
+    +34 951 449 395
+
+    +34 671 643 211
+
     Pol. Ind. Juncaril, C. Loja, Parcela 2, Local 6 Oficina C y D, 18.220, 18220 Albolote, Granada
+
+    info@pbtech.es
+
+    [Facebook](https://www.facebook.com/profile.php?id=61552796530964)
+
+    [Instagram](https://www.instagram.com/pb_tech_renovables/)
 
 295. [Seguros.Tech](https://www.seguros.tech/)
 
     +34 858 88 90 51
+
     C. Trajano, 8, Planta 1, Ronda, 18002 Granada
+
+    equipo@seguros.tech
+
+    [LinkedIn](https://www.linkedin.com/in/adrian-crovetto-romero/)
+
+    [Youtube](https://www.youtube.com/channel/UC_SPjk3e-RO1k-UJ7f__KeA/p)
 
 296. [Ciax Technology](http://www.ciax.es/)
 
     +34 952 55 80 64
+
     C. Río Tinto, 7, E Local, 29700 Vélez-Málaga, Málaga
+
+    info@ciax.es
+
+    [Whatsapp](https://api.whatsapp.com/send/?phone=34672351168&text&type=phone_number&app_absent=0)
 
 297. [Jensen Technologies SL](http://jensen.technology/)
 
     +34 858 28 40 04
+
     C. Granada, 21, Genil, 18008 Granada
+
+    parts-es@jensen-group.com
+    
+    service-es@jensen-group.com
+
+    [LinkedIn](https://www.linkedin.com/company/jensen-technologies-s-l-/)
+
+    [Facebook](https://www.facebook.com/jensen.technologies)
+
+    [Bluesky](https://bsky.app/profile/jensen.technology)
 
 298. [Balinot Tech Consulting | Consultoría tecnológica, branding y desarrollo web y aplicaciones desde Granada](https://www.balinot.com/)
 
     +34 685 74 97 17
+
     C. Recogidas, 24, Portal A, escalera B, 1ºC, Centro, 18002 Granada
+
+    matias@balinot.com
+
+    francisco@balinot.com
 
 299. [Arpe Tech](https://arpe-tech.com/)
 
     +34 646 07 95 80
+
     Av. Vizconde de Rias, 12, Local 2, 18630 Otura, Granada
 
 300. [Everyware Technologies](https://www.everyware.es/)
 
     CETIC-UGR, C. Periodista Fernando Gómez de la Cruz, 2, Planta 1, oficina 6, Chana, 18015 Granada
+
+    [LinkedIn](https://www.linkedin.com/company/everyware-technologies-sl/)
+
+    [X](https://x.com/everywaretech)
 
 301. [Beatik](https://epsl.ujaen.es/)
 
