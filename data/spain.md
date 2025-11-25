@@ -4059,115 +4059,276 @@ Tech parks (numerous companies with contact info):
 374. [Vidext Technologies S.L.](https://www.vidext.io/)
 
     +34 614 32 05 22
+
     Carrer de Martí l'Humà, 1, Extramurs, 46008 Valencia
+
+    support@vidext.io
+
+    [LinkedIn](https://www.linkedin.com/company/vidext/?originalSubdomain=es)
+
+    [Instagram](https://www.instagram.com/vidext.io/)
+
+    [X](https://x.com/vidext_io)
+
+    [Youtube](https://www.youtube.com/channel/UCRqbWdSMmrhITjBYxVVeXbw)
 
 375. [C-Tech Composites](https://www.c-techcomposites.com/)
 
     +34 964 01 11 73
+
     Av. España, 16B, 12180 Cabanes, Castelló
+
+    orders@c-tech.co.nz
+
+    info@c-techcomposites.com
+
+    [LinkedIn](https://www.linkedin.com/company/c-tech-ltd/?originalSubdomain=nz)
+
+    [Facebook](https://www.facebook.com/C-Tech-Carbon-Technology-192223727476092/)
+
+    [Youtube](https://www.youtube.com/user/ctechltd/videos)
 
 376. [Wisclic Tech](https://wisclic.com/)
 
     +34 642 33 79 59
+
     Jaume I University, Espaitec 2, Avinguda de Vicent Sos Baynat, s/n, 12006 Castellón de la Plana, Castellón
+
+    info@wisclic.com
 
 377. [DFLabs Tech Solutions SL](https://orbys.eu/)
 
     +34 964 24 78 15
+
     Carrer Valencia-late, 4, 12539 Castellón
+
+    raquelm@orbys.eu
+
+    [LinkedIn](https://www.linkedin.com/company/56386/admin/)
 
 378. Zesna Technology
 
     +34 617 97 23 97
+
     Carrer de Ruiz Vila, 35, 12001 Castellón de la Plana, Castellón
 
 379. [Tikka Eivissa S.L.](https://www.tikka.es/)
 
     +34 971 30 16 38
+
     Carrer d'Atzaró, 18, 07800 Ibiza, Balearic Islands
+
+    tikka@tikka.es
 
 380. [SOLAR TECH IBIZA](http://www.solaribiza.es/)
 
     +34 637 23 35 16
+
     C Isidoro Macabich, 1, 07816 Sant Rafel, Illes Balears
+
+    jcgato@gmail.com
+
+    [LinkedIn](https://linkedin.com/in/jcmartinezgato44/)
+
+    [Facebook](https://facebook.com/juansolaribiza)
+
+    [Instagram](https://instagram.com/fxlightdecoribiza/)
 
 381. [Tienda Informática Ibiza - Online](https://www.tiendainformaticaibiza.com/)
 
     +34 628 53 79 63
+
     Sólo recogida de pedidos, Carrer d'Extremadura, 16, 1-A, 07800 Ibiza, Balearic Islands
+
+    ventas@tiendainformaticaibiza.com
+
+    [Whatsapp](https://api.whatsapp.com/send?phone=34+34628537963)
 
 382. [iBiMATiK](https://www.ibimatik.com/)
 
     +34 971 34 68 96
+
     Carrer des Caló, 23, 07829 Cala de Bou, Balearic Islands
 
-383. [APP Informática Eivissa](https://www.appinformatica.com/)
+    ibimatica@gmail.com
+
+383. [APP Informática](https://www.appinformatica.com/)
 
     +34 605 49 50 80
+
     Carrer d'Agapit Llobet, 4, 07800 Ibiza, Balearic Islands
+
+    +34 971 80 32 50
+
+    Carrer de Cervantes, 40, 07820 Sant Antoni de Portmany, Balearic Islands
+
+    ventaonline@appinformatica.com
+
+    [Facebook](https://www.facebook.com/tiendasappinformatica)
+
+    [Instagram](https://www.instagram.com/tiendasappinformatica)
+
+    [X](https://x.com/i/flow/login?redirect_after_login=%2Ftiendasapp)
+
+    [Youtube](https://www.youtube.com/user/TiendasAPP)
 
 384. [INTECAT](https://www.intecat.com/es/)
 
     +34 971 19 17 65
+
     Avinguda d'Ignasi Wallis, 24, 07800 Ibiza, Balearic Islands
 
     +34 971 33 07 96
+
     Carrer de Sant Jaume, 83, 1B, 07840 Santa Eulària des Riu, Balearic Islands
 
-385. [App Informática San Antonio-Centro](http://www.appinformatica.com/)
+    info@intecat.com
 
-    +34 971 80 32 50
-    Carrer de Cervantes, 40, 07820 Sant Antoni de Portmany, Balearic Islands
+    [Facebook](https://www.facebook.com/intecat)
+
+    [Instagram](https://www.instagram.com/intecat_apple)
+
+    [X](https://x.com/intecat)
+
+    [Tiktok](https://www.tiktok.com/@intecat)
+
+    [Youtube](https://www.youtube.com/@intecat_apple)
+
+385. Tiburox.tech
+
+    +34 661 64 62 20
+
+    C. Lomo la Plana, 35019 Las Palmas de Gran Canaria, Las Palmas
 
 386. [ASmac Apple ibiza](http://www.asmac.es/)
 
     +34 687 77 59 80
+
     Calle Pere frances, Pl. de Toros, 22B, 07800 Eivissa, Illes Balears
+
+    info@asmac.es
+
+    [Facebook](https://www.facebook.com/asmac.ibiza/)
+
+    [Instagram](https://www.instagram.com/asmacibiza/)
 
 387. [LUZ CLIMA TECH SL](https://luzclimatech.com/)
 
     +34 681 87 41 21
+
     Carrer de Josep Zornoza Bernabeu, 11, 07800 Ibiza, Balearic Islands
+
+    info.luzclima@gmail.com
 
 388. [Euronics Sonyvisión](https://www.euronics.es/)
 
     +34 971 30 43 83
+
     Carrer d'Extremadura, 8, 07800 Ibiza, Balearic Islands
+
+    euronics@ibizainformacion.com
+
+    [Facebook](https://www.facebook.com/euronics.es)
+
+    [Instagram](https://www.instagram.com/euronics_es/)
 
 389. [Y-E-S Your Everyday Superhero](https://yes-official.com/)
 
     +34 624 83 74 63
+
     Av. Miramar, 3, 07871 Es Pujols, Illes Balears
+
+    miriam.commerciale@incotone.it
+
+    stefania.nuovaincotone@gmail.com
+
+    gianni.fortunato@incotone.it
+
+    graficaincotone@gmail.com
+
+    info@incotone.it
+
+    [Facebook](https://www.facebook.com/Yesbeachwear/)
+
+    [Instagram](https://www.instagram.com/y_e_s_official/?hl=it)
 
 390. [TECH Mallorca](http://www.techmallorca.es/)
 
     +34 971 57 47 41
+
     Carrer Joan d'Austria, 17, 07300 Inca, Balearic Islands
+
+    d.amat@techmallorca.es
+
+    [LinkedIn](https://www.linkedin.com/company/67206210)
+
+    [Facebook](https://www.facebook.com/techmallorca.es)
+
+    [Instagram](https://www.instagram.com/techmallorca)
+
+    [X](https://x.com/tech_mallorca)
 
 391. [TECH-PROJECTS](http://www.tech-projects.es/)
 
     +34 971 70 73 83
+
     Av. d'Antoni Maura, 24, 2, Centre, 07012 Palma, Illes Balears
+
+    lorenzomas@tech-projects.es
+
+    [LinkedIn](https://www.linkedin.com/in/lloren%C3%A7-mas-rossell%C3%B3-129545163/)
 
 392. [MUSSAI TECH](https://mussai.eu/)
 
     +34 613 85 51 74
+
+    +34 663 509 340
+
     C. del Lluç, 22, 07687 S'Illot-Cala Morlanda, Illes Balears
+
+    hello@mussai.eu
+
+    [LinkedIn](https://www.linkedin.com/company/101517932/)
+
+    [Facebook](https://www.facebook.com/profile.php?id=61579028973740)
+
+    [Instagram](https://www.instagram.com/mussai.tech/)
 
 393. [PLAVED TECH](https://plaved.com/)
 
     +34 871 25 34 70
+
     Parc Bit, Carrer Maria Agnesi, S/N, Edificio 17, Planta 3, Local D1, Norte, 07120 Palma, Balearic Islands
+
+    servicios@plaved.tech
 
 394. [Illatech](https://www.illatech.es/)
 
     +34 667 61 77 93
+
     Carrer Pescador, nº 10, 07638 Colònia de Sant Jordi, Balearic Islands
+
+    info@illatech.com
+
+    [Whatsapp](https://wa.me/667617793)
+
+    [LinkedIn](https://www.linkedin.com/in/madroverq)
+
+    [Instagram](https://www.instagram.com/illatech.es/)
+
+    [Tiktok](https://www.tiktok.com/@illatech.es)
 
 395. [E - Tech Yachting](http://www.etechyachting.com/)
 
     +34 671 00 07 00
+
+    +34 971 43 11 55
+
     Mlle. Viejo, Edificio STP, 07012 Palma, Illes Balears
+
+    info@etechyachting.com
+
+    [LinkedIn](https://www.linkedin.com/company/etech-yachting)
 
 396. Tap It Tech
 
@@ -4176,21 +4337,45 @@ Tech parks (numerous companies with contact info):
 397. [Asensi Technologies](https://tech.asensi.es/)
 
     +34 971 90 92 19
+
     Av. de Jaume III, 1, Primera planta, Distrito Centro, 07012 Palma, Balearic Islands
 
-398. [APSL Nagarro - Advanced Programming Solutions SL](https://apsl.tech/)
+    InfoLab@asensi.es
+
+398. [APSL Nagarro - Advanced Programming Solutions SL](https:f//apsl.tech/)
 
     +34 971 43 97 71
+
     Carrer Isaac Newton, Norte, 07120 Palma, Balearic Islands
+
+    info@apsl.net
+
+    [LinkedIn](https://www.linkedin.com/company/apsl-tech)
+
+    [X](https://x.com/apsl_tech?lang=es)
+
+    [Youtube](https://www.youtube.com/channel/UCT0ndP9FPOea9dgPkqB74PQ/videos)
+
+    [Github](https://github.com/APSL)
 
 399. [Ei-tech Energy & Engineering](http://ei-tech.es/)
 
     +34 722 65 92 53
+
     Carrer de la Reina Constança, 3, Levante, 07006 Palma, Balearic Islands
+
+    info@ei-tech.es
+
+    [LinkedIn](https://www.linkedin.com/company/wix-com)
+
+    [Facebook](http://www.facebook.com/WixEspanol)
+
+    [Google+](http://plus.google.com/u/0/communities/102489793250604319535)
 
 400. [High Tech System](http://hightechsystem.info/)
 
     +34 971 47 73 76
+
     Carrer de l'Alber, 29A, Levante, 07008 Palma, Balearic Islands
 
 401. EO Tech
@@ -4579,8 +4764,3 @@ Tech parks (numerous companies with contact info):
 
     +34 646 75 25 12
     C. Reyes Católicos, 12, 35572 Aias, Las Palmas
-
-479. Tiburox.tech
-
-    +34 661 64 62 20
-    C. Lomo la Plana, 35019 Las Palmas de Gran Canaria, Las Palmas
