@@ -4381,12 +4381,20 @@ Tech parks (numerous companies with contact info):
 401. EO Tech
 
     +34 971 59 39 27
+
     Carrer de Niceto Alcalá Zamora, nº32, 07013 Palma, Balearic Islands
 
 402. [Juniper Travel Technology - Europe Headquarters](http://www.ejuniper.com/)
 
     +34 971 76 44 15
+
     Gremi des Fusters, 33, Oficina 302, Norte, 07009 Palma, Balearic Islands
+
+    info@ejuniper.com
+
+    [LinkedIn](https://www.linkedin.com/company/juniper/)
+
+    [Youtube](https://www.youtube.com/c/Ejuniper_en)
 
 403. Otium Technologies
 
@@ -4395,35 +4403,80 @@ Tech parks (numerous companies with contact info):
 404. [Fragile Technologies](https://fragile.tech/)
 
     +34 665 45 08 25
+
     Carrer de Margalida Caimari, 22-26, Levante, 07005 Palma, Balearic Islands
+
+    info@fragile.tech
 
 405. [Sling Technology a MinData company](https://www.mindata.es/)
 
+    +34 910 207 069
+
     Gremi des Fusters, 33, Nord, 07009 Palma, Illes Balears
+
+    departamento.administración@mindata.es
+
+    [LinkedIn - mindata](https://www.linkedin.com/company/mindata)
+
+    [LinkedIn - wicom](https://www.linkedin.com/company/wicom-wireless-communications/)
+
+    [LinkedIn - sling technology](https://www.linkedin.com/company/sling-technology/)
 
 406. [Roibos](https://www.roibos.com/)
 
     +34 871 18 70 03
+
     Gremi des Fusters, 33, Office 325, Norte, 07009 Palma, Balearic Islands
+
+    contact@roibos.com
+
+    [LinkedIn](https://www.linkedin.com/company/roibos-technologies/)
+
+    [Facebook](https://www.facebook.com/roibosmarketplace)
+
+    [Instagram](https://www.instagram.com/roibostechnologies_/)
+
+    [Youtube](https://www.youtube.com/c/RoibosTechnologies/)
 
 407. [iSystems Information Technologies SL](https://www.isystems.es/)
 
     Gran Via Asima, nº 4, 3ro izq Edificio Polígono, Norte, 07009 Palma, Balearic Islands
 
+    contacto@isystems.es
+
+    [LinkedIn](https://www.linkedin.com/company/isystems)
+
 408. VECI Group Tech S. L.
 
     +34 971 92 59 81
+
     S/N, edificio Logitravel, Carrer Galileo Galilei, 07121 Palma, Illes Balears
 
 409. [MAI Technology](http://www.maitechnology.com/)
 
-    +34 971 51 84 30
+    +34 971 647 892
+    
+    +34 610 209 036
+
     Carrer de Tià Roig, 17, 07340 Alaró, Illes Balears
+
+    project@maitechnology.com
 
 410. [WaysIT Tech Global Solutions](https://www.waysit.es/)
 
     +34 876 16 78 31
+
     C. Honorio García Condoy, 3, Torrero-La Paz, 50007 Zaragoza
+
+    info@waysit.es
+
+    [LinkedIn](https://www.linkedin.com/company/WaysIT)
+
+    [Facebook](https://www.facebook.com/WaysIT)
+
+    [Instagram](https://www.instagram.com/waysit.es)
+
+    [RSS](https://www.waysit.es/feed)
 
 411. [Soluciones Tecnológicas J-Tech S.L.](https://j-tech.es/)
 
