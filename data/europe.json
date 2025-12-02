@@ -67,5 +67,275 @@
   },
   "tate": {
     "link": "https://www.tate.co.uk/"
+  },
+  "rockpoolrecruitment": {
+    "link": "https://www.rockpoolrecruitment.co.uk"
+  },
+  "specialist-recruit": {
+    "link": "https://www.specialist-recruit.co.uk/"
+  },
+  "strong-group": {
+    "link": "https://www.strong-group.co.uk/"
+  },
+  "cbsbutler": {
+    "link": "https://www.cbsbutler.com/"
+  },
+  "yourrecruit": {
+    "link": "https://www.yourrecruit.com/"
+  },
+  "harris-global": {
+    "link": "https://harris-global.com/"
+  },
+  "julieroserecruitment": {
+    "link": "https://julieroserecruitment.co.uk/"
+  },
+  "temptingrecruitment": {
+    "link": "https://www.temptingrecruitment.co.uk/"
+  },
+  "impactnationwiderecruitment": {
+    "link": "https://www.impactnationwiderecruitment.co.uk/"
+  },
+  "laykarecruitment": {
+    "link": "https://www.laykarecruitment.com/"
+  },
+  "otrsales": {
+    "link": "https://otrsales.co.uk/"
+  },
+  "unity-recruitment": {
+    "link": "https://www.unity-recruitment.co.uk/"
+  },
+  "responserecruitment": {
+    "link": "https://responserecruitment.co.uk/"
+  },
+  "aesn": {
+    "link": "https://aesn.co.uk/"
+  },
+  "knightsbridgerecruitment": {
+    "link": "https://www.knightsbridgerecruitment.com/"
+  },
+  "rmsrecruitment": {
+    "link": "https://www.rmsrecruitment.com/"
+  },
+  "spotlightrecruitment": {
+    "link": "https://www.spotlightrecruitment.com/"
+  },
+  "platform-recruitment": {
+    "link": "https://www.platform-recruitment.com/"
+  },
+  "ashbyjenkinsrecruitment": {
+    "link": "https://www.ashbyjenkinsrecruitment.co.uk/"
+  },
+  "tpp": {
+    "link": "https://www.tpp.co.uk/"
+  },
+  "investigo": {
+    "link": "https://www.investigo.co.uk/"
+  },
+  "ontrakrecruitment": {
+    "link": "https://www.ontrakrecruitment.co.uk/"
+  },
+  "evorecruit": {
+    "link": "https://www.evorecruit.co.uk/"
+  },
+  "dingorecruitment": {
+    "link": "https://dingorecruitment.teamtailor.com/"
+  },
+  "yellowcat": {
+    "link": "https://www.yellowcat.london/"
+  },
+  "netos": {
+    "link": "https://www.netos.co.uk/"
+  },
+  "getrecruited": {
+    "link": "https://www.recruited.tech/"
+  },
+  "thehinggroup": {
+    "link": "https://www.thehingroup.com/"
+  },
+  "ruby-group": {
+    "link": "https://www.ruby-group.com/"
+  },
+  "risetechnical": {
+    "link": "https://www.risetechnical.co.uk/"
+  },
+  "planbrecruitment": {
+    "link": "https://www.planbrecruitment.co.uk/"
+  },
+  "dobetterrecruitmentandstaffing": {
+    "link": "https://www.dobetterrecruitmentandstaffing.com/"
+  },
+  "roiresources": {
+    "link": "https://roiresources.co.uk/"
+  },
+  "harrisonrecruitment": {
+    "link": "https://www.harrisonsrecruitment.com/"
+  },
+  "daleyrecruitment": {
+    "link": "https://www.daleyrecruitment.com/"
+  },
+  "constructrecruitment": {
+    "link": "https://www.constructrecruitment.com/"
+  },
+  "capstone-recruitment": {
+    "link": "https://www.capstone-recruitment.com/"
+  },
+  "people-first": {
+    "link": "https://www.people-first.co.uk/"
+  },
+  "carnegieconsulting": {
+    "link": "https://carnegieconsulting.co.uk/"
+  },
+  "signaturerecruitment": {
+    "link": "https://www.signaturerecruitment.co.uk/"
+  },
+  "austindean": {
+    "link": "https://austindean.co.uk/"
+  },
+  "pearrecruitment": {
+    "link": "https://www.pearrecruitment.com/"
+  },
+  "fortusrec": {
+    "link": "https://fortusrec.co.uk/"
+  },
+  "publicsectorrecruitment": {
+    "link": "https://publicsectorrecruitment.co.uk/"
+  },
+  "bblproperty": {
+    "link": "https://www.bblproperty.co.uk/"
+  },
+  "mosaic-recruitment": {
+    "link": "https://www.mosaic-recruitment.com/"
+  },
+  "stormx": {
+    "link": "https://stormx.co.uk/"
+  },
+  "blackpointrecruitment": {
+    "link": "https://www.blackpointrecruitment.co.uk/"
+  },
+  "madisons": {
+    "link": "https://madisons.org.uk/"
+  },
+  "ignite-recruitment": {
+    "link": "https://ignite-recruitment.co.uk/"
+  },
+  "berryrecruitment": {
+    "link": "https://www.berryrecruitment.co.uk/"
+  },
+  "romans-rg": {
+    "link": "https://romans-rg.com/"
+  },
+  "prs": {
+    "link": "https://www.prs.uk.com/"
+  },
+  "the-destiny": {
+    "link": "https://www.the-destiny.co.uk/"
+  },
+  "fsr": {
+    "link": "https://www.fsr.uk.com/"
+  },
+  "major-recruitment": {
+    "link": "https://www.major-recruitment.com/"
+  },
+  "andersonrecruitment": {
+    "link": "https://www.andersonrecruitment.co.uk/"
+  },
+  "elevationrecruitmentgroup": {
+    "link": "https://www.elevationrecruitmentgroup.com/"
+  },
+  "acceptrec": {
+    "link": "https://www.acceptrec.co.uk/"
+  },
+  "amjrecruitment": {
+    "link": "https://www.amjrecruitment.co.uk/"
+  },
+  "fixedfeeplacements": {
+    "link": "https://www.fixedfeeplacements.co.uk/"
+  },
+  "twentyfourgroup": {
+    "link": "https://twentyfourgroup.co.uk/"
+  },
+  "larecruitment": {
+    "link": "https://www.larecruitment.net/"
+  },
+  "connectrecruit": {
+    "link": "https://www.connectrecruit.ie/"
+  },
+  "arconrecruitment": {
+    "link": "https://arconrecruitment.com/"
+  },
+  "therecruitmentco": {
+    "link": "https://therecruitmentco.uk/"
+  },
+  "recruitmentpartnershipireland": {
+    "link": "https://recruitmentpartnershipireland.co.uk/"
+  },
+  "nwesrecruitment": {
+    "link": "https://nwesgroup.co.uk/"
+  },
+  "psiglobalrecruitment": {
+    "link": "https://www.psiglobalrecruitment.com/"
+  },
+  "deluxe-recruitment": {
+    "link": "https://www.deluxe-recruitment.co.uk/"
+  },
+  "dcsrecruitment": {
+    "link": "https://dcsrecruitment.com/"
+  },
+  "imperialrecruitmentgroup": {
+    "link": "https://imperialrecruitmentgroup.com/"
+  },
+  "citrus-connect": {
+    "link": "https://www.citrus-connect.co.uk/"
+  },
+  "thhrecruitment": {
+    "link": "https://thhrecruitment.co.uk/"
+  },
+  "conceptrecruitment": {
+    "link": "https://conceptrecruitment.com/"
+  },
+  "essentialrecruitment": {
+    "link": "https://www.essentialrecruitment.co.uk/"
+  },
+  "optimise-recruitment": {
+    "link": "https://optimise-recruitment.co.uk/"
+  },
+  "journeyrecruitment": {
+    "link": "https://journeyrecruitment.co.uk/"
+  },
+  "right-recruitment": {
+    "link": "https://www.right-recruitment.com/"
+  },
+  "xpertrecruitmentltd": {
+    "link": "https://xpertrecruitmentltd.co.uk/"
+  },
+  "i2irecruitment": {
+    "link": "https://i2irecruitment.co.uk/"
+  },
+  "precision-people": {
+    "link": "https://www.precision-people.uk/"
+  },
+  "pathrecruitment": {
+    "link": "https://www.pathrecruitment.com/"
+  },
+  "prosperity": {
+    "link": "https://www.prosperity.ie/"
+  },
+  "ecsrecruitment": {
+    "link": "https://ecsrecruitment.ie/"
+  },
+  "hallrecruitment": {
+    "link": "https://hallrecruitment.ie/"
+  },
+  "prcrecruitment": {
+    "link": "https://www.prcrecruitment.ie/"
+  },
+  "allenrec": {
+    "link": "https://allenrec.com/"
+  },
+  "sigmarecruitment": {
+    "link": "https://www.sigmarrecruitment.com/"
+  },
+  "focusedrecruitment": {
+    "link": "https://focusedrecruitment.co.uk/"
   }
 }
