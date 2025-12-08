@@ -445,6 +445,83 @@
     }
   },
   "belgium": {
-
+    "rockrecruitment": {
+      "link": "https://www.rockrecruitment.be/"
+    },
+    "pa-recruitment": {
+      "link": "https://pa-recruitment.be/"
+    },
+    "headsandhunters": {
+      "link": "https://www.headsandhunters.be/"
+    },
+    "pagepersonnel": {
+      "link": "https://www.pagepersonnel.be/"
+    },
+    "hospitalityjobs": {
+      "link": "https://www.hospitality-jobs.eu/"
+    },
+    "robertwalters": {
+      "link": "https://www.robertwalters.be/"
+    },
+    "amandis": {
+      "link": "https://amandis.be/"
+    },
+    "gentis": {
+      "link": "https://www.gentis.com/"
+    },
+    "wearesander": {
+      "link": "https://www.wearesander.com/"
+    },
+    "michaelpage": {
+      "link": "https://www.michaelpage.be/"
+    },
+    "yourkingsley": {
+      "link": "https://www.yourkingsley.com/"
+    },
+    "str8forward": {
+      "link": "https://www.str8forward.be/"
+    },
+    "fixxrecruitment": {
+      "link": "https://www.fixxrecruitment.be/"
+    },
+    "farrow": {
+      "link": "https://farrow.nl/"
+    },
+    "synergiejobs": {
+      "link": "https://www.synergiejobs.be/"
+    },
+    "chapeau-agency": {
+      "link": "https://www.chapeau-agency.be/"
+    },
+    "novus-recruitment": {
+      "link": "https://novus-recruitment.com/"
+    },
+    "idrecruitment": {
+      "link": "https://www.idrecruitment.be/"
+    },
+    "forumjobs": {
+      "link": "https://www.forumjobs.be/"
+    },
+    "oliverbenson": {
+      "link": "https://www.oliverbenson.com/"
+    },
+    "fiscaquest": {
+      "link": "https://www.fiscaquest.be/"
+    },
+    "pensaert-partners": {
+      "link": "https://www.pensaert-partners.com/"
+    },
+    "go4jobs": {
+      "link": "https://go4jobs.be/"
+    },
+    "visserrecruitment": {
+      "link": "https://www.visserrecruitment.nl/"
+    },
+    "jenesistech": {
+      "link": "https://www.jenesis.tech/"
+    },
+    "approachpeople": {
+      "link": "https://www.approachpeople.com/"
+    }
   }
 }
