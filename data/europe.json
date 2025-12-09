@@ -523,5 +523,117 @@
     "approachpeople": {
       "link": "https://www.approachpeople.com/"
     }
+  },
+  "poland": {
+    "eastgaterecruitment": {
+      "link": "https://eastgaterecruitment.com/"
+    },
+    "devsdata": {
+      "link": "https://devsdata.com/"
+    },
+    "axosrecruitment": {
+      "link": "https://axosrecruitment.com/"
+    },
+    "h4h": {
+      "link": "https://h4h.com.pl/"
+    },
+    "hthrecruitment": {
+      "link": "https://hthrecruitment.pl/"
+    },
+    "nexttechnology": {
+      "link": "https://nexttechnology.io/"
+    },
+    "propertytalents": {
+      "link": "https://www.propertytalents.com/"
+    },
+    "jagarecruitment": {
+      "link": "https://jagarecruitment.pl/"
+    },
+    "talentholo": {
+      "link": "https://talentholo.com/"
+    },
+    "kiat": {
+      "link": "https://kiat.io/"
+    },
+    "iviewrecruitment": {
+      "link": "https://iview-recruitment.com/"
+    },
+    "goldmanrecruitment": {
+      "link": "https://goldmanrecruitment.pl/"
+    },
+    "wyser-search": {
+      "link": "https://pl.wyser-search.com/"
+    },
+    "remodevs": {
+      "link": "https://remodevs.com/"
+    },
+    "jobontime": {
+      "link": "https://jobontime.pl/"
+    },
+    "work-in": {
+      "link": "https://work-in.pl/"
+    },
+    "clyderecruit": {
+      "link": "https://www.clyderecruit.com/"
+    },
+    "itfs": {
+      "link": "https://itfs.com/"
+    },
+    "candidfuture": {
+      "link": "https://candidfuture.com/"
+    },
+    "goodluckrecruitments": {
+      "link": "https://goodluckrecruitments.pl/"
+    },
+    "aaeuro": {
+      "link": "https://aaeuro.com/"
+    }
+  },
+  "sweden": {
+    "levelrecruitment": {
+      "link": "https://levelrecruitment.se/"
+    },
+    "startuprecruitment": {
+      "link": "https://startuprecruitment.se/"
+    },
+    "sharprecruitment": {
+      "link": "https://www.sharprecruitment.se/"
+    },
+    "emearecruitment": {
+      "link": "https://www.emearecruitment.com/"
+    },
+    "randstad": {
+      "link": "https://www.randstad.se/"
+    },
+    "talentbureau": {
+      "link": "https://www.talentbureau.se/"
+    },
+    "karisma": {
+      "link": "https://karisma.se/"
+    },
+    "agilesearch": {
+      "link": "https://agilesearch.io/"
+    },
+    "financerecruitment": {
+      "link": "https://www.financerecruitment.se/"
+    },
+    "michaelpage": {
+      "link": "https://www.michaelpage.se/"
+    },
+    "hays": {
+      "link": "https://www.hays.se/"
+    },
+    "nigelwright": {
+      "link": "https://www.nigelwright.com/"
+    },
+    "nexerrecruit": {
+      "link": "https://nexerrecruit.com/"
+    },
+    "ittalentturkey": {
+      "link": "https://ittalentturkey.com/"
+    }
+  },
+  "finland": {
+    
   }
 }
