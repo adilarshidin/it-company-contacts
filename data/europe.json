@@ -634,6 +634,41 @@
     }
   },
   "finland": {
+    "levelup": {
+      "link": "https://levelup.ee/en/"
+    },
+    "nordgroup": {
+      "link": "https://www.nordgroup.io/"
+    },
+    "brandem": {
+      "link": "https://brandem.ee/"
+    },
+    "ittalent": {
+      "link": "https://ittalent.ee/"
+    },
+    "henkilostoasiantuntijat": {
+      "link": "https://henkilostoasiantuntijat.fi/"
+    },
+    "tuocon": {
+      "link": "https://tuocon.fi/"
+    },
+    "bondata": {
+      "link": "https://henkilostopalvelut.bondata.fi/"
+    },
+    "lokki": {
+      "link": "https://lokki.fi/"
+    },
+    "patrio": {
+      "link": "https://patrio.fi/"
+    },
+    "eezy": {
+      "link": "https://eezy.fi/"
+    },
+    "agentor": {
+      "link": "https://agentor.fi/"
+    }
+  },
+  "Norway": {
     
   }
 }
