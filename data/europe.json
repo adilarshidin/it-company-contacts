@@ -732,5 +732,78 @@
     "temp-team": {
       "link": "https://temp-team.no/"
     }
+  },
+  "germany": {
+    "academicwork": {
+      "link": "https://www.academicwork.de/"
+    },
+    "opusone.team": {
+      "link": "https://opusone.team/"
+    },
+    "k-recruiting": {
+      "link": "https://k-recruiting.com/"
+    },
+    "hrrk": {
+      "link": "https://www.hrrk.de/"
+    },
+    "jnprecruitment": {
+      "link": "https://jnprecruitment.com/"
+    },
+    "g2recruitment": {
+      "link": "https://www.g2recruitment.com/"
+    },
+    "go-next": {
+      "link": "https://go-next.de/"
+    },
+    "4freelance": {
+      "link": "https://4freelance.de/"
+    },
+    "angeheuert": {
+      "link": "https://angeheuert.com/"
+    },
+    "greifenberg": {
+      "link": "https://greifenberg.de/"
+    },
+    "jobactive": {
+      "link": "https://www.jobactive.de/"
+    }
+  },
+  "luxembourg": {
+    "austinbright": {
+      "link": "https://austinbright.lu/"
+    },
+    "rhlab": {
+      "link": "https://www.rhlab.lu/"
+    },
+    "morganphilips": {
+      "link": "https://www.morganphilips.com/"
+    },
+    "greenfield": {
+      "link": "https://greenfield.lu/"
+    },
+    "gotofreedom": {
+      "link": "https://www.gotofreedom.eu/"
+    },
+    "pauwelsconsulting": {
+      "link": "https://www.pauwelsconsulting.com/"
+    },
+    "krrecruitment": {
+      "link": "https://www.krrecruitment.com/"
+    },
+    "andersonwise": {
+      "link": "https://andersonwise.com/"
+    },
+    "lhh": {
+      "link": "https://www.lhh.com/"
+    },
+    "hays": {
+      "link": "https://www.hays.lu/"
+    },
+    "roberthalf": {
+      "link": "https://www.roberthalf.com/"
+    },
+    "ogrecruitment": {
+      "link": "https://og-recruitment.com/"
+    }
   }
 }
