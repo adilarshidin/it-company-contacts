@@ -805,5 +805,49 @@
     "ogrecruitment": {
       "link": "https://og-recruitment.com/"
     }
+  },
+  "france": {
+    "high-recruitment-group": {
+      "link": "https://www.high-recruitment-group.com/"
+    },
+    "dorothydanahy": {
+      "link": "https://www.dorothydanahy.com/"
+    },
+    "dynamis-rh": {
+      "link": "http://dynamis-rh.com/"
+    },
+    "pagepersonnel": {
+      "link": "https://www.pagepersonnel.fr/"
+    },
+    "lowellpartners": {
+      "link": "https://lowellpartners.com/"
+    },
+    "apolloexecutive": {
+      "link": "https://www.apolloexecutive.com/"
+    },
+    "aizenrecruitment": {
+      "link": "https://aizenrecruitment.com/"
+    },
+    "progressis": {
+      "link": "https://www.progressis.com/"
+    },
+    "winsearch": {
+      "link": "https://www.winsearch.fr/"
+    },
+    "highflyers": {
+      "link": "https://www.highflyers.agency/"
+    },
+    "mobiskill": {
+      "link": "https://www.mobiskill.fr/"
+    },
+    "wearesander": {
+      "link": "https://www.wearesander.com/"
+    },
+    "derichebourg-interim": {
+      "link": "https://www.derichebourg-interim.com/"
+    },
+    "selectrecruitment": {
+      "link": "https://www.selectrecruitment.je/"
+    }
   }
 }
