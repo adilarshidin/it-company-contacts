@@ -849,5 +849,73 @@
     "selectrecruitment": {
       "link": "https://www.selectrecruitment.je/"
     }
+  },
+  "italy": {
+    "grafton": {
+      "link": "https://ch.grafton.com/"
+    },
+    "sidler-sa": {
+      "link": "https://www.sidler-sa.ch/"
+    },
+    "oktopous": {
+      "link": "https://www.oktopous.it/"
+    },
+    "techyon": {
+      "link": "https://www.techyon.it/"
+    },
+    "antal": {
+      "link": "https://www.antal.com/"
+    },
+    "joboutique": {
+      "link": "https://www.joboutique.it/"
+    },
+    "key2people": {
+      "link": "https://key2people.com/"
+    },
+    "adamiassociati": {
+      "link": "https://www.adamiassociati.com/"
+    },
+    "michaelpage": {
+      "link": "https://www.michaelpage.it/"
+    },
+    "hays": {
+      "link": "https://www.hays.it/"
+    },
+    "hrtalent": {
+      "link": "https://www.hrtalent.it/"
+    },
+    "gurujobs": {
+      "link": "https://gurujobs.it/"
+    },
+    "cespim": {
+      "link": "https://cespim.it/"
+    },
+    "adhr": {
+      "link": "https://www.adhr.it/"
+    },
+    "futuremanagerworld": {
+      "link": "https://futuremanagerworld.com/"
+    }
+  },
+  "austria": {
+    "impetus-personal": {
+      "link": "https://www.impetus-personal.at/"
+    },
+    "zeel": {
+      "link": "https://www.zeel.ag/"
+    },
+    "siq-solution": {
+      "link": "https://www.siq-solution.com/"
+    },
+    "jobheld": {
+      "link": "https://jobheld.io/"
+    },
+    "sales-passion": {
+      "link": "https://sales-passion.com/"
+    },
+    "loewenkopf": {
+      "link": "https://www.loewenkopf.at/"
+    },
+    ""
   }
 }
