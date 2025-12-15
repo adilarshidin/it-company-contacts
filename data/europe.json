@@ -915,7 +915,20 @@
     },
     "loewenkopf": {
       "link": "https://www.loewenkopf.at/"
+    }
+  },
+  "spain": {
+    "dhgrouplda": {
+      "link": "https://dhgrouplda.com/"
     },
-    ""
+    "robertwalters": {
+      "link": "https://www.robertwalters.pt/"
+    },
+    "highlanderhr": {
+      "link": "https://www.highlanderhr.com/"
+    }
+  },
+  "czechia": {
+
   }
 }
