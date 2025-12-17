@@ -983,5 +983,91 @@
     "agenturatriangle": {
       "link": "https://www.agenturatriangle.cz/"
     }
+  },
+  "denmark": {
+    "eurojobdk": {
+      "link": "https://www.eurojobdk.com/"
+    },
+    "jks": {
+      "link": "https://www.jks.dk/"
+    },
+    "moveon": {
+      "link": "https://moveon.dk/"
+    },
+    "itoptimiser": {
+      "link": "https://itoptimiser.com/"
+    },
+    "selekt": {
+      "link": "https://selekt.dk/"
+    },
+    "prorecruit": {
+      "link": "https://prorecruit.dk/"
+    },
+    "compasshrg": {
+      "link": "https://www.compasshrg.com/"
+    },
+    "moment": {
+      "link": "https://www.moment.dk/"
+    },
+    "bloom": {
+      "link": "https://bloom.dk/"
+    },
+    "humantrust": {
+      "link": "https://humantrust.dk/"
+    },
+    "scr": {
+      "link": "https://scr.dk/"
+    },
+    "smedegaardhr": {
+      "link": "https://www.smedegaardhr.dk/"
+    },
+    "actief-hartmanns": {
+      "link": "https://actief-hartmanns.dk/"
+    },
+    "foodjobnordic": {
+      "link": "https://foodjobnordic.com/"
+    },
+    "recruit-it": {
+      "link": "https://recruit-it.dk/"
+    },
+    "peakrekruttering": {
+      "link": "https://www.peakrekruttering.dk/"
+    },
+    "peopleexecutive": {
+      "link": "https://www.peopleexecutive.dk/"
+    },
+    "kursmodfremtiden": {
+      "link": "https://kursmodfremtiden.dk/"
+    },
+    "koldpartners": {
+      "link": "https://www.koldpartners.com/"
+    },
+    "manpowersupport": {
+      "link": "https://www.workforcesupport.dk/"
+    },
+    "workindenmark": {
+      "link": "https://www.workindenmark.dk/"
+    },
+    "senecarecruitment": {
+      "link": "https://www.senecarecruitment.com/"
+    },
+    "resourceplanet": {
+      "link": "https://resourceplanet.dk/"
+    },
+    "sam-int": {
+      "link": "https://sam-int.dk/"
+    },
+    "karsberg": {
+      "link": "https://karsberg.net/"
+    },
+    "selectors": {
+      "link": "https://www.selectors.dk/"
+    },
+    "temp-team": {
+      "link": "https://temp-team.dk/"
+    },
+    "gml-hr": {
+      "link": "https://gml-hr.dk/"
+    }
   }
 }
