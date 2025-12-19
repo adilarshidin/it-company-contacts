@@ -1,1073 +1,1420 @@
 {
   "uk": {
     "australasian": {
-      "link": "https://www.australasian.co.uk/"
+      "link": "https://www.australasian.co.uk/",
+      "email": "hello@australasian.co.uk"
     },
     "impact-london": {
-      "link": "https://impact-london.com/"
+      "link": "https://impact-london.com/",
+      "email": "enquiries@impact-london.com"
     },
     "tiger-recruitment": {
-      "link": "https://tiger-recruitment.com/"
+      "link": "https://tiger-recruitment.com/",
+      "email": "info@tiger-recruitment.co.uk"
     },
     "hwselect": {
-      "link": "https://www.hwselect.com/"
+      "link": "https://www.hwselect.com/",
+      "email": "supporthw@hwselect.com"
     },
     "ablrecruitment": {
-      "link": "https://www.ablrecruitment.com/"
+      "link": "https://www.ablrecruitment.com/",
+      "email": "info@ablrecruitment.com"
     },
     "welovesalt": {
-      "link": "https://welovesalt.com/"
+      "link": "https://welovesalt.com/",
+      "email": ""
     },
     "greenrecruitmentcompany": {
-      "link": "https://www.greenrecruitmentcompany.com/"
+      "link": "https://www.greenrecruitmentcompany.com/",
+      "email": "info@greenrecruitmentcompany.com"
     },
     "roberthalf": {
-      "link": "https://www.roberthalf.com/"
+      "link": "https://www.roberthalf.com/",
+      "email": ""
     },
     "eurolondon": {
-      "link": "https://www.eurolondon.com/"
+      "link": "https://www.eurolondon.com/",
+      "email": "london@eurolondon.com"
     },
     "evenbreak": {
-      "link": "https://www.evenbreak.com/"
+      "link": "https://www.evenbreak.com/",
+      "email": "info@evenbreak.co.uk"
     },
     "reed": {
-      "link": "https://www.reed.com/"
+      "link": "https://www.reed.com/",
+      "email": ""
     },
     "jac-recruitment": {
-      "link": "https://corp.jac-recruitment.jp/"
+      "link": "https://corp.jac-recruitment.jp/",
+      "email": ""
     },
     "frontrecruitment": {
-      "link": "https://www.frontrecruitment.co.uk/"
+      "link": "https://www.frontrecruitment.co.uk/",
+      "email": ""
     },
     "hire-ground": {
-      "link": "https://hire-ground.co.uk/"
+      "link": "https://hire-ground.co.uk/",
+      "email": ""
     },
     "eligo": {
-      "link": "https://www.eligo.co.uk/"
+      "link": "https://www.eligo.co.uk/",
+      "email": ""
     },
     "focalpointrecruitment": {
-      "link": "https://www.focalpointrecruitment.co.uk/"
+      "link": "https://www.focalpointrecruitment.co.uk/",
+      "email": ""
     },
     "therecruitmentshop": {
-      "link": "https://the-legends-agency.com/"
+      "link": "https://the-legends-agency.com/",
+      "email": ""
     },
     "pin-point": {
-      "link": "https://www.pin-point.co.uk/"
+      "link": "https://www.pin-point.co.uk/",
+      "email": ""
     },
     "lloydrecruitment": {
-      "link": "https://www.lloydrecruitment.co.uk/"
+      "link": "https://www.lloydrecruitment.co.uk/",
+      "email": ""
     },
     "teamoneuk": {
-      "link": "https://www.teamoneuk.com/"
+      "link": "https://www.teamoneuk.com/",
+      "email": ""
     },
     "e-personnelrecruitment": {
-      "link": "https://e-personnelrecruitment.co.uk/"
+      "link": "https://e-personnelrecruitment.co.uk/",
+      "email": ""
     },
     "optimarecruitment": {
-      "link": "https://www.optimarecruitment.co.uk/"
+      "link": "https://www.optimarecruitment.co.uk/",
+      "email": ""
     },
     "tate": {
-      "link": "https://www.tate.co.uk/"
+      "link": "https://www.tate.co.uk/",
+      "email": ""
     },
     "rockpoolrecruitment": {
-      "link": "https://www.rockpoolrecruitment.co.uk"
+      "link": "https://www.rockpoolrecruitment.co.uk",
+      "email": ""
     },
     "specialist-recruit": {
-      "link": "https://www.specialist-recruit.co.uk/"
+      "link": "https://www.specialist-recruit.co.uk/",
+      "email": ""
     },
     "strong-group": {
-      "link": "https://www.strong-group.co.uk/"
+      "link": "https://www.strong-group.co.uk/",
+      "email": ""
     },
     "cbsbutler": {
-      "link": "https://www.cbsbutler.com/"
+      "link": "https://www.cbsbutler.com/",
+      "email": ""
     },
     "yourrecruit": {
-      "link": "https://www.yourrecruit.com/"
+      "link": "https://www.yourrecruit.com/",
+      "email": ""
     },
     "harris-global": {
-      "link": "https://harris-global.com/"
+      "link": "https://harris-global.com/",
+      "email": ""
     },
     "julieroserecruitment": {
-      "link": "https://julieroserecruitment.co.uk/"
+      "link": "https://julieroserecruitment.co.uk/",
+      "email": ""
     },
     "temptingrecruitment": {
-      "link": "https://www.temptingrecruitment.co.uk/"
+      "link": "https://www.temptingrecruitment.co.uk/",
+      "email": ""
     },
     "impactnationwiderecruitment": {
-      "link": "https://www.impactnationwiderecruitment.co.uk/"
+      "link": "https://www.impactnationwiderecruitment.co.uk/",
+      "email": ""
     },
     "laykarecruitment": {
-      "link": "https://www.laykarecruitment.com/"
+      "link": "https://www.laykarecruitment.com/",
+      "email": ""
     },
     "otrsales": {
-      "link": "https://otrsales.co.uk/"
+      "link": "https://otrsales.co.uk/",
+      "email": ""
     },
     "unity-recruitment": {
-      "link": "https://www.unity-recruitment.co.uk/"
+      "link": "https://www.unity-recruitment.co.uk/",
+      "email": ""
     },
     "responserecruitment": {
-      "link": "https://responserecruitment.co.uk/"
+      "link": "https://responserecruitment.co.uk/",
+      "email": ""
     },
     "aesn": {
-      "link": "https://aesn.co.uk/"
+      "link": "https://aesn.co.uk/",
+      "email": ""
     },
     "knightsbridgerecruitment": {
-      "link": "https://www.knightsbridgerecruitment.com/"
+      "link": "https://www.knightsbridgerecruitment.com/",
+      "email": ""
     },
     "rmsrecruitment": {
-      "link": "https://www.rmsrecruitment.com/"
+      "link": "https://www.rmsrecruitment.com/",
+      "email": ""
     },
     "spotlightrecruitment": {
-      "link": "https://www.spotlightrecruitment.com/"
+      "link": "https://www.spotlightrecruitment.com/",
+      "email": ""
     },
     "platform-recruitment": {
-      "link": "https://www.platform-recruitment.com/"
+      "link": "https://www.platform-recruitment.com/",
+      "email": ""
     },
     "ashbyjenkinsrecruitment": {
-      "link": "https://www.ashbyjenkinsrecruitment.co.uk/"
+      "link": "https://www.ashbyjenkinsrecruitment.co.uk/",
+      "email": ""
     },
     "tpp": {
-      "link": "https://www.tpp.co.uk/"
+      "link": "https://www.tpp.co.uk/",
+      "email": ""
     },
     "investigo": {
-      "link": "https://www.investigo.co.uk/"
+      "link": "https://www.investigo.co.uk/",
+      "email": ""
     },
     "ontrakrecruitment": {
-      "link": "https://www.ontrakrecruitment.co.uk/"
+      "link": "https://www.ontrakrecruitment.co.uk/",
+      "email": ""
     },
     "evorecruit": {
-      "link": "https://www.evorecruit.co.uk/"
+      "link": "https://www.evorecruit.co.uk/",
+      "email": ""
     },
     "dingorecruitment": {
-      "link": "https://dingorecruitment.teamtailor.com/"
+      "link": "https://dingorecruitment.teamtailor.com/",
+      "email": ""
     },
     "yellowcat": {
-      "link": "https://www.yellowcat.london/"
+      "link": "https://www.yellowcat.london/",
+      "email": ""
     },
     "netos": {
-      "link": "https://www.netos.co.uk/"
+      "link": "https://www.netos.co.uk/",
+      "email": ""
     },
     "getrecruited": {
-      "link": "https://www.recruited.tech/"
+      "link": "https://www.recruited.tech/",
+      "email": ""
     },
     "thehinggroup": {
-      "link": "https://www.thehingroup.com/"
+      "link": "https://www.thehingroup.com/",
+      "email": ""
     },
     "ruby-group": {
-      "link": "https://www.ruby-group.com/"
+      "link": "https://www.ruby-group.com/",
+      "email": ""
     },
     "risetechnical": {
-      "link": "https://www.risetechnical.co.uk/"
+      "link": "https://www.risetechnical.co.uk/",
+      "email": ""
     },
     "planbrecruitment": {
-      "link": "https://www.planbrecruitment.co.uk/"
+      "link": "https://www.planbrecruitment.co.uk/",
+      "email": ""
     },
     "dobetterrecruitmentandstaffing": {
-      "link": "https://www.dobetterrecruitmentandstaffing.com/"
+      "link": "https://www.dobetterrecruitmentandstaffing.com/",
+      "email": ""
     },
     "roiresources": {
-      "link": "https://roiresources.co.uk/"
+      "link": "https://roiresources.co.uk/",
+      "email": ""
     },
     "harrisonrecruitment": {
-      "link": "https://www.harrisonsrecruitment.com/"
+      "link": "https://www.harrisonsrecruitment.com/",
+      "email": ""
     },
     "daleyrecruitment": {
-      "link": "https://www.daleyrecruitment.com/"
+      "link": "https://www.daleyrecruitment.com/",
+      "email": ""
     },
     "constructrecruitment": {
-      "link": "https://www.constructrecruitment.com/"
+      "link": "https://www.constructrecruitment.com/",
+      "email": ""
     },
     "capstone-recruitment": {
-      "link": "https://www.capstone-recruitment.com/"
+      "link": "https://www.capstone-recruitment.com/",
+      "email": ""
     },
     "people-first": {
-      "link": "https://www.people-first.co.uk/"
+      "link": "https://www.people-first.co.uk/",
+      "email": ""
     },
     "carnegieconsulting": {
-      "link": "https://carnegieconsulting.co.uk/"
+      "link": "https://carnegieconsulting.co.uk/",
+      "email": ""
     },
     "signaturerecruitment": {
-      "link": "https://www.signaturerecruitment.co.uk/"
+      "link": "https://www.signaturerecruitment.co.uk/",
+      "email": ""
     },
     "austindean": {
-      "link": "https://austindean.co.uk/"
+      "link": "https://austindean.co.uk/",
+      "email": ""
     },
     "pearrecruitment": {
-      "link": "https://www.pearrecruitment.com/"
+      "link": "https://www.pearrecruitment.com/",
+      "email": ""
     },
     "fortusrec": {
-      "link": "https://fortusrec.co.uk/"
+      "link": "https://fortusrec.co.uk/",
+      "email": ""
     },
     "publicsectorrecruitment": {
-      "link": "https://publicsectorrecruitment.co.uk/"
+      "link": "https://publicsectorrecruitment.co.uk/",
+      "email": ""
     },
     "bblproperty": {
-      "link": "https://www.bblproperty.co.uk/"
+      "link": "https://www.bblproperty.co.uk/",
+      "email": ""
     },
     "mosaic-recruitment": {
-      "link": "https://www.mosaic-recruitment.com/"
+      "link": "https://www.mosaic-recruitment.com/",
+      "email": ""
     },
     "stormx": {
-      "link": "https://stormx.co.uk/"
+      "link": "https://stormx.co.uk/",
+      "email": ""
     },
     "blackpointrecruitment": {
-      "link": "https://www.blackpointrecruitment.co.uk/"
+      "link": "https://www.blackpointrecruitment.co.uk/",
+      "email": ""
     },
     "madisons": {
-      "link": "https://madisons.org.uk/"
+      "link": "https://madisons.org.uk/",
+      "email": ""
     },
     "ignite-recruitment": {
-      "link": "https://ignite-recruitment.co.uk/"
+      "link": "https://ignite-recruitment.co.uk/",
+      "email": ""
     },
     "berryrecruitment": {
-      "link": "https://www.berryrecruitment.co.uk/"
+      "link": "https://www.berryrecruitment.co.uk/",
+      "email": ""
     },
     "romans-rg": {
-      "link": "https://romans-rg.com/"
+      "link": "https://romans-rg.com/",
+      "email": ""
     },
     "prs": {
-      "link": "https://www.prs.uk.com/"
+      "link": "https://www.prs.uk.com/",
+      "email": ""
     },
     "the-destiny": {
-      "link": "https://www.the-destiny.co.uk/"
+      "link": "https://www.the-destiny.co.uk/",
+      "email": ""
     },
     "fsr": {
-      "link": "https://www.fsr.uk.com/"
+      "link": "https://www.fsr.uk.com/",
+      "email": ""
     },
     "major-recruitment": {
-      "link": "https://www.major-recruitment.com/"
+      "link": "https://www.major-recruitment.com/",
+      "email": ""
     },
     "andersonrecruitment": {
-      "link": "https://www.andersonrecruitment.co.uk/"
+      "link": "https://www.andersonrecruitment.co.uk/",
+      "email": ""
     },
     "elevationrecruitmentgroup": {
-      "link": "https://www.elevationrecruitmentgroup.com/"
+      "link": "https://www.elevationrecruitmentgroup.com/",
+      "email": ""
     },
     "acceptrec": {
-      "link": "https://www.acceptrec.co.uk/"
+      "link": "https://www.acceptrec.co.uk/",
+      "email": ""
     },
     "amjrecruitment": {
-      "link": "https://www.amjrecruitment.co.uk/"
+      "link": "https://www.amjrecruitment.co.uk/",
+      "email": ""
     },
     "fixedfeeplacements": {
-      "link": "https://www.fixedfeeplacements.co.uk/"
+      "link": "https://www.fixedfeeplacements.co.uk/",
+      "email": ""
     },
     "twentyfourgroup": {
-      "link": "https://twentyfourgroup.co.uk/"
+      "link": "https://twentyfourgroup.co.uk/",
+      "email": ""
     },
     "larecruitment": {
-      "link": "https://www.larecruitment.net/"
+      "link": "https://www.larecruitment.net/",
+      "email": ""
     },
     "connectrecruit": {
-      "link": "https://www.connectrecruit.ie/"
+      "link": "https://www.connectrecruit.ie/",
+      "email": ""
     },
     "arconrecruitment": {
-      "link": "https://arconrecruitment.com/"
+      "link": "https://arconrecruitment.com/",
+      "email": ""
     },
     "therecruitmentco": {
-      "link": "https://therecruitmentco.uk/"
+      "link": "https://therecruitmentco.uk/",
+      "email": ""
     },
     "recruitmentpartnershipireland": {
-      "link": "https://recruitmentpartnershipireland.co.uk/"
+      "link": "https://recruitmentpartnershipireland.co.uk/",
+      "email": ""
     },
     "nwesrecruitment": {
-      "link": "https://nwesgroup.co.uk/"
+      "link": "https://nwesgroup.co.uk/",
+      "email": ""
     },
     "psiglobalrecruitment": {
-      "link": "https://www.psiglobalrecruitment.com/"
+      "link": "https://www.psiglobalrecruitment.com/",
+      "email": ""
     },
     "deluxe-recruitment": {
-      "link": "https://www.deluxe-recruitment.co.uk/"
+      "link": "https://www.deluxe-recruitment.co.uk/",
+      "email": ""
     },
     "dcsrecruitment": {
-      "link": "https://dcsrecruitment.com/"
+      "link": "https://dcsrecruitment.com/",
+      "email": ""
     },
     "imperialrecruitmentgroup": {
-      "link": "https://imperialrecruitmentgroup.com/"
+      "link": "https://imperialrecruitmentgroup.com/",
+      "email": ""
     },
     "citrus-connect": {
-      "link": "https://www.citrus-connect.co.uk/"
+      "link": "https://www.citrus-connect.co.uk/",
+      "email": ""
     },
     "thhrecruitment": {
-      "link": "https://thhrecruitment.co.uk/"
+      "link": "https://thhrecruitment.co.uk/",
+      "email": ""
     },
     "conceptrecruitment": {
-      "link": "https://conceptrecruitment.com/"
+      "link": "https://conceptrecruitment.com/",
+      "email": ""
     },
     "essentialrecruitment": {
-      "link": "https://www.essentialrecruitment.co.uk/"
+      "link": "https://www.essentialrecruitment.co.uk/",
+      "email": ""
     },
     "optimise-recruitment": {
-      "link": "https://optimise-recruitment.co.uk/"
+      "link": "https://optimise-recruitment.co.uk/",
+      "email": ""
     },
     "journeyrecruitment": {
-      "link": "https://journeyrecruitment.co.uk/"
+      "link": "https://journeyrecruitment.co.uk/",
+      "email": ""
     },
     "right-recruitment": {
-      "link": "https://www.right-recruitment.com/"
+      "link": "https://www.right-recruitment.com/",
+      "email": ""
     },
     "xpertrecruitmentltd": {
-      "link": "https://xpertrecruitmentltd.co.uk/"
+      "link": "https://xpertrecruitmentltd.co.uk/",
+      "email": ""
     },
     "i2irecruitment": {
-      "link": "https://i2irecruitment.co.uk/"
+      "link": "https://i2irecruitment.co.uk/",
+      "email": ""
     },
     "precision-people": {
-      "link": "https://www.precision-people.uk/"
+      "link": "https://www.precision-people.uk/",
+      "email": ""
     },
     "pathrecruitment": {
-      "link": "https://www.pathrecruitment.com/"
+      "link": "https://www.pathrecruitment.com/",
+      "email": ""
     },
     "prosperity": {
-      "link": "https://www.prosperity.ie/"
+      "link": "https://www.prosperity.ie/",
+      "email": ""
     },
     "ecsrecruitment": {
-      "link": "https://ecsrecruitment.ie/"
+      "link": "https://ecsrecruitment.ie/",
+      "email": ""
     },
     "hallrecruitment": {
-      "link": "https://hallrecruitment.ie/"
+      "link": "https://hallrecruitment.ie/",
+      "email": ""
     },
     "prcrecruitment": {
-      "link": "https://www.prcrecruitment.ie/"
+      "link": "https://www.prcrecruitment.ie/",
+      "email": ""
     },
     "allenrec": {
-      "link": "https://allenrec.com/"
+      "link": "https://allenrec.com/",
+      "email": ""
     },
     "sigmarecruitment": {
-      "link": "https://www.sigmarrecruitment.com/"
+      "link": "https://www.sigmarrecruitment.com/",
+      "email": ""
     },
     "focusedrecruitment": {
-      "link": "https://focusedrecruitment.co.uk/"
+      "link": "https://focusedrecruitment.co.uk/",
+      "email": ""
     }
   },
   "netherlands": {
     "bluelynx": {
-      "link": "https://bluelynx.com/"
+      "link": "https://bluelynx.com/",
+      "email": ""
     },
     "roberthalf": {
-      "link": "https://www.roberthalf.com/"
+      "link": "https://www.roberthalf.com/",
+      "email": ""
     },
     "abroad-experience": {
-      "link": "https://abroad-experience.com/"
+      "link": "https://abroad-experience.com/",
+      "email": ""
     },
     "raverecruitment": {
-      "link": "https://www.ravecruitment.com/"
+      "link": "https://www.ravecruitment.com/",
+      "email": ""
     },
     "joinrecruitment": {
-      "link": "https://joinrecruitment.nl/"
+      "link": "https://joinrecruitment.nl/",
+      "email": ""
     },
     "adamsrecruitment": {
-      "link": "https://adamsrecruitment.com/"
+      "link": "https://adamsrecruitment.com/",
+      "email": ""
     },
     "orange-quarter": {
-      "link": "https://orange-quarter.com/"
+      "link": "https://orange-quarter.com/",
+      "email": ""
     },
     "owlie": {
-      "link": "https://www.owliejobs.com/"
+      "link": "https://www.owliejobs.com/",
+      "email": ""
     },
     "internationalpeoplesolutions": {
-      "link": "https://www.internationalpeoplesolutions.com/"
+      "link": "https://www.internationalpeoplesolutions.com/",
+      "email": ""
     },
     "finestpeople": {
-      "link": "https://finestpeople.com/"
+      "link": "https://finestpeople.com/",
+      "email": ""
     },
     "bluebirdrecruitment": {
-      "link": "https://bluebirdrecruitment.com/"
+      "link": "https://bluebirdrecruitment.com/",
+      "email": ""
     },
     "undutchables": {
-      "link": "https://undutchables.nl/"
+      "link": "https://undutchables.nl/",
+      "email": ""
     },
     "projobhouseofcareers": {
-      "link": "https://www.projobhouseofcareers.nl/"
+      "link": "https://www.projobhouseofcareers.nl/",
+      "email": ""
     },
     "nobelrecruitment": {
-      "link": "https://careers.nobelrecruitment.com/"
+      "link": "https://careers.nobelrecruitment.com/",
+      "email": ""
     },
     "robertwalters": {
-      "link": "https://www.robertwalters.nl/"
+      "link": "https://www.robertwalters.nl/",
+      "email": ""
     },
     "morganrecruitmentgroup": {
-      "link": "https://www.morganrecruitmentgroup.com/"
+      "link": "https://www.morganrecruitmentgroup.com/",
+      "email": ""
     },
     "searchxrecruitment": {
-      "link": "https://searchxrecruitment.com/"
+      "link": "https://searchxrecruitment.com/",
+      "email": ""
     },
     "michaelpage": {
-      "link": "https://www.michaelpage.nl/"
+      "link": "https://www.michaelpage.nl/",
+      "email": ""
     },
     "nimbl-recruitment": {
-      "link": "https://www.nimbl-recruitment.com/"
+      "link": "https://www.nimbl-recruitment.com/",
+      "email": ""
     },
     "sterrk": {
-      "link": "https://sterrk.nl/"
+      "link": "https://sterrk.nl/",
+      "email": ""
     },
     "foresightrecruitment": {
-      "link": "https://foresightrecruitment.com/"
+      "link": "https://foresightrecruitment.com/",
+      "email": ""
     },
     "cybersecuritydistrict": {
-      "link": "https://www.cybersecuritydistrict.com/"
+      "link": "https://www.cybersecuritydistrict.com/",
+      "email": ""
     },
     "eva-recruitment": {
-      "link": "https://eva-recruitment.nl/"
+      "link": "https://eva-recruitment.nl/",
+      "email": ""
     },
     "antennarecruitment": {
-      "link": "https://antennagroep.nl/"
+      "link": "https://antennagroep.nl/",
+      "email": ""
     },
     "sourceselect": {
-      "link": "https://www.sourceselect.nl/"
+      "link": "https://www.sourceselect.nl/",
+      "email": ""
     },
     "ohanastone": {
-      "link": "https://ohanastone.nl/"
+      "link": "https://ohanastone.nl/",
+      "email": ""
     },
     "vooq": {
-      "link": "https://www.vooq.nl/"
+      "link": "https://www.vooq.nl/",
+      "email": ""
     },
     "redrecruitment": {
-      "link": "https://www.redrecruitment.nl/"
+      "link": "https://www.redrecruitment.nl/",
+      "email": ""
     },
     "pesrecruitment": {
-      "link": "https://pesrecruitment.com/"
+      "link": "https://pesrecruitment.com/",
+      "email": ""
     },
     "ieziewerkt": {
-      "link": "https://ieziewerkt.nl/"
+      "link": "https://ieziewerkt.nl/",
+      "email": ""
     },
     "opusrecruitment": {
-      "link": "https://opusrecruitment.nl/"
+      "link": "https://opusrecruitment.nl/",
+      "email": ""
     },
     "target21": {
-      "link": "https://target21.nl/"
+      "link": "https://target21.nl/",
+      "email": ""
     },
     "findconnect": {
-      "link": "https://findconnect.nl/"
+      "link": "https://findconnect.nl/",
+      "email": ""
     },
     "seapeople": {
-      "link": "https://seapeople.nl/"
+      "link": "https://seapeople.nl/",
+      "email": ""
     }
   },
   "belgium": {
     "rockrecruitment": {
-      "link": "https://www.rockrecruitment.be/"
+      "link": "https://www.rockrecruitment.be/",
+      "email": ""
     },
     "pa-recruitment": {
-      "link": "https://pa-recruitment.be/"
+      "link": "https://pa-recruitment.be/",
+      "email": ""
     },
     "headsandhunters": {
-      "link": "https://www.headsandhunters.be/"
+      "link": "https://www.headsandhunters.be/",
+      "email": ""
     },
     "pagepersonnel": {
-      "link": "https://www.pagepersonnel.be/"
+      "link": "https://www.pagepersonnel.be/",
+      "email": ""
     },
     "hospitalityjobs": {
-      "link": "https://www.hospitality-jobs.eu/"
+      "link": "https://www.hospitality-jobs.eu/",
+      "email": ""
     },
     "robertwalters": {
-      "link": "https://www.robertwalters.be/"
+      "link": "https://www.robertwalters.be/",
+      "email": ""
     },
     "amandis": {
-      "link": "https://amandis.be/"
+      "link": "https://amandis.be/",
+      "email": ""
     },
     "gentis": {
-      "link": "https://www.gentis.com/"
+      "link": "https://www.gentis.com/",
+      "email": ""
     },
     "wearesander": {
-      "link": "https://www.wearesander.com/"
+      "link": "https://www.wearesander.com/",
+      "email": ""
     },
     "michaelpage": {
-      "link": "https://www.michaelpage.be/"
+      "link": "https://www.michaelpage.be/",
+      "email": ""
     },
     "yourkingsley": {
-      "link": "https://www.yourkingsley.com/"
+      "link": "https://www.yourkingsley.com/",
+      "email": ""
     },
     "str8forward": {
-      "link": "https://www.str8forward.be/"
+      "link": "https://www.str8forward.be/",
+      "email": ""
     },
     "fixxrecruitment": {
-      "link": "https://www.fixxrecruitment.be/"
+      "link": "https://www.fixxrecruitment.be/",
+      "email": ""
     },
     "farrow": {
-      "link": "https://farrow.nl/"
+      "link": "https://farrow.nl/",
+      "email": ""
     },
     "synergiejobs": {
-      "link": "https://www.synergiejobs.be/"
+      "link": "https://www.synergiejobs.be/",
+      "email": ""
     },
     "chapeau-agency": {
-      "link": "https://www.chapeau-agency.be/"
+      "link": "https://www.chapeau-agency.be/",
+      "email": ""
     },
     "novus-recruitment": {
-      "link": "https://novus-recruitment.com/"
+      "link": "https://novus-recruitment.com/",
+      "email": ""
     },
     "idrecruitment": {
-      "link": "https://www.idrecruitment.be/"
+      "link": "https://www.idrecruitment.be/",
+      "email": ""
     },
     "forumjobs": {
-      "link": "https://www.forumjobs.be/"
+      "link": "https://www.forumjobs.be/",
+      "email": ""
     },
     "oliverbenson": {
-      "link": "https://www.oliverbenson.com/"
+      "link": "https://www.oliverbenson.com/",
+      "email": ""
     },
     "fiscaquest": {
-      "link": "https://www.fiscaquest.be/"
+      "link": "https://www.fiscaquest.be/",
+      "email": ""
     },
     "pensaert-partners": {
-      "link": "https://www.pensaert-partners.com/"
+      "link": "https://www.pensaert-partners.com/",
+      "email": ""
     },
     "go4jobs": {
-      "link": "https://go4jobs.be/"
+      "link": "https://go4jobs.be/",
+      "email": ""
     },
     "visserrecruitment": {
-      "link": "https://www.visserrecruitment.nl/"
+      "link": "https://www.visserrecruitment.nl/",
+      "email": ""
     },
     "jenesistech": {
-      "link": "https://www.jenesis.tech/"
+      "link": "https://www.jenesis.tech/",
+      "email": ""
     },
     "approachpeople": {
-      "link": "https://www.approachpeople.com/"
+      "link": "https://www.approachpeople.com/",
+      "email": ""
     }
   },
   "poland": {
     "eastgaterecruitment": {
-      "link": "https://eastgaterecruitment.com/"
+      "link": "https://eastgaterecruitment.com/",
+      "email": ""
     },
     "devsdata": {
-      "link": "https://devsdata.com/"
+      "link": "https://devsdata.com/",
+      "email": ""
     },
     "axosrecruitment": {
-      "link": "https://axosrecruitment.com/"
+      "link": "https://axosrecruitment.com/",
+      "email": ""
     },
     "h4h": {
-      "link": "https://h4h.com.pl/"
+      "link": "https://h4h.com.pl/",
+      "email": ""
     },
     "hthrecruitment": {
-      "link": "https://hthrecruitment.pl/"
+      "link": "https://hthrecruitment.pl/",
+      "email": ""
     },
     "nexttechnology": {
-      "link": "https://nexttechnology.io/"
+      "link": "https://nexttechnology.io/",
+      "email": ""
     },
     "propertytalents": {
-      "link": "https://www.propertytalents.com/"
+      "link": "https://www.propertytalents.com/",
+      "email": ""
     },
     "jagarecruitment": {
-      "link": "https://jagarecruitment.pl/"
+      "link": "https://jagarecruitment.pl/",
+      "email": ""
     },
     "talentholo": {
-      "link": "https://talentholo.com/"
+      "link": "https://talentholo.com/",
+      "email": ""
     },
     "kiat": {
-      "link": "https://kiat.io/"
+      "link": "https://kiat.io/",
+      "email": ""
     },
     "iviewrecruitment": {
-      "link": "https://iview-recruitment.com/"
+      "link": "https://iview-recruitment.com/",
+      "email": ""
     },
     "goldmanrecruitment": {
-      "link": "https://goldmanrecruitment.pl/"
+      "link": "https://goldmanrecruitment.pl/",
+      "email": ""
     },
     "wyser-search": {
-      "link": "https://pl.wyser-search.com/"
+      "link": "https://pl.wyser-search.com/",
+      "email": ""
     },
     "remodevs": {
-      "link": "https://remodevs.com/"
+      "link": "https://remodevs.com/",
+      "email": ""
     },
     "jobontime": {
-      "link": "https://jobontime.pl/"
+      "link": "https://jobontime.pl/",
+      "email": ""
     },
     "work-in": {
-      "link": "https://work-in.pl/"
+      "link": "https://work-in.pl/",
+      "email": ""
     },
     "clyderecruit": {
-      "link": "https://www.clyderecruit.com/"
+      "link": "https://www.clyderecruit.com/",
+      "email": ""
     },
     "itfs": {
-      "link": "https://itfs.com/"
+      "link": "https://itfs.com/",
+      "email": ""
     },
     "candidfuture": {
-      "link": "https://candidfuture.com/"
+      "link": "https://candidfuture.com/",
+      "email": ""
     },
     "goodluckrecruitments": {
-      "link": "https://goodluckrecruitments.pl/"
+      "link": "https://goodluckrecruitments.pl/",
+      "email": ""
     },
     "aaeuro": {
-      "link": "https://aaeuro.com/"
+      "link": "https://aaeuro.com/",
+      "email": ""
     }
   },
   "sweden": {
     "levelrecruitment": {
-      "link": "https://levelrecruitment.se/"
+      "link": "https://levelrecruitment.se/",
+      "email": ""
     },
     "startuprecruitment": {
-      "link": "https://startuprecruitment.se/"
+      "link": "https://startuprecruitment.se/",
+      "email": ""
     },
     "sharprecruitment": {
-      "link": "https://www.sharprecruitment.se/"
+      "link": "https://www.sharprecruitment.se/",
+      "email": ""
     },
     "emearecruitment": {
-      "link": "https://www.emearecruitment.com/"
+      "link": "https://www.emearecruitment.com/",
+      "email": ""
     },
     "randstad": {
-      "link": "https://www.randstad.se/"
+      "link": "https://www.randstad.se/",
+      "email": ""
     },
     "talentbureau": {
-      "link": "https://www.talentbureau.se/"
+      "link": "https://www.talentbureau.se/",
+      "email": ""
     },
     "karisma": {
-      "link": "https://karisma.se/"
+      "link": "https://karisma.se/",
+      "email": ""
     },
     "agilesearch": {
-      "link": "https://agilesearch.io/"
+      "link": "https://agilesearch.io/",
+      "email": ""
     },
     "financerecruitment": {
-      "link": "https://www.financerecruitment.se/"
+      "link": "https://www.financerecruitment.se/",
+      "email": ""
     },
     "michaelpage": {
-      "link": "https://www.michaelpage.se/"
+      "link": "https://www.michaelpage.se/",
+      "email": ""
     },
     "hays": {
-      "link": "https://www.hays.se/"
+      "link": "https://www.hays.se/",
+      "email": ""
     },
     "nigelwright": {
-      "link": "https://www.nigelwright.com/"
+      "link": "https://www.nigelwright.com/",
+      "email": ""
     },
     "nexerrecruit": {
-      "link": "https://nexerrecruit.com/"
+      "link": "https://nexerrecruit.com/",
+      "email": ""
     },
     "ittalentturkey": {
-      "link": "https://ittalentturkey.com/"
+      "link": "https://ittalentturkey.com/",
+      "email": ""
     }
   },
   "finland": {
     "levelup": {
-      "link": "https://levelup.ee/en/"
+      "link": "https://levelup.ee/en/",
+      "email": ""
     },
     "nordgroup": {
-      "link": "https://www.nordgroup.io/"
+      "link": "https://www.nordgroup.io/",
+      "email": ""
     },
     "brandem": {
-      "link": "https://brandem.ee/"
+      "link": "https://brandem.ee/",
+      "email": ""
     },
     "ittalent": {
-      "link": "https://ittalent.ee/"
+      "link": "https://ittalent.ee/",
+      "email": ""
     },
     "henkilostoasiantuntijat": {
-      "link": "https://henkilostoasiantuntijat.fi/"
+      "link": "https://henkilostoasiantuntijat.fi/",
+      "email": ""
     },
     "tuocon": {
-      "link": "https://tuocon.fi/"
+      "link": "https://tuocon.fi/",
+      "email": ""
     },
     "bondata": {
-      "link": "https://henkilostopalvelut.bondata.fi/"
+      "link": "https://henkilostopalvelut.bondata.fi/",
+      "email": ""
     },
     "lokki": {
-      "link": "https://lokki.fi/"
+      "link": "https://lokki.fi/",
+      "email": ""
     },
     "patrio": {
-      "link": "https://patrio.fi/"
+      "link": "https://patrio.fi/",
+      "email": ""
     },
     "eezy": {
-      "link": "https://eezy.fi/"
+      "link": "https://eezy.fi/",
+      "email": ""
     },
     "agentor": {
-      "link": "https://agentor.fi/"
+      "link": "https://agentor.fi/",
+      "email": ""
     }
   },
   "norway": {
     "rekrutteringshusetmork": {
-      "link": "https://www.rekrutteringshusetmork.no/"
+      "link": "https://www.rekrutteringshusetmork.no/",
+      "email": ""
     },
     "hudsonnordic": {
-      "link": "https://hudsonnordic.no/"
+      "link": "https://hudsonnordic.no/",
+      "email": ""
     },
     "randstad": {
-      "link": "https://www.randstad.no/"
+      "link": "https://www.randstad.no/",
+      "email": ""
     },
     "nordicjobsworldwide" :{
-      "link": "https://www.nordicjobsworldwide.com/"
+      "link": "https://www.nordicjobsworldwide.com/",
+      "email": ""
     },
     "amby": {
-      "link": "https://www.amby.com/"
+      "link": "https://www.amby.com/",
+      "email": ""
     },
     "norgesra": {
-      "link": "https://www.norgesra.no/"
+      "link": "https://www.norgesra.no/",
+      "email": ""
     },
     "bjorgfjell": {
-      "link": "https://bjorgfjell.no/"
+      "link": "https://bjorgfjell.no/",
+      "email": ""
     },
     "skyrekruttering": {
-      "link": "https://skyrekruttering.no/"
+      "link": "https://skyrekruttering.no/",
+      "email": ""
     },
     "nordvestbemanning": {
-      "link": "http://www.nordvestbemanning.no/"
+      "link": "http://www.nordvestbemanning.no/",
+      "email": ""
     },
     "seafoodpeople": {
-      "link": "https://seafoodpeople.net/"
+      "link": "https://seafoodpeople.net/",
+      "email": ""
     },
     "mde-group": {
-      "link": "https://www.mde-group.com/"
+      "link": "https://www.mde-group.com/",
+      "email": ""
     },
     "karriereflyt": {
-      "link": "https://www.karriereflyt.no/"
+      "link": "https://www.karriereflyt.no/",
+      "email": ""
     },
     "eterni": {
-      "link": "https://www.eterni.no/"
+      "link": "https://www.eterni.no/",
+      "email": ""
     },
     "eminentpeople": {
-      "link": "https://eminentpeople.no/"
+      "link": "https://eminentpeople.no/",
+      "email": ""
     },
     "time2staff": {
-      "link": "https://www.time2staff.no/"
+      "link": "https://www.time2staff.no/",
+      "email": ""
     },
     "onoffbemanning": {
-      "link": "https://www.onoffbemanning.no/"
+      "link": "https://www.onoffbemanning.no/",
+      "email": ""
     },
     "ascender": {
-      "link": "https://www.ascender.no/"
+      "link": "https://www.ascender.no/",
+      "email": ""
     },
     "skutevikenpersonell": {
-      "link": "https://www.skutevikenpersonell.no/"
+      "link": "https://www.skutevikenpersonell.no/",
+      "email": ""
     },
     "mosaker": {
-      "link": "https://mosaker.no/"
+      "link": "https://mosaker.no/",
+      "email": ""
     },
     "bemex-rekruttering": {
-      "link": "https://www.bemex-rekruttering.no/"
+      "link": "https://www.bemex-rekruttering.no/",
+      "email": ""
     },
     "temp-team": {
-      "link": "https://temp-team.no/"
+      "link": "https://temp-team.no/",
+      "email": ""
     }
   },
   "germany": {
     "academicwork": {
-      "link": "https://www.academicwork.de/"
+      "link": "https://www.academicwork.de/",
+      "email": ""
     },
     "opusone.team": {
-      "link": "https://opusone.team/"
+      "link": "https://opusone.team/",
+      "email": ""
     },
     "k-recruiting": {
-      "link": "https://k-recruiting.com/"
+      "link": "https://k-recruiting.com/",
+      "email": ""
     },
     "hrrk": {
-      "link": "https://www.hrrk.de/"
+      "link": "https://www.hrrk.de/",
+      "email": ""
     },
     "jnprecruitment": {
-      "link": "https://jnprecruitment.com/"
+      "link": "https://jnprecruitment.com/",
+      "email": ""
     },
     "g2recruitment": {
-      "link": "https://www.g2recruitment.com/"
+      "link": "https://www.g2recruitment.com/",
+      "email": ""
     },
     "go-next": {
-      "link": "https://go-next.de/"
+      "link": "https://go-next.de/",
+      "email": ""
     },
     "4freelance": {
-      "link": "https://4freelance.de/"
+      "link": "https://4freelance.de/",
+      "email": ""
     },
     "angeheuert": {
-      "link": "https://angeheuert.com/"
+      "link": "https://angeheuert.com/",
+      "email": ""
     },
     "greifenberg": {
-      "link": "https://greifenberg.de/"
+      "link": "https://greifenberg.de/",
+      "email": ""
     },
     "jobactive": {
-      "link": "https://www.jobactive.de/"
+      "link": "https://www.jobactive.de/",
+      "email": ""
     }
   },
   "luxembourg": {
     "austinbright": {
-      "link": "https://austinbright.lu/"
+      "link": "https://austinbright.lu/",
+      "email": ""
     },
     "rhlab": {
-      "link": "https://www.rhlab.lu/"
+      "link": "https://www.rhlab.lu/",
+      "email": ""
     },
     "morganphilips": {
-      "link": "https://www.morganphilips.com/"
+      "link": "https://www.morganphilips.com/",
+      "email": ""
     },
     "greenfield": {
-      "link": "https://greenfield.lu/"
+      "link": "https://greenfield.lu/",
+      "email": ""
     },
     "gotofreedom": {
-      "link": "https://www.gotofreedom.eu/"
+      "link": "https://www.gotofreedom.eu/",
+      "email": ""
     },
     "pauwelsconsulting": {
-      "link": "https://www.pauwelsconsulting.com/"
+      "link": "https://www.pauwelsconsulting.com/",
+      "email": ""
     },
     "krrecruitment": {
-      "link": "https://www.krrecruitment.com/"
+      "link": "https://www.krrecruitment.com/",
+      "email": ""
     },
     "andersonwise": {
-      "link": "https://andersonwise.com/"
+      "link": "https://andersonwise.com/",
+      "email": ""
     },
     "lhh": {
-      "link": "https://www.lhh.com/"
+      "link": "https://www.lhh.com/",
+      "email": ""
     },
     "hays": {
-      "link": "https://www.hays.lu/"
+      "link": "https://www.hays.lu/",
+      "email": ""
     },
     "roberthalf": {
-      "link": "https://www.roberthalf.com/"
+      "link": "https://www.roberthalf.com/",
+      "email": ""
     },
     "ogrecruitment": {
-      "link": "https://og-recruitment.com/"
+      "link": "https://og-recruitment.com/",
+      "email": ""
     }
   },
   "france": {
     "high-recruitment-group": {
-      "link": "https://www.high-recruitment-group.com/"
+      "link": "https://www.high-recruitment-group.com/",
+      "email": ""
     },
     "dorothydanahy": {
-      "link": "https://www.dorothydanahy.com/"
+      "link": "https://www.dorothydanahy.com/",
+      "email": ""
     },
     "dynamis-rh": {
-      "link": "http://dynamis-rh.com/"
+      "link": "http://dynamis-rh.com/",
+      "email": ""
     },
     "pagepersonnel": {
-      "link": "https://www.pagepersonnel.fr/"
+      "link": "https://www.pagepersonnel.fr/",
+      "email": ""
     },
     "lowellpartners": {
-      "link": "https://lowellpartners.com/"
+      "link": "https://lowellpartners.com/",
+      "email": ""
     },
     "apolloexecutive": {
-      "link": "https://www.apolloexecutive.com/"
+      "link": "https://www.apolloexecutive.com/",
+      "email": ""
     },
     "aizenrecruitment": {
-      "link": "https://aizenrecruitment.com/"
+      "link": "https://aizenrecruitment.com/",
+      "email": ""
     },
     "progressis": {
-      "link": "https://www.progressis.com/"
+      "link": "https://www.progressis.com/",
+      "email": ""
     },
     "winsearch": {
-      "link": "https://www.winsearch.fr/"
+      "link": "https://www.winsearch.fr/",
+      "email": ""
     },
     "highflyers": {
-      "link": "https://www.highflyers.agency/"
+      "link": "https://www.highflyers.agency/",
+      "email": ""
     },
     "mobiskill": {
-      "link": "https://www.mobiskill.fr/"
+      "link": "https://www.mobiskill.fr/",
+      "email": ""
     },
     "wearesander": {
-      "link": "https://www.wearesander.com/"
+      "link": "https://www.wearesander.com/",
+      "email": ""
     },
     "derichebourg-interim": {
-      "link": "https://www.derichebourg-interim.com/"
+      "link": "https://www.derichebourg-interim.com/",
+      "email": ""
     },
     "selectrecruitment": {
-      "link": "https://www.selectrecruitment.je/"
+      "link": "https://www.selectrecruitment.je/",
+      "email": ""
     }
   },
   "italy": {
     "grafton": {
-      "link": "https://ch.grafton.com/"
+      "link": "https://ch.grafton.com/",
+      "email": ""
     },
     "sidler-sa": {
-      "link": "https://www.sidler-sa.ch/"
+      "link": "https://www.sidler-sa.ch/",
+      "email": ""
     },
     "oktopous": {
-      "link": "https://www.oktopous.it/"
+      "link": "https://www.oktopous.it/",
+      "email": ""
     },
     "techyon": {
-      "link": "https://www.techyon.it/"
+      "link": "https://www.techyon.it/",
+      "email": ""
     },
     "antal": {
-      "link": "https://www.antal.com/"
+      "link": "https://www.antal.com/",
+      "email": ""
     },
     "joboutique": {
-      "link": "https://www.joboutique.it/"
+      "link": "https://www.joboutique.it/",
+      "email": ""
     },
     "key2people": {
-      "link": "https://key2people.com/"
+      "link": "https://key2people.com/",
+      "email": ""
     },
     "adamiassociati": {
-      "link": "https://www.adamiassociati.com/"
+      "link": "https://www.adamiassociati.com/",
+      "email": ""
     },
     "michaelpage": {
-      "link": "https://www.michaelpage.it/"
+      "link": "https://www.michaelpage.it/",
+      "email": ""
     },
     "hays": {
-      "link": "https://www.hays.it/"
+      "link": "https://www.hays.it/",
+      "email": ""
     },
     "hrtalent": {
-      "link": "https://www.hrtalent.it/"
+      "link": "https://www.hrtalent.it/",
+      "email": ""
     },
     "gurujobs": {
-      "link": "https://gurujobs.it/"
+      "link": "https://gurujobs.it/",
+      "email": ""
     },
     "cespim": {
-      "link": "https://cespim.it/"
+      "link": "https://cespim.it/",
+      "email": ""
     },
     "adhr": {
-      "link": "https://www.adhr.it/"
+      "link": "https://www.adhr.it/",
+      "email": ""
     },
     "futuremanagerworld": {
-      "link": "https://futuremanagerworld.com/"
+      "link": "https://futuremanagerworld.com/",
+      "email": ""
     }
   },
   "austria": {
     "impetus-personal": {
-      "link": "https://www.impetus-personal.at/"
+      "link": "https://www.impetus-personal.at/",
+      "email": ""
     },
     "zeel": {
-      "link": "https://www.zeel.ag/"
+      "link": "https://www.zeel.ag/",
+      "email": ""
     },
     "siq-solution": {
-      "link": "https://www.siq-solution.com/"
+      "link": "https://www.siq-solution.com/",
+      "email": ""
     },
     "jobheld": {
-      "link": "https://jobheld.io/"
+      "link": "https://jobheld.io/",
+      "email": ""
     },
     "sales-passion": {
-      "link": "https://sales-passion.com/"
+      "link": "https://sales-passion.com/",
+      "email": ""
     },
     "loewenkopf": {
-      "link": "https://www.loewenkopf.at/"
+      "link": "https://www.loewenkopf.at/",
+      "email": ""
     }
   },
   "spain": {
     "dhgrouplda": {
-      "link": "https://dhgrouplda.com/"
+      "link": "https://dhgrouplda.com/",
+      "email": ""
     },
     "robertwalters": {
-      "link": "https://www.robertwalters.pt/"
+      "link": "https://www.robertwalters.pt/",
+      "email": ""
     },
     "highlanderhr": {
-      "link": "https://www.highlanderhr.com/"
+      "link": "https://www.highlanderhr.com/",
+      "email": ""
     }
   },
   "czechia": {
     "dream-job": {
-      "link": "https://dream-job.cz/"
+      "link": "https://dream-job.cz/",
+      "email": ""
     },
     "dunrossrecruitment": {
-      "link": "https://www.dunrossrecruitment.com/"
+      "link": "https://www.dunrossrecruitment.com/",
+      "email": ""
     },
     "hays": {
-      "link": "https://www.hays.cz/"
+      "link": "https://www.hays.cz/",
+      "email": ""
     },
     "searchteam": {
-      "link": "https://www.searchteam.eu/"
+      "link": "https://www.searchteam.eu/",
+      "email": ""
     },
     "heatlark": {
-      "link": "https://www.heatlark.com/"
+      "link": "https://www.heatlark.com/",
+      "email": ""
     },
     "reedglobal": {
-      "link": "https://www.reedglobal.cz/"
+      "link": "https://www.reedglobal.cz/",
+      "email": ""
     },
     "grafton": {
-      "link": "https://www.grafton.cz/"
+      "link": "https://www.grafton.cz/",
+      "email": ""
     },
     "nonstopconsulting": {
-      "link": "https://nonstopconsulting.com/"
+      "link": "https://nonstopconsulting.com/",
+      "email": ""
     },
     "andrewpaulsen": {
-      "link": "https://www.andrewpaulsen.cz/"
+      "link": "https://www.andrewpaulsen.cz/",
+      "email": ""
     },
     "acjobs": {
-      "link": "https://www.acjobs.cz/"
+      "link": "https://www.acjobs.cz/",
+      "email": ""
     },
     "jitrecruitment": {
-      "link": "https://jit-recruitment.cz/"
+      "link": "https://jit-recruitment.cz/",
+      "email": ""
     },
     "profeskontakt": {
-      "link": "https://www.profeskontakt.cz/"
+      "link": "https://www.profeskontakt.cz/",
+      "email": ""
     },
     "alviso": {
-      "link": "https://alviso.cz/"
+      "link": "https://alviso.cz/",
+      "email": ""
     },
     "manpower": {
-      "link": "https://www.manpower.cz/"
+      "link": "https://www.manpower.cz/",
+      "email": ""
     },
     "goodcall": {
-      "link": "https://www.goodcall.eu/"
+      "link": "https://www.goodcall.eu/",
+      "email": ""
     },
     "axial": {
-      "link": "https://www.axial.cz/"
+      "link": "https://www.axial.cz/",
+      "email": ""
     },
     "peopleconsulting": {
-      "link": "https://www.peopleconsulting.cz/"
+      "link": "https://www.peopleconsulting.cz/",
+      "email": ""
     },
     "agenturatriangle": {
-      "link": "https://www.agenturatriangle.cz/"
+      "link": "https://www.agenturatriangle.cz/",
+      "email": ""
     }
   },
   "denmark": {
     "eurojobdk": {
-      "link": "https://www.eurojobdk.com/"
+      "link": "https://www.eurojobdk.com/",
+      "email": ""
     },
     "jks": {
-      "link": "https://www.jks.dk/"
+      "link": "https://www.jks.dk/",
+      "email": ""
     },
     "moveon": {
-      "link": "https://moveon.dk/"
+      "link": "https://moveon.dk/",
+      "email": ""
     },
     "itoptimiser": {
-      "link": "https://itoptimiser.com/"
+      "link": "https://itoptimiser.com/",
+      "email": ""
     },
     "selekt": {
-      "link": "https://selekt.dk/"
+      "link": "https://selekt.dk/",
+      "email": ""
     },
     "prorecruit": {
-      "link": "https://prorecruit.dk/"
+      "link": "https://prorecruit.dk/",
+      "email": ""
     },
     "compasshrg": {
-      "link": "https://www.compasshrg.com/"
+      "link": "https://www.compasshrg.com/",
+      "email": ""
     },
     "moment": {
-      "link": "https://www.moment.dk/"
+      "link": "https://www.moment.dk/",
+      "email": ""
     },
     "bloom": {
-      "link": "https://bloom.dk/"
+      "link": "https://bloom.dk/",
+      "email": ""
     },
     "humantrust": {
-      "link": "https://humantrust.dk/"
+      "link": "https://humantrust.dk/",
+      "email": ""
     },
     "scr": {
-      "link": "https://scr.dk/"
+      "link": "https://scr.dk/",
+      "email": ""
     },
     "smedegaardhr": {
-      "link": "https://www.smedegaardhr.dk/"
+      "link": "https://www.smedegaardhr.dk/",
+      "email": ""
     },
     "actief-hartmanns": {
-      "link": "https://actief-hartmanns.dk/"
+      "link": "https://actief-hartmanns.dk/",
+      "email": ""
     },
     "foodjobnordic": {
-      "link": "https://foodjobnordic.com/"
+      "link": "https://foodjobnordic.com/",
+      "email": ""
     },
     "recruit-it": {
-      "link": "https://recruit-it.dk/"
+      "link": "https://recruit-it.dk/",
+      "email": ""
     },
     "peakrekruttering": {
-      "link": "https://www.peakrekruttering.dk/"
+      "link": "https://www.peakrekruttering.dk/",
+      "email": ""
     },
     "peopleexecutive": {
-      "link": "https://www.peopleexecutive.dk/"
+      "link": "https://www.peopleexecutive.dk/",
+      "email": ""
     },
     "kursmodfremtiden": {
-      "link": "https://kursmodfremtiden.dk/"
+      "link": "https://kursmodfremtiden.dk/",
+      "email": ""
     },
     "koldpartners": {
-      "link": "https://www.koldpartners.com/"
+      "link": "https://www.koldpartners.com/",
+      "email": ""
     },
     "manpowersupport": {
-      "link": "https://www.workforcesupport.dk/"
+      "link": "https://www.workforcesupport.dk/",
+      "email": ""
     },
     "workindenmark": {
-      "link": "https://www.workindenmark.dk/"
+      "link": "https://www.workindenmark.dk/",
+      "email": ""
     },
     "senecarecruitment": {
-      "link": "https://www.senecarecruitment.com/"
+      "link": "https://www.senecarecruitment.com/",
+      "email": ""
     },
     "resourceplanet": {
-      "link": "https://resourceplanet.dk/"
+      "link": "https://resourceplanet.dk/",
+      "email": ""
     },
     "sam-int": {
-      "link": "https://sam-int.dk/"
+      "link": "https://sam-int.dk/",
+      "email": ""
     },
     "karsberg": {
-      "link": "https://karsberg.net/"
+      "link": "https://karsberg.net/",
+      "email": ""
     },
     "selectors": {
-      "link": "https://www.selectors.dk/"
+      "link": "https://www.selectors.dk/",
+      "email": ""
     },
     "temp-team": {
-      "link": "https://temp-team.dk/"
+      "link": "https://temp-team.dk/",
+      "email": ""
     },
     "gml-hr": {
-      "link": "https://gml-hr.dk/"
+      "link": "https://gml-hr.dk/",
+      "email": ""
     }
   }
 }
