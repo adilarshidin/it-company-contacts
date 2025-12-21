@@ -46,63 +46,63 @@
     },
     "jac-recruitment": {
       "link": "https://corp.jac-recruitment.jp/",
-      "email": ""
-    },
-    "frontrecruitment": {
-      "link": "https://www.frontrecruitment.co.uk/",
-      "email": ""
+      "email": "entry-info@support.jac-recruitment.jp"
     },
     "hire-ground": {
       "link": "https://hire-ground.co.uk/",
-      "email": ""
+      "email": "info@hire-ground.co.uk"
     },
     "eligo": {
       "link": "https://www.eligo.co.uk/",
-      "email": ""
+      "email": "hello@eligo.co.uk"
     },
     "focalpointrecruitment": {
       "link": "https://www.focalpointrecruitment.co.uk/",
-      "email": ""
+      "email": "cv@focalpointrecruitment.co.uk"
     },
     "therecruitmentshop": {
       "link": "https://the-legends-agency.com/",
-      "email": ""
+      "email": "enquiries@the-legends-agency.com"
     },
     "pin-point": {
       "link": "https://www.pin-point.co.uk/",
-      "email": ""
+      "email": "info@pin-point.co.uk"
     },
     "lloydrecruitment": {
       "link": "https://www.lloydrecruitment.co.uk/",
-      "email": ""
+      "email": [
+        "epsom@lloydrecruitment.co.uk",
+        "reigate@lloydrecruitment.co.uk",
+        "eastgrinstead@lloydrecruitment.co.uk"
+      ]
     },
     "teamoneuk": {
       "link": "https://www.teamoneuk.com/",
-      "email": ""
+      "email": "info@teamoneuk.com"
     },
     "e-personnelrecruitment": {
       "link": "https://e-personnelrecruitment.co.uk/",
-      "email": ""
+      "email": "info@e-personnel.co.uk"
     },
     "optimarecruitment": {
       "link": "https://www.optimarecruitment.co.uk/",
-      "email": ""
+      "email": "info@optimarecruitment.co.uk"
     },
     "tate": {
       "link": "https://www.tate.co.uk/",
-      "email": ""
+      "email": "enquiries@tate.co.uk"
     },
     "rockpoolrecruitment": {
       "link": "https://www.rockpoolrecruitment.co.uk",
-      "email": ""
+      "email": "info@rockpoolrecruitment.co.uk"
     },
     "specialist-recruit": {
       "link": "https://www.specialist-recruit.co.uk/",
-      "email": ""
+      "email": "info@specialist-recruit.com"
     },
     "strong-group": {
       "link": "https://www.strong-group.co.uk/",
-      "email": ""
+      "email": "info@strong-group.co.uk"
     },
     "cbsbutler": {
       "link": "https://www.cbsbutler.com/",
@@ -110,71 +110,81 @@
     },
     "yourrecruit": {
       "link": "https://www.yourrecruit.com/",
-      "email": ""
+      "email": "info@yourrecruit.com"
     },
     "harris-global": {
       "link": "https://harris-global.com/",
-      "email": ""
+      "email": "info@harris-global.com"
     },
     "julieroserecruitment": {
       "link": "https://julieroserecruitment.co.uk/",
-      "email": ""
+      "email": [
+        "julie@julieroserecruitment.co.uk",
+        "lucymaree@julieroserecruitment.co.uk",
+        "Sarah@julieroserecruitment.co.uk",
+        "Cieron@julieroserecruitment.co.uk"
+      ]
     },
     "temptingrecruitment": {
       "link": "https://www.temptingrecruitment.co.uk/",
-      "email": ""
+      "email": "info@temptingrecruitment.co.uk"
     },
     "impactnationwiderecruitment": {
       "link": "https://www.impactnationwiderecruitment.co.uk/",
-      "email": ""
+      "email": "sales@impactnr.co.uk"
     },
     "laykarecruitment": {
       "link": "https://www.laykarecruitment.com/",
-      "email": ""
+      "email": "info@laykarecruitment.com"
     },
     "otrsales": {
       "link": "https://otrsales.co.uk/",
-      "email": ""
+      "email": "sales@otrsales.co.uk"
     },
     "unity-recruitment": {
       "link": "https://www.unity-recruitment.co.uk/",
-      "email": ""
+      "email": "info@unity-recruitment.co.uk"
     },
     "responserecruitment": {
       "link": "https://responserecruitment.co.uk/",
-      "email": ""
+      "email": "parkroyal@responserecruitment.co.uk"
     },
     "aesn": {
       "link": "https://aesn.co.uk/",
-      "email": ""
+      "email": "info@aesn.co.uk"
     },
     "knightsbridgerecruitment": {
       "link": "https://www.knightsbridgerecruitment.com/",
-      "email": ""
+      "email": "krcv@knightsbridgerec.com"
     },
     "rmsrecruitment": {
       "link": "https://www.rmsrecruitment.com/",
-      "email": ""
+      "email": "info@rmsrecruitment.com"
     },
     "spotlightrecruitment": {
       "link": "https://www.spotlightrecruitment.com/",
-      "email": ""
+      "email": "cv@spotlightrecruitment.com"
     },
     "platform-recruitment": {
       "link": "https://www.platform-recruitment.com/",
-      "email": ""
+      "email": [
+        "UK@platform-recruitment.com",
+        "USA@platform-recruitment.com",
+        "contact@platform-recruitment.com",
+        "uk@platform-recruitment.com"
+      ]
     },
     "ashbyjenkinsrecruitment": {
       "link": "https://www.ashbyjenkinsrecruitment.co.uk/",
-      "email": ""
+      "email": "info@ashbyjenkinsrecruitment.co.uk"
     },
     "tpp": {
       "link": "https://www.tpp.co.uk/",
-      "email": ""
+      "email": "info@tpp.co.uk"
     },
     "investigo": {
       "link": "https://www.investigo.co.uk/",
-      "email": ""
+      "email": "contactus@investigo.co.uk"
     },
     "ontrakrecruitment": {
       "link": "https://www.ontrakrecruitment.co.uk/",
@@ -182,7 +192,7 @@
     },
     "evorecruit": {
       "link": "https://www.evorecruit.co.uk/",
-      "email": ""
+      "email": "lucy@evorecruit.co.uk"
     },
     "dingorecruitment": {
       "link": "https://dingorecruitment.teamtailor.com/",
@@ -190,15 +200,15 @@
     },
     "yellowcat": {
       "link": "https://www.yellowcat.london/",
-      "email": ""
+      "email": "info@yellowcat.london"
     },
     "netos": {
       "link": "https://www.netos.co.uk/",
-      "email": ""
+      "email": "cv@netos.co.uk"
     },
     "getrecruited": {
       "link": "https://www.recruited.tech/",
-      "email": ""
+      "email": "alex@recruited.tech"
     },
     "thehinggroup": {
       "link": "https://www.thehingroup.com/",
@@ -210,7 +220,7 @@
     },
     "risetechnical": {
       "link": "https://www.risetechnical.co.uk/",
-      "email": ""
+      "email": "enquiry@risetechnical.co.uk"
     },
     "planbrecruitment": {
       "link": "https://www.planbrecruitment.co.uk/",
@@ -218,39 +228,42 @@
     },
     "dobetterrecruitmentandstaffing": {
       "link": "https://www.dobetterrecruitmentandstaffing.com/",
-      "email": ""
+      "email": "info@dobetterrecruitmentandstaffing.com"
     },
     "roiresources": {
       "link": "https://roiresources.co.uk/",
-      "email": ""
+      "email": "HR@roiresources.co.uk"
     },
     "harrisonrecruitment": {
       "link": "https://www.harrisonsrecruitment.com/",
-      "email": ""
+      "email": "info@harrisonsrecruitment.com"
     },
     "daleyrecruitment": {
       "link": "https://www.daleyrecruitment.com/",
-      "email": ""
+      "email": "info@daleyrecruitment.com"
     },
     "constructrecruitment": {
       "link": "https://www.constructrecruitment.com/",
-      "email": ""
+      "email": "info@constructrecruitment.com"
     },
     "capstone-recruitment": {
       "link": "https://www.capstone-recruitment.com/",
-      "email": ""
+      "email": "info@capstone-recruitment.com"
     },
     "people-first": {
       "link": "https://www.people-first.co.uk/",
-      "email": ""
+      "email": "mail@people-first.co.uk"
     },
     "carnegieconsulting": {
       "link": "https://carnegieconsulting.co.uk/",
-      "email": ""
+      "email": "info@carnegieconsulting.co.uk"
     },
     "signaturerecruitment": {
       "link": "https://www.signaturerecruitment.co.uk/",
-      "email": ""
+      "email": [
+        "sarahw@signaturerecruitment.co.uk",
+        "info@signaturebristol.co.uk"
+      ]
     },
     "austindean": {
       "link": "https://austindean.co.uk/",
@@ -258,31 +271,31 @@
     },
     "pearrecruitment": {
       "link": "https://www.pearrecruitment.com/",
-      "email": ""
+      "email": "hello@pearrecruitment.com"
     },
     "fortusrec": {
       "link": "https://fortusrec.co.uk/",
-      "email": ""
+      "email": "info@fortusrec.co.uk"
     },
     "publicsectorrecruitment": {
       "link": "https://publicsectorrecruitment.co.uk/",
-      "email": ""
+      "email": "cvs@publicsectorrecruitment.co.uk"
     },
     "bblproperty": {
       "link": "https://www.bblproperty.co.uk/",
-      "email": ""
+      "email": "info@bblproperty.co.uk"
     },
     "mosaic-recruitment": {
       "link": "https://www.mosaic-recruitment.com/",
-      "email": ""
+      "email": "info@mosaic-recruitment.com"
     },
     "stormx": {
       "link": "https://stormx.co.uk/",
-      "email": ""
+      "email": "hello@stormx.co.uk"
     },
     "blackpointrecruitment": {
       "link": "https://www.blackpointrecruitment.co.uk/",
-      "email": ""
+      "email": "info@blackpointrecruitment.co.uk"
     },
     "madisons": {
       "link": "https://madisons.org.uk/",
@@ -290,31 +303,94 @@
     },
     "ignite-recruitment": {
       "link": "https://ignite-recruitment.co.uk/",
-      "email": ""
+      "email": "info@ignite-recruitment.co.uk"
     },
     "berryrecruitment": {
       "link": "https://www.berryrecruitment.co.uk/",
-      "email": ""
+      "email": "info@berryrecruitment.co.uk"
     },
     "romans-rg": {
       "link": "https://romans-rg.com/",
-      "email": ""
+      "email": "info@romans-rg.com"
     },
     "prs": {
       "link": "https://www.prs.uk.com/",
-      "email": ""
+      "email": [
+        "cambridge@prs.uk.com",
+        "chelmsford@prs.uk.com",
+        "ipswich@prs.uk.com",
+        "norwich@prs.uk.com"
+      ]
     },
     "the-destiny": {
       "link": "https://www.the-destiny.co.uk/",
-      "email": ""
+      "email": [
+        "recruitment@the-destiny.co.uk",
+        "info@the-destiny.co.uk"
+      ]
     },
     "fsr": {
       "link": "https://www.fsr.uk.com/",
-      "email": ""
+      "email": "admin@fsr.uk.com"
     },
     "major-recruitment": {
       "link": "https://www.major-recruitment.com/",
-      "email": ""
+      "email": [
+        "recruitment@z-a-p.co.uk",
+        "info@school-staff.co.uk",
+        "Tamworth@recruitcentral.co.uk",
+        "info@reconadvisorypartners.co.uk",
+        "info@realrecruits.co.uk",
+        "dawn@radicalresource.co.uk",
+        "info@prosperrecruitment.com",
+        "christian@myprg.co.uk",
+        "hello@principalit.co.uk",
+        "enquiry@peritum-exec.co.uk",
+        "hello@perigonassociates.co.uk",
+        "recruitment@peopletech.uk",
+        "info@pardoewray.com",
+        "hello@onepoint-recruitment.co.uk",
+        "info@nandtlifesciences.com",
+        "info@migrowth.co.uk",
+        "info@lupa-recruitment.com",
+        "coventry@lake-recruitment.co.uk",
+        "info@KandDRecruitment.co.uk",
+        "enquiries@jprecruitment.co.uk",
+        "steve@joyneshunt.co.uk",
+        "enquiries@jamesgraceassociates.co.uk",
+        "info@imperialpersonnel.co.uk",
+        "info@id-recruitment.co.uk",
+        "hello@howardit.co.uk",
+        "info@hamilton-woods.com",
+        "info@gps-recruitment.co.uk",
+        "hello@edwards-employment.co.uk",
+        "office@dna-rec-solutions.co.uk",
+        "info@blakeneypointsearch.com",
+        "hello@aquilo-recruitment.co.uk",
+        "careers@active-personnel.co.uk",
+        "wigan@major-recruitment.com",
+        "wakefield@major-recruitment.com",
+        "telford@major-recruitment.com",
+        "sunderland@major-recruitment.com",
+        "Oldham@major-recruitment.com",
+        "oldburybranch@major-recruitment.com",
+        "norwich@major-recruitment.com",
+        "Aycliffe@major-recruitment.com",
+        "livingston@major-recruitment.com",
+        "leeds@major-recruitment.com",
+        "Huddersfield@major-recruitment.com",
+        "glasgow@major-recruitment.com",
+        "Doncaster@major-recruitment.com",
+        "coventry@major-recruitment.com",
+        "midlands@major-recruitment.com",
+        "bristol@major-recruitment.com",
+        "bradford@major-recruitment.com",
+        "emmapurdon@major-recruitment.com",
+        "blackburn@major-recruitment.com",
+        "bedford@major-recruitment.com",
+        "ashford@major-recruitment.com",
+        "Aberdeen@major-recruitment.com"
+      ]
     },
     "andersonrecruitment": {
       "link": "https://www.andersonrecruitment.co.uk/",
