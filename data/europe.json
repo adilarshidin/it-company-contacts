@@ -394,11 +394,11 @@
     },
     "andersonrecruitment": {
       "link": "https://www.andersonrecruitment.co.uk/",
-      "email": ""
+      "email": "admin@andersonrecruitment.co.uk"
     },
     "elevationrecruitmentgroup": {
       "link": "https://www.elevationrecruitmentgroup.com/",
-      "email": ""
+      "email": "em@elevationrecruitment.com"
     },
     "acceptrec": {
       "link": "https://www.acceptrec.co.uk/",
@@ -406,15 +406,15 @@
     },
     "amjrecruitment": {
       "link": "https://www.amjrecruitment.co.uk/",
-      "email": ""
+      "email": "info@amjrecruitment.co.uk"
     },
     "fixedfeeplacements": {
       "link": "https://www.fixedfeeplacements.co.uk/",
-      "email": ""
+      "email": "hello@fixedfeeplacements.co.uk"
     },
     "twentyfourgroup": {
       "link": "https://twentyfourgroup.co.uk/",
-      "email": ""
+      "email": "info@twentyfourgroup.co.uk"
     },
     "larecruitment": {
       "link": "https://www.larecruitment.net/",
@@ -422,11 +422,11 @@
     },
     "connectrecruit": {
       "link": "https://www.connectrecruit.ie/",
-      "email": ""
+      "email": "info@connectrecruit.ie"
     },
     "arconrecruitment": {
       "link": "https://arconrecruitment.com/",
-      "email": ""
+      "email": "info@arconrecruitment.com"
     },
     "therecruitmentco": {
       "link": "https://therecruitmentco.uk/",
@@ -434,75 +434,90 @@
     },
     "recruitmentpartnershipireland": {
       "link": "https://recruitmentpartnershipireland.co.uk/",
-      "email": ""
+      "email": "info@recruitmentpartnershipireland.co.uk"
     },
     "nwesrecruitment": {
       "link": "https://nwesgroup.co.uk/",
-      "email": ""
+      "email": "info@nwesgroup.co.uk"
     },
     "psiglobalrecruitment": {
       "link": "https://www.psiglobalrecruitment.com/",
-      "email": ""
+      "email": "info@psi-gsr.com"
     },
     "deluxe-recruitment": {
       "link": "https://www.deluxe-recruitment.co.uk/",
-      "email": ""
+      "email": "register@deluxe-recruitment.co.uk"
     },
     "dcsrecruitment": {
       "link": "https://dcsrecruitment.com/",
-      "email": ""
+      "email": "administrator@dcsgroup.uk.com"
     },
     "imperialrecruitmentgroup": {
       "link": "https://imperialrecruitmentgroup.com/",
-      "email": ""
+      "email": "info@imperialrecruitmentgroup.com"
     },
     "citrus-connect": {
       "link": "https://www.citrus-connect.co.uk/",
-      "email": ""
+      "email": "hello@citrus-connect.co.uk"
     },
     "thhrecruitment": {
       "link": "https://thhrecruitment.co.uk/",
-      "email": ""
+      "email": "info@thhrecruitment.co.uk"
     },
     "conceptrecruitment": {
       "link": "https://conceptrecruitment.com/",
-      "email": ""
+      "email": "info@conceptrecruitment.com"
     },
     "essentialrecruitment": {
       "link": "https://www.essentialrecruitment.co.uk/",
-      "email": ""
+      "email": [
+        "barnsley@essentialrecruitment.co.uk",
+        "burton@essentialrecruitment.co.uk",
+        "chesterfield@essentialrecruitment.co.uk",
+        "doncaster@essentialrecruitment.co.uk",
+        "apply@essentialrecruitment.co.uk",
+        "ilkeston@essentialrecruitment.co.uk",
+        "j27@essentialrecruitment.co.uk",
+        "rotherham@essentialrecruitment.co.uk",
+        "worksop@essentialrecruitment.co.uk",
+        "info@essentialrecruitment.co.uk"
+      ]
     },
     "optimise-recruitment": {
       "link": "https://optimise-recruitment.co.uk/",
-      "email": ""
+      "email": "info@optimise-recruitment.co.uk"
     },
     "journeyrecruitment": {
       "link": "https://journeyrecruitment.co.uk/",
-      "email": ""
+      "email": "info@journeyrecruitment.co.uk"
     },
     "right-recruitment": {
       "link": "https://www.right-recruitment.com/",
-      "email": ""
+      "email": "info@right-recruitment.com"
     },
     "xpertrecruitmentltd": {
       "link": "https://xpertrecruitmentltd.co.uk/",
-      "email": ""
+      "email": "info@xpertrecruitmentltd.co.uk"
     },
     "i2irecruitment": {
       "link": "https://i2irecruitment.co.uk/",
-      "email": ""
+      "email": "admin@i2irecruitment.co.uk"
     },
     "precision-people": {
       "link": "https://www.precision-people.uk/",
-      "email": ""
+      "email": "hello@precision-people.uk"
     },
     "pathrecruitment": {
       "link": "https://www.pathrecruitment.com/",
-      "email": ""
+      "email": "jobs@pathrecruitment.com"
     },
     "prosperity": {
       "link": "https://www.prosperity.ie/",
-      "email": ""
+      "email": [
+        "info@prosperitydigital.es",
+        "info@prosperitydigital.fr",
+        "info@prosperity.ie"
+      ]
     },
     "ecsrecruitment": {
       "link": "https://ecsrecruitment.ie/",
@@ -510,11 +525,11 @@
     },
     "hallrecruitment": {
       "link": "https://hallrecruitment.ie/",
-      "email": ""
+      "email": "info@hallrecruitment.ie"
     },
     "prcrecruitment": {
       "link": "https://www.prcrecruitment.ie/",
-      "email": ""
+      "email": "info@prcrecruitment.ie"
     },
     "allenrec": {
       "link": "https://allenrec.com/",
@@ -522,17 +537,24 @@
     },
     "sigmarecruitment": {
       "link": "https://www.sigmarrecruitment.com/",
-      "email": ""
+      "email": "hello@sigmar.ie"
     },
     "focusedrecruitment": {
       "link": "https://focusedrecruitment.co.uk/",
-      "email": ""
+      "email": "apply@focusedrecruitment.co.uk"
     }
   },
   "netherlands": {
     "bluelynx": {
       "link": "https://bluelynx.com/",
-      "email": ""
+      "email": [
+        "thehague@bluelynx.com",
+        "amsterdam@bluelynx.com",
+        "bogota@bluelynx.com",
+        "varna@bluelynx.com",
+        "sofia@bluelynx.com",
+        "plovdiv@bluelynx.com"
+      ]
     },
     "roberthalf": {
       "link": "https://www.roberthalf.com/",
@@ -540,63 +562,70 @@
     },
     "abroad-experience": {
       "link": "https://abroad-experience.com/",
-      "email": ""
+      "email": "abroad@abroad-experience.com"
     },
     "raverecruitment": {
       "link": "https://www.ravecruitment.com/",
-      "email": ""
+      "email": "info@ravecruitment.com"
     },
     "joinrecruitment": {
       "link": "https://joinrecruitment.nl/",
-      "email": ""
+      "email": "info@joinrecruitment.nl"
     },
     "adamsrecruitment": {
       "link": "https://adamsrecruitment.com/",
-      "email": ""
+      "email": "amsterdam@adamsrecruitment.com"
     },
     "orange-quarter": {
       "link": "https://orange-quarter.com/",
-      "email": ""
+      "email": "info@orange-quarter.com"
     },
     "owlie": {
       "link": "https://www.owliejobs.com/",
-      "email": ""
+      "email": "info@owliejobs.com"
     },
     "internationalpeoplesolutions": {
       "link": "https://www.internationalpeoplesolutions.com/",
-      "email": ""
+      "email": "info@internationalpeoplesolutions.com"
     },
     "finestpeople": {
       "link": "https://finestpeople.com/",
-      "email": ""
+      "email": "info@finestpeople.nl"
     },
     "bluebirdrecruitment": {
       "link": "https://bluebirdrecruitment.com/",
-      "email": ""
+      "email": "info@bluebirdrecruitment.com"
     },
     "undutchables": {
       "link": "https://undutchables.nl/",
-      "email": ""
+      "email": [
+        "amsterdam@undutchables.nl",
+        "rotterdam@undutchables.nl",
+        "utrecht@undutchables.nl",
+        "denhaag@undutchables.nl",
+        "eindhoven@undutchables.nl",
+        "hq@undutchables.nl"
+      ]
     },
     "projobhouseofcareers": {
       "link": "https://www.projobhouseofcareers.nl/",
-      "email": ""
+      "email": "welkom@projob.nl"
     },
     "nobelrecruitment": {
-      "link": "https://careers.nobelrecruitment.com/",
-      "email": ""
+      "link": "https://www.nobelrecruitment.com/",
+      "email": "info@nobelrecruitment.com"
     },
     "robertwalters": {
       "link": "https://www.robertwalters.nl/",
-      "email": ""
+      "email": "amsterdam@robertwalters.com"
     },
     "morganrecruitmentgroup": {
       "link": "https://www.morganrecruitmentgroup.com/",
-      "email": ""
+      "email": "careers@morganrecruitmentgroup.com"
     },
     "searchxrecruitment": {
       "link": "https://searchxrecruitment.com/",
-      "email": ""
+      "email": "contact@searchxrecruitment.com"
     },
     "michaelpage": {
       "link": "https://www.michaelpage.nl/",
@@ -604,77 +633,80 @@
     },
     "nimbl-recruitment": {
       "link": "https://www.nimbl-recruitment.com/",
-      "email": ""
+      "email": [
+        "info@nimbl-recruitment.com",
+        "careers@nimbl-recruitment.com"
+      ]
     },
     "sterrk": {
       "link": "https://sterrk.nl/",
-      "email": ""
+      "email": "info@sterrk.nl"
     },
     "foresightrecruitment": {
       "link": "https://foresightrecruitment.com/",
-      "email": ""
+      "email": "hello@foresightrecruitment.com"
     },
     "cybersecuritydistrict": {
       "link": "https://www.cybersecuritydistrict.com/",
-      "email": ""
+      "email": "info@cybersecuritydistrict.com"
     },
     "eva-recruitment": {
       "link": "https://eva-recruitment.nl/",
-      "email": ""
+      "email": "info@eva-recruitment.nl"
     },
     "antennarecruitment": {
       "link": "https://antennagroep.nl/",
-      "email": ""
+      "email": "recruitment@antennagroep.nl"
     },
     "sourceselect": {
       "link": "https://www.sourceselect.nl/",
-      "email": ""
+      "email": "info@sourceselect.nl"
     },
     "ohanastone": {
       "link": "https://ohanastone.nl/",
-      "email": ""
+      "email": "info@ohanastone.nl"
     },
     "vooq": {
       "link": "https://www.vooq.nl/",
-      "email": ""
+      "email": "info@vooq.nl"
     },
     "redrecruitment": {
       "link": "https://www.redrecruitment.nl/",
-      "email": ""
+      "email": "jobs@redrecruitment.nl"
     },
     "pesrecruitment": {
       "link": "https://pesrecruitment.com/",
-      "email": ""
+      "email": "info@pesrecruitment.com"
     },
     "ieziewerkt": {
       "link": "https://ieziewerkt.nl/",
-      "email": ""
+      "email": "hello@nwg.nl"
     },
     "opusrecruitment": {
       "link": "https://opusrecruitment.nl/",
-      "email": ""
+      "email": "info@opusrecruitment.nl"
     },
     "target21": {
       "link": "https://target21.nl/",
-      "email": ""
+      "email": "info@target21.nl"
     },
     "findconnect": {
       "link": "https://findconnect.nl/",
-      "email": ""
+      "email": "info@findconnect.nl"
     },
     "seapeople": {
       "link": "https://seapeople.nl/",
-      "email": ""
+      "email": "info@seapeople.nl"
     }
   },
   "belgium": {
     "rockrecruitment": {
       "link": "https://www.rockrecruitment.be/",
-      "email": ""
+      "email": "info@rockrecruitment.be"
     },
     "pa-recruitment": {
       "link": "https://pa-recruitment.be/",
-      "email": ""
+      "email": "info@pa-recruitment.be"
     },
     "headsandhunters": {
       "link": "https://www.headsandhunters.be/",
@@ -686,43 +718,50 @@
     },
     "hospitalityjobs": {
       "link": "https://www.hospitality-jobs.eu/",
-      "email": ""
+      "email": "info@hospitality-jobs.eu"
     },
     "robertwalters": {
       "link": "https://www.robertwalters.be/",
-      "email": ""
+      "email": "brussels@robertwalters.com"
     },
     "amandis": {
       "link": "https://amandis.be/",
-      "email": ""
+      "email": "info@amandis.be"
     },
     "gentis": {
       "link": "https://www.gentis.com/",
-      "email": ""
+      "email": "hello@gentis.com"
     },
     "wearesander": {
       "link": "https://www.wearesander.com/",
-      "email": ""
+      "email": [
+        "brussels@wearesander.com",
+        "antwerp@wearesander.com",
+        "paris@wearesander.com"
+      ]
     },
     "michaelpage": {
       "link": "https://www.michaelpage.be/",
-      "email": ""
+      "email": [
+        "info@michaelpage.be",
+        "info@michaelpage.lu"
+      ]
     },
     "yourkingsley": {
       "link": "https://www.yourkingsley.com/",
-      "email": ""
+      "email": "info@yourkingsley.com"
     },
     "str8forward": {
       "link": "https://www.str8forward.be/",
-      "email": ""
+      "email": "hello@str8forward.be"
     },
-    "fixxrecruitment": {
+    "merit": {
       "link": "https://www.fixxrecruitment.be/",
-      "email": ""
+      "email": "merit@merit.be"
     },
     "farrow": {
       "link": "https://farrow.nl/",
-      "email": ""
+      "email": "info@farrow.nl"
     },
     "synergiejobs": {
       "link": "https://www.synergiejobs.be/",
@@ -730,31 +769,94 @@
     },
     "chapeau-agency": {
       "link": "https://www.chapeau-agency.be/",
-      "email": ""
+      "email": "hello@chapeau-agency.be"
     },
     "novus-recruitment": {
       "link": "https://novus-recruitment.com/",
-      "email": ""
+      "email": "info@novus-recruitment.com"
     },
     "idrecruitment": {
       "link": "https://www.idrecruitment.be/",
-      "email": ""
+      "email": "info@idrecruitment.be"
     },
     "forumjobs": {
       "link": "https://www.forumjobs.be/",
-      "email": ""
+      "email": [
+        "aalter@forumjobs.be",
+        "brussel@forumjobs.be",
+        "roeselare@forumfood.be",
+        "geel@forumjobs.be",
+        "herentals@forumjobs.be",
+        "ieper@forumjobs.be",
+        "izegem@forumjobs.be",
+        "kortrijk@forumjobs.be",
+        "merelbeke@forumjobs.be",
+        "mouscron@forumjobs.be",
+        "roeselare@forumjobs.be",
+        "gent@forumjobs.be",
+        "sint-niklaas@forumjobs.be",
+        "tieltjobs@forumjobs.be",
+        "irwest@forumjobs.be",
+        "torhout@forumjobs.be",
+        "vilvoorde@forumjobs.be",
+        "waregem@forumjobs.be",
+        "zele@forumjobs.be",
+        "iroost@forumjobs.be",
+        "office.bamt@forumjobs.be",
+        "Waregem@forumconstruct.be",
+        "herentals@forumfood.be",
+        "avelgem@forumjobs.be",
+        "mechelen@forumjobs.be",
+        "zottegem@forumjobs.be",
+        "ekeren@forumjobs.be",
+        "roeselare@forumconstruct.be",
+        "maldegem@forumjobs.be",
+        "sint-niklaas@forumconstruct.be",
+        "maldegem@forumconstruct.be",
+        "turnhout@forumjobs.be",
+        "dendermonde@forumjobs.be",
+        "ekeren@forumconstruct.be",
+        "heusden-zolder@forumjobs.be",
+        "malle@forumjobs.be",
+        "gent.office@forumjobs.be",
+        "antwerpen@forumjobs.be",
+        "genk@forumjobs.be",
+        "menen@forumjobs.be",
+        "kortrijk.office@forumjobs.be",
+        "info@forumjobs.be",
+        "recrutement@forumjobs.be",
+        "torhout@forumjobs.be",
+        "WEngage@forumjobs.be",
+        "liege@forumjobs.be",
+        "unilin.inhouse@forumjobs.be",
+        "bree@forumjobs.be",
+        "oudenaarde@forumconstruct.be",
+        "Oudenaarde@forumjobs.be",
+        "menen.office@forumjobs.be",
+        "irwaasendender@forumjobs.be",
+        "wavre@forumjobs.be",
+        "charleroi@forumjobs.be",
+        "office.WAO@forumjobs.be",
+        "nac@forumjobs.be",
+        "hoogstraten@forumjobs.be",
+        "lommel@forumjobs.be",
+        "hasselt@merit.be",
+        "Limburg@forumconstruct.be",
+        "tournai@forumjobs.be",
+        "mouscron@forumfood.be"
+      ]
     },
     "oliverbenson": {
       "link": "https://www.oliverbenson.com/",
-      "email": ""
+      "email": "info@oliverbenson.com"
     },
     "fiscaquest": {
       "link": "https://www.fiscaquest.be/",
-      "email": ""
+      "email": "info@fiscaquest.be"
     },
     "pensaert-partners": {
       "link": "https://www.pensaert-partners.com/",
-      "email": ""
+      "email": "info@pensaert-partners.com"
     },
     "go4jobs": {
       "link": "https://go4jobs.be/",
@@ -762,11 +864,11 @@
     },
     "visserrecruitment": {
       "link": "https://www.visserrecruitment.nl/",
-      "email": ""
+      "email": "info@visserrecruitment.nl"
     },
     "jenesistech": {
       "link": "https://www.jenesis.tech/",
-      "email": ""
+      "email": "info@jenesis.tech"
     },
     "approachpeople": {
       "link": "https://www.approachpeople.com/",
@@ -776,87 +878,102 @@
   "poland": {
     "eastgaterecruitment": {
       "link": "https://eastgaterecruitment.com/",
-      "email": ""
+      "email": "office@eastgaterecruitment.com"
     },
     "devsdata": {
       "link": "https://devsdata.com/",
-      "email": ""
+      "email": "general@devsdata.com"
     },
     "axosrecruitment": {
       "link": "https://axosrecruitment.com/",
-      "email": ""
+      "email": "contact@axosrecruitment.com"
     },
     "h4h": {
       "link": "https://h4h.com.pl/",
-      "email": ""
+      "email": "biuro@h4h.com.pl"
     },
     "hthrecruitment": {
       "link": "https://hthrecruitment.pl/",
-      "email": ""
+      "email": "kontakt@hthrecruitment.pl"
     },
     "nexttechnology": {
       "link": "https://nexttechnology.io/",
-      "email": ""
+      "email": "contact@nexttechnology.io"
     },
     "propertytalents": {
       "link": "https://www.propertytalents.com/",
-      "email": ""
+      "email": "contact@propertytalents.com"
     },
     "jagarecruitment": {
       "link": "https://jagarecruitment.pl/",
-      "email": ""
+      "email": "praca@jagarecruitment.pl"
     },
     "talentholo": {
       "link": "https://talentholo.com/",
-      "email": ""
+      "email": "info@talentholo.com"
     },
     "kiat": {
       "link": "https://kiat.io/",
-      "email": ""
+      "email": "info@kiat.io"
     },
     "iviewrecruitment": {
       "link": "https://iview-recruitment.com/",
-      "email": ""
+      "email": "office@iview-recruitment.com"
     },
     "goldmanrecruitment": {
       "link": "https://goldmanrecruitment.pl/",
-      "email": ""
+      "email": [
+        "krakow@goldmanrecruitment.p",
+        "warszawa@goldmanrecruitment.pl",
+        "wroclaw@goldmanrecruitment.pl"
+      ]
     },
     "wyser-search": {
       "link": "https://pl.wyser-search.com/",
-      "email": ""
+      "email": "kontakt@wyser.pl"
     },
     "remodevs": {
       "link": "https://remodevs.com/",
-      "email": ""
+      "email": [
+        "hello@remodevs.com",
+        "inbal@remodevs.com"
+      ]
     },
     "jobontime": {
       "link": "https://jobontime.pl/",
-      "email": ""
+      "email": "poczta@jobontime.pl"
     },
     "work-in": {
       "link": "https://work-in.pl/",
-      "email": ""
+      "email": "biuro@work-in.pl"
     },
     "clyderecruit": {
       "link": "https://www.clyderecruit.com/",
-      "email": ""
+      "email": [
+        "hello@clyderecruit.com",
+        "riga@clyderecruit.com",
+        "gdynia@clyderecruit.com"
+      ]
     },
     "itfs": {
       "link": "https://itfs.com/",
-      "email": ""
+      "email": [
+        "info.us@itfs.com",
+        "office.dk@itfs.com",
+        "office@itfs.com"
+      ]
     },
     "candidfuture": {
       "link": "https://candidfuture.com/",
-      "email": ""
+      "email": "hello@candidfuture.com"
     },
     "goodluckrecruitments": {
       "link": "https://goodluckrecruitments.pl/",
-      "email": ""
+      "email": "mlech@goodluckrecruitments.pl"
     },
     "aaeuro": {
       "link": "https://aaeuro.com/",
-      "email": ""
+      "email": "info@aaeuro.pl"
     }
   },
   "sweden": {
