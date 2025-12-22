@@ -979,15 +979,15 @@
   "sweden": {
     "levelrecruitment": {
       "link": "https://levelrecruitment.se/",
-      "email": ""
+      "email": "info@levelrecruitment.se"
     },
     "startuprecruitment": {
       "link": "https://startuprecruitment.se/",
-      "email": ""
+      "email": "hello@startuprecruitment.se"
     },
     "sharprecruitment": {
       "link": "https://www.sharprecruitment.se/",
-      "email": ""
+      "email": "info@sharprecruitment.se"
     },
     "emearecruitment": {
       "link": "https://www.emearecruitment.com/",
@@ -999,11 +999,11 @@
     },
     "talentbureau": {
       "link": "https://www.talentbureau.se/",
-      "email": ""
+      "email": "info@talentbureau.se"
     },
     "karisma": {
       "link": "https://karisma.se/",
-      "email": ""
+      "email": "info@karisma.se"
     },
     "agilesearch": {
       "link": "https://agilesearch.io/",
@@ -1011,7 +1011,7 @@
     },
     "financerecruitment": {
       "link": "https://www.financerecruitment.se/",
-      "email": ""
+      "email": "info@financerecruitment.se"
     },
     "michaelpage": {
       "link": "https://www.michaelpage.se/",
@@ -1019,57 +1019,95 @@
     },
     "hays": {
       "link": "https://www.hays.se/",
-      "email": ""
+      "email": [
+        "stockholm@hays.com",
+        "malmo@hays.com"
+      ]
     },
     "nigelwright": {
       "link": "https://www.nigelwright.com/",
-      "email": ""
+      "email": [
+        "angeleen.fluskey@nigelwright.com",
+        "chris.dresser@nigelwright.com",
+        "luke.collard@nigelwright.com",
+        "mick.kumar@nigelwright.com",
+        "mhairi.allan@nigelwright.com",
+        "megan.tyrrell@nigelwright.com",
+        "paul.newton@nigelwright.com",
+        "deborah.hugill@nigelwright.com"
+      ]
     },
     "nexerrecruit": {
       "link": "https://nexerrecruit.com/",
-      "email": ""
+      "email": [
+        "jenny.nilsson@nexergroup.com",
+        "patrik.jensen@nexergroup.com",
+        "artan.bitiqi@nexergroup.com"
+      ]
     },
     "ittalentturkey": {
       "link": "https://ittalentturkey.com/",
-      "email": ""
+      "email": "contact@ittalentturkey.com"
     }
   },
   "finland": {
     "levelup": {
       "link": "https://levelup.ee/en/",
-      "email": ""
+      "email": "admin@levelup.ee"
     },
     "nordgroup": {
       "link": "https://www.nordgroup.io/",
-      "email": ""
+      "email": "info@nordgroup.io"
     },
     "brandem": {
       "link": "https://brandem.ee/",
-      "email": ""
+      "email": "tere@brandem.ee"
     },
     "ittalent": {
       "link": "https://ittalent.ee/",
-      "email": ""
+      "email": "info@ittalent.ee"
     },
     "henkilostoasiantuntijat": {
       "link": "https://henkilostoasiantuntijat.fi/",
-      "email": ""
+      "email": [
+        "anu.laasanen@henkilostoasiantuntijat.fi",
+        "markus.hirsimaki@henkilostoasiantuntijat.fi",
+        "eetu.suokas@henkilostoasiantuntijat.fi",
+        "hanna-maria.sandelin@henkilostoasiantuntijat.fi",
+        "jenni.black@henkilostoasiantuntijat.fi",
+        "eveliina.ahonen@henkilostoasiantuntijat.fi",
+        "mirkka.lampinen@henkilostoasiantuntijat.fi"
+      ]
     },
     "tuocon": {
       "link": "https://tuocon.fi/",
-      "email": ""
+      "email": [
+        "harri.jaaskelainen@tuocon.fi",
+        "lauri.taalikka@tuocon.fi",
+        "linda.korpela@tuocon.fi",
+        "johanna.eskola@tuocon.fi",
+        "kati.tanninen@tuocon.fi",
+        "pauliina.sieppi@tuocon.fi",
+        "asko.johanson@tuocon.fi",
+        "maija.talvinen@tuocon.fi",
+        ""
+      ]
     },
     "bondata": {
       "link": "https://henkilostopalvelut.bondata.fi/",
-      "email": ""
+      "email": "sales@bondata.fi"
     },
     "lokki": {
       "link": "https://lokki.fi/",
-      "email": ""
+      "email": [
+        "jonina.aberg@lokki.fi",
+        "nea.polttila@lokki.fi",
+        "mette.makinen@lokki.fi"
+      ]
     },
     "patrio": {
       "link": "https://patrio.fi/",
-      "email": ""
+      "email": "info@patrio.fi"
     },
     "eezy": {
       "link": "https://eezy.fi/",
@@ -1077,7 +1115,11 @@
     },
     "agentor": {
       "link": "https://agentor.fi/",
-      "email": ""
+      "email": [
+        "alexander.nyman@agentor.fi",
+        "info@agentor.fi",
+        "hanna.koskela@agentor.fi"
+      ]
     }
   },
   "norway": {
