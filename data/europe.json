@@ -1125,75 +1125,148 @@
   "norway": {
     "rekrutteringshusetmork": {
       "link": "https://www.rekrutteringshusetmork.no/",
-      "email": ""
+      "email": [
+        "sgm@rekrutteringshusetmork.no",
+        "skm@rekrutteringshusetmork.no",
+        "seb@rekrutteringshusetmork.no"
+      ]
     },
     "hudsonnordic": {
       "link": "https://hudsonnordic.no/",
-      "email": ""
+      "email": [
+        "dk@hudsonnordic.com",
+        "no@hudsonnordic.com",
+        "se@hudsonnordic.com"
+      ]
     },
     "randstad": {
       "link": "https://www.randstad.no/",
-      "email": ""
+      "email": "info@randstad.no"
     },
     "nordicjobsworldwide" :{
       "link": "https://www.nordicjobsworldwide.com/",
-      "email": ""
+      "email": [
+        "Jobs@nordicjobsworldwide.com",
+        "vanessa@nordicjobsworldwide.com",
+        "info@worldwiders.com"
+      ]
     },
     "amby": {
       "link": "https://www.amby.com/",
-      "email": ""
+      "email": "hello@amby.com"
     },
     "norgesra": {
       "link": "https://www.norgesra.no/",
-      "email": ""
+      "email": "admin@norgesra.no"
     },
     "bjorgfjell": {
       "link": "https://bjorgfjell.no/",
-      "email": ""
+      "email": [
+        "katrine.wergeland@bjorgfjell.no",
+        "thuva.holstad@bjorgfjell.no",
+        "berit.hegg@bjorgfjell.no",
+        "hilde.vestmo@bjorgfjell.no",
+        "rina.wold@bjorgfjell.no",
+        "bgg@bjorgfjell.no",
+        "line.solheim@bjorgfjell.no",
+        "ingunn.kortvedt@bjorgfjell.no",
+        "merethe.harvik@bjorgfjell.no",
+        "elisabet.rye@bjorgfjell.no",
+        "ida.carina.andersen@bjorgfjell.no",
+        "helena.blihovde@bjorgfjell.no",
+        "sandra.molden@bjorgfjell.no",
+        "benedicte.kristiansen@bjorgfjell.no"
+      ]
     },
     "skyrekruttering": {
       "link": "https://skyrekruttering.no/",
-      "email": ""
+      "email": "hei@skyrekruttering.no"
     },
     "nordvestbemanning": {
       "link": "http://www.nordvestbemanning.no/",
-      "email": ""
+      "email": "post@nordvestbemanning.no"
     },
     "seafoodpeople": {
       "link": "https://seafoodpeople.net/",
-      "email": ""
+      "email": "info@seafoodpeople.net"
     },
     "mde-group": {
       "link": "https://www.mde-group.com/",
-      "email": ""
+      "email": [
+        "post@mde.no",
+        "denmark@mde-group.com",
+        "dubai@mde-group.com",
+        "bergen@mde-group.com",
+        "hammerfest@mde-group.com",
+        "oslo@mde-group.com",
+        "trondheim@mde-group.com",
+        "bristol@mde-group.com",
+        "aberdeen@mde-group.com",
+        "singapore@mde-group.com",
+        "malaysia@mde-group.com",
+        "mozambique@mde-group.com",
+        "recrutamento@mde-group.com",
+        "us@mde-group.com",
+        "geoje@mde-group.com",
+        "taiwan@mde-group.com",
+        "muscat@mde-group.com",
+        "Indonesia@mde-group.com",
+        "shanghai@mde-group.com"
+      ]
     },
     "karriereflyt": {
       "link": "https://www.karriereflyt.no/",
-      "email": ""
+      "email": [
+        "andrine@karriereflyt.no",
+        "athina@karriereflyt.no",
+        "ingrid@karriereflyt.no",
+        "connie@karriereflyt.no",
+        "sofie@karriereflyt.no"
+      ]
     },
     "eterni": {
       "link": "https://www.eterni.no/",
-      "email": ""
+      "email": "post@eterni.no"
     },
     "eminentpeople": {
       "link": "https://eminentpeople.no/",
-      "email": ""
-    },
-    "time2staff": {
-      "link": "https://www.time2staff.no/",
-      "email": ""
+      "email": [
+        "post@eminentpeople.no",
+        "kari.aarbakke@eminentpeople.no",
+        "tove.gnatt@eminentpeople.no",
+        "kirsten.ostgard@eminentpeople.no"
+      ]
     },
     "onoffbemanning": {
       "link": "https://www.onoffbemanning.no/",
-      "email": ""
+      "email": "anna@onoffbemanning.no "
     },
     "ascender": {
       "link": "https://www.ascender.no/",
-      "email": ""
+      "email": [
+        "ragnhild@ascender.no",
+        "mail@ascender.no",
+        "vanessa@ascender.no",
+        "selma.petterson@ascender.no",
+        "ole.hadland@ascender.no",
+        "sebastian.hatlebrekke@ascender.no",
+        "runar.teigland@ascender.no",
+        "raj.jagatia@ascender.no",
+        "natalie@ascender.no",
+        "amalie@ascender.no",
+        "even@ascender.no",
+        "robin.schurmeyer@ascender.no",
+        "einar@ascender.no",
+        "andreas@ascender.no",
+        "anine@ascender.no",
+        "per.svantesson@ascender.no",
+        "camilla@ascender.no",
+        "krlk@ascender.no"
+      ]
     },
     "skutevikenpersonell": {
       "link": "https://www.skutevikenpersonell.no/",
-      "email": ""
+      "email": "personell@skpersonell.no"
     },
     "mosaker": {
       "link": "https://mosaker.no/",
@@ -1201,67 +1274,67 @@
     },
     "bemex-rekruttering": {
       "link": "https://www.bemex-rekruttering.no/",
-      "email": ""
+      "email": "post@bemex-rekruttering.no"
     },
     "temp-team": {
       "link": "https://temp-team.no/",
-      "email": ""
+      "email": "post@temp-team.no"
     }
   },
   "germany": {
     "academicwork": {
       "link": "https://www.academicwork.de/",
-      "email": ""
+      "email": "info@academicwork.de"
     },
     "opusone.team": {
       "link": "https://opusone.team/",
-      "email": ""
+      "email": "info@opusone.team"
     },
     "k-recruiting": {
       "link": "https://k-recruiting.com/",
-      "email": ""
+      "email": "contact@k-recruiting.com"
     },
     "hrrk": {
       "link": "https://www.hrrk.de/",
-      "email": ""
+      "email": "rk@hrrk.de"
     },
     "jnprecruitment": {
       "link": "https://jnprecruitment.com/",
-      "email": ""
+      "email": "Info@jnprecruitment.com"
     },
     "g2recruitment": {
       "link": "https://www.g2recruitment.com/",
-      "email": ""
+      "email": "contact@g2recruitment.com"
     },
     "go-next": {
       "link": "https://go-next.de/",
-      "email": ""
+      "email": "benjamin.urbanek@go-next.de"
     },
     "4freelance": {
       "link": "https://4freelance.de/",
-      "email": ""
+      "email": "kontakt@4freelance.de"
     },
     "angeheuert": {
       "link": "https://angeheuert.com/",
-      "email": ""
+      "email": "hello@angeheuert.com"
     },
     "greifenberg": {
       "link": "https://greifenberg.de/",
-      "email": ""
+      "email": "dienstleistungen@greifenberg.de"
     },
     "jobactive": {
       "link": "https://www.jobactive.de/",
-      "email": ""
+      "email": "info@jobactive.de"
     }
   },
   "luxembourg": {
     "austinbright": {
       "link": "https://austinbright.lu/",
-      "email": ""
+      "email": "luxembourg@austinbright.com"
     },
     "rhlab": {
       "link": "https://www.rhlab.lu/",
-      "email": ""
+      "email": "contact@rhlab.lu"
     },
     "morganphilips": {
       "link": "https://www.morganphilips.com/",
@@ -1277,15 +1350,15 @@
     },
     "pauwelsconsulting": {
       "link": "https://www.pauwelsconsulting.com/",
-      "email": ""
+      "email": "contact@pauwelsconsulting.com"
     },
     "krrecruitment": {
       "link": "https://www.krrecruitment.com/",
-      "email": ""
+      "email": "info@krrecruitment.com"
     },
     "andersonwise": {
       "link": "https://andersonwise.com/",
-      "email": ""
+      "email": "info@andersonwise.com"
     },
     "lhh": {
       "link": "https://www.lhh.com/",
@@ -1301,7 +1374,7 @@
     },
     "ogrecruitment": {
       "link": "https://og-recruitment.com/",
-      "email": ""
+      "email": "info@og-recruitment.com"
     }
   },
   "france": {
@@ -1311,7 +1384,7 @@
     },
     "dorothydanahy": {
       "link": "https://www.dorothydanahy.com/",
-      "email": ""
+      "email": "paris@dorothydanahy.com"
     },
     "dynamis-rh": {
       "link": "http://dynamis-rh.com/",
@@ -1323,7 +1396,7 @@
     },
     "lowellpartners": {
       "link": "https://lowellpartners.com/",
-      "email": ""
+      "email": "contact@lowellpartners.com"
     },
     "apolloexecutive": {
       "link": "https://www.apolloexecutive.com/",
@@ -1331,11 +1404,11 @@
     },
     "aizenrecruitment": {
       "link": "https://aizenrecruitment.com/",
-      "email": ""
+      "email": "contact@aizenrecruitment.com"
     },
     "progressis": {
       "link": "https://www.progressis.com/",
-      "email": ""
+      "email": "progressis@progressis.com"
     },
     "winsearch": {
       "link": "https://www.winsearch.fr/",
@@ -1349,17 +1422,13 @@
       "link": "https://www.mobiskill.fr/",
       "email": ""
     },
-    "wearesander": {
-      "link": "https://www.wearesander.com/",
-      "email": ""
-    },
     "derichebourg-interim": {
       "link": "https://www.derichebourg-interim.com/",
       "email": ""
     },
     "selectrecruitment": {
       "link": "https://www.selectrecruitment.je/",
-      "email": ""
+      "email": "hello@select.je"
     }
   },
   "italy": {
@@ -1369,11 +1438,11 @@
     },
     "sidler-sa": {
       "link": "https://www.sidler-sa.ch/",
-      "email": ""
+      "email": "sidler@sidler-sa.ch"
     },
     "oktopous": {
       "link": "https://www.oktopous.it/",
-      "email": ""
+      "email": "info@oktopous.it"
     },
     "techyon": {
       "link": "https://www.techyon.it/",
@@ -1385,15 +1454,15 @@
     },
     "joboutique": {
       "link": "https://www.joboutique.it/",
-      "email": ""
+      "email": "aziende@joboutique.it"
     },
     "key2people": {
       "link": "https://key2people.com/",
-      "email": ""
+      "email": "info@key2people.com"
     },
     "adamiassociati": {
       "link": "https://www.adamiassociati.com/",
-      "email": ""
+      "email": "customerservice@adamiassociati.com"
     },
     "michaelpage": {
       "link": "https://www.michaelpage.it/",
@@ -1405,7 +1474,7 @@
     },
     "hrtalent": {
       "link": "https://www.hrtalent.it/",
-      "email": ""
+      "email": "info@hrtalent.it"
     },
     "gurujobs": {
       "link": "https://gurujobs.it/",
@@ -1413,15 +1482,15 @@
     },
     "cespim": {
       "link": "https://cespim.it/",
-      "email": ""
+      "email": "cv@cespim.it"
     },
     "adhr": {
       "link": "https://www.adhr.it/",
-      "email": ""
+      "email": "info@adhr.it"
     },
     "futuremanagerworld": {
       "link": "https://futuremanagerworld.com/",
-      "email": ""
+      "email": "contact@futuremanagerworld.com"
     }
   },
   "austria": {
