@@ -1496,41 +1496,70 @@
   "austria": {
     "impetus-personal": {
       "link": "https://www.impetus-personal.at/",
-      "email": ""
+      "email": "office@impetus-personal.at"
     },
     "zeel": {
       "link": "https://www.zeel.ag/",
-      "email": ""
+      "email": "kontakt@zeel.ag"
     },
     "siq-solution": {
       "link": "https://www.siq-solution.com/",
-      "email": ""
+      "email": "info@siq-solution.com"
     },
     "jobheld": {
       "link": "https://jobheld.io/",
-      "email": ""
+      "email": "hi@jobheld.io"
     },
     "sales-passion": {
       "link": "https://sales-passion.com/",
-      "email": ""
+      "email": "office@sales-passion.com"
     },
     "loewenkopf": {
       "link": "https://www.loewenkopf.at/",
-      "email": ""
+      "email": "office@loewenkopf.at"
     }
   },
   "spain": {
     "dhgrouplda": {
       "link": "https://dhgrouplda.com/",
-      "email": ""
+      "email": "dhgroup@dhgrouplda.com"
     },
     "robertwalters": {
       "link": "https://www.robertwalters.pt/",
-      "email": ""
+      "email": [
+        "south.africa@robertwalters.com",
+        "lisboa@robertwalters.com",
+        "berlin@robertwalters.com",
+        "sydney@robertwalters.com.au",
+        "toronto@robertwalters.com",
+        "chile@robertwalters.com",
+        "seoul@robertwalters.co.kr",
+        "contacto@robertwalters.com",
+        "austin@robertwalters.com",
+        "philippines@robertwalters.com",
+        "paris@robertwalters.com",
+        "hongkong@robertwalters.com",
+        "india@robertwalters.com",
+        "jakarta@robertwalters.com",
+        "dublin@robertwalters.com",
+        "contatti@robertwalters.com",
+        "info@robertwalters.co.jp",
+        "malaysia@robertwalters.com",
+        "shanghai@robertwalters.com",
+        "mexico@robertwalters.com",
+        "auckland@robertwalters.com",
+        "dubai@robertwalters.com",
+        "london@robertwalters.com",
+        "singapore@robertwalters.com.sg",
+        "rwzurich@robertwalters.com",
+        "bangkok@robertwalters.com",
+        "taipei@robertwalters.com",
+        "hochiminh@robertwalters.com.vn"
+      ]
     },
     "highlanderhr": {
       "link": "https://www.highlanderhr.com/",
-      "email": ""
+      "email": "info@highlanderhr.com"
     }
   },
   "czechia": {
