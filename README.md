@@ -15,7 +15,7 @@ The search queries used: `tech`.
 View the `data` directory to refer to a list corresponding to each of the countries or use the links below.
 
 - [Europe recruitment agencies](https://github.com/adilarshidin/it-company-contacts/blob/master/data/europe.json)
-- [Spain]()
+- [Spain](https://github.com/adilarshidin/it-company-contacts/blob/master/data/spain.json)
 
 ### Reminders
 
