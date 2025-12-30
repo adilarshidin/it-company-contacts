@@ -1565,23 +1565,23 @@
   "czechia": {
     "dream-job": {
       "link": "https://dream-job.cz/",
-      "email": ""
+      "email": "job@dream-job.com"
     },
     "dunrossrecruitment": {
       "link": "https://www.dunrossrecruitment.com/",
-      "email": ""
+      "email": "dunross@dunross.cz"
     },
     "hays": {
       "link": "https://www.hays.cz/",
-      "email": ""
+      "email": "prague@hays.cz"
     },
     "searchteam": {
       "link": "https://www.searchteam.eu/",
-      "email": ""
+      "email": "info@searchteam.eu"
     },
     "heatlark": {
       "link": "https://www.heatlark.com/",
-      "email": ""
+      "email": "info@heatlark.com"
     },
     "reedglobal": {
       "link": "https://www.reedglobal.cz/",
@@ -1593,117 +1593,133 @@
     },
     "nonstopconsulting": {
       "link": "https://nonstopconsulting.com/",
-      "email": ""
+      "email": "info@nonstopconsulting.com"
     },
     "andrewpaulsen": {
       "link": "https://www.andrewpaulsen.cz/",
-      "email": ""
+      "email": "info@andrewpaulsen.cz"
     },
     "acjobs": {
       "link": "https://www.acjobs.cz/",
-      "email": ""
+      "email": "info@acjobs.cz"
     },
     "jitrecruitment": {
       "link": "https://jit-recruitment.cz/",
-      "email": ""
+      "email": "nabor@jit-recruitment.cz"
     },
     "profeskontakt": {
       "link": "https://www.profeskontakt.cz/",
-      "email": ""
+      "email": "profeskontakt@profeskontakt.cz"
     },
     "alviso": {
       "link": "https://alviso.cz/",
-      "email": ""
+      "email": "info@alviso.cz"
     },
     "manpower": {
       "link": "https://www.manpower.cz/",
-      "email": ""
+      "email": "headoffice@manpower.cz"
     },
     "goodcall": {
       "link": "https://www.goodcall.eu/",
-      "email": ""
+      "email": "info@goodcall.eu"
     },
     "axial": {
       "link": "https://www.axial.cz/",
-      "email": ""
+      "email": "praha@axial.cz"
     },
     "peopleconsulting": {
       "link": "https://www.peopleconsulting.cz/",
-      "email": ""
+      "email": "CV@peopleconsulting.cz"
     },
     "agenturatriangle": {
       "link": "https://www.agenturatriangle.cz/",
-      "email": ""
+      "email": "nabor@agenturatriangle.cz"
     }
   },
   "denmark": {
     "eurojobdk": {
       "link": "https://www.eurojobdk.com/",
-      "email": ""
+      "email": "info@eurojobdk.com"
     },
     "jks": {
       "link": "https://www.jks.dk/",
-      "email": ""
+      "email": "info@jks.dk"
     },
     "moveon": {
       "link": "https://moveon.dk/",
-      "email": ""
+      "email": "info@moveon.dk"
     },
     "itoptimiser": {
       "link": "https://itoptimiser.com/",
-      "email": ""
+      "email": [
+        "anc@itoptimiser.com",
+        "jlk@itoptimiser.com",
+        "edg@itoptimiser.com",
+        "mho@itoptimiser.com"
+      ]
     },
     "selekt": {
       "link": "https://selekt.dk/",
-      "email": ""
+      "email": "info@selekt.dk"
     },
     "prorecruit": {
       "link": "https://prorecruit.dk/",
-      "email": ""
+      "email": "info@prorecruit.dk"
     },
     "compasshrg": {
       "link": "https://www.compasshrg.com/",
-      "email": ""
+      "email": [
+        "cme@compasshrg.com",
+        "pv@compasshrg.com",
+        "mw@compasshrg.com"
+      ]
     },
     "moment": {
       "link": "https://www.moment.dk/",
-      "email": ""
+      "email": "info@moment.dk"
     },
     "bloom": {
       "link": "https://bloom.dk/",
-      "email": ""
+      "email": "bloom@bloom.dk"
     },
     "humantrust": {
       "link": "https://humantrust.dk/",
-      "email": ""
+      "email": "kontakt@humantrust.dk"
     },
     "scr": {
       "link": "https://scr.dk/",
-      "email": ""
+      "email": "info@scr.dk"
     },
     "smedegaardhr": {
       "link": "https://www.smedegaardhr.dk/",
-      "email": ""
+      "email": "cs@smedegaardhr.dk"
     },
     "actief-hartmanns": {
       "link": "https://actief-hartmanns.dk/",
-      "email": ""
+      "email": "info@actief-hartmanns.dk"
     },
     "foodjobnordic": {
       "link": "https://foodjobnordic.com/",
-      "email": ""
+      "email": "info@foodjobnordic.com"
     },
     "recruit-it": {
       "link": "https://recruit-it.dk/",
-      "email": ""
+      "email": "info@recruit-it.dk"
     },
     "peakrekruttering": {
       "link": "https://www.peakrekruttering.dk/",
-      "email": ""
+      "email": [
+        "line@peakrekruttering.dk",
+        "esh@peakrekruttering.dk",
+        "dk@peakrekruttering.dk",
+        "teb@peakrekruttering.dk",
+        "Aske@peakrekruttering.dk",
+        "Mathias@peakrekruttering.dk"
+      ]
     },
     "peopleexecutive": {
       "link": "https://www.peopleexecutive.dk/",
-      "email": ""
+      "email": "people-x@people-x.dk"
     },
     "kursmodfremtiden": {
       "link": "https://kursmodfremtiden.dk/",
@@ -1711,43 +1727,52 @@
     },
     "koldpartners": {
       "link": "https://www.koldpartners.com/",
-      "email": ""
+      "email": "contact@koldpartners.com"
     },
     "manpowersupport": {
       "link": "https://www.workforcesupport.dk/",
-      "email": ""
+      "email": [
+        "tk@workforcesupport.dk",
+        "info@workforcesupport.dk"
+      ]
     },
     "workindenmark": {
       "link": "https://www.workindenmark.dk/",
-      "email": ""
+      "email": "workindenmark@workindenmark.dk"
     },
     "senecarecruitment": {
       "link": "https://www.senecarecruitment.com/",
-      "email": ""
+      "email": "seneca@senecarecruitment.com"
     },
     "resourceplanet": {
       "link": "https://resourceplanet.dk/",
-      "email": ""
+      "email": "info@resourceplanet.dk"
     },
     "sam-int": {
       "link": "https://sam-int.dk/",
-      "email": ""
+      "email": "info@sam-int.com"
     },
     "karsberg": {
       "link": "https://karsberg.net/",
-      "email": ""
+      "email": [
+        "alouise@karsberg.net",
+        "kontakt@karsberg.net",
+        "rk@karsberg.net",
+        "rasmus@karsberg.net",
+        "adn@karsberg.net"
+      ]
     },
     "selectors": {
       "link": "https://www.selectors.dk/",
-      "email": ""
+      "email": "hello@selectors.dk"
     },
     "temp-team": {
       "link": "https://temp-team.dk/",
-      "email": ""
+      "email": "info@temp-team.dk"
     },
     "gml-hr": {
       "link": "https://gml-hr.dk/",
-      "email": ""
+      "email": "info@gml-hr.dk"
     }
   }
 }
